@@ -1,0 +1,2096 @@
+{
+  "_readme": "Annual fees by Peekaboo card typeId. Peekaboo has no fee data; these are entered by hand from each bank's Schedule of Bank Charges (SOBC), which changes every January and July. annualFee is in PKR before tax; null = unknown. sourceName labels the source link; reversal is the fee waiver or reversal rule shown on its own; note is everything else. Users can override any fee in the app. annualFee is the yearly cost a typical holder pays: compulsory yearly card charges (such as JS Bank chip maintenance) are included, and a fee waived for everyone who can get the card (Premier, Priority, business-only cards) is 0, with the listed price in note.",
+  "updated": "2026-10-14",
+  "cards": {
+    "629": {
+      "name": "Cash+Shop Classic Visa Debit Card",
+      "annualFee": 3000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.abl.com/wp-content/uploads/2026/06/Schedule-of-Charges-Jul-Dec-2026-Conventional-Banking.pdf",
+      "sourceName": "ABL SOC",
+      "verified": false,
+      "reversal": null,
+      "note": "The SOC lists \"Allied Visa Debit Card - Classic\"; assumed to be this card. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "630": {
+      "name": "Visa Gold Credit Card",
+      "annualFee": 3500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.abl.com/wp-content/uploads/2026/06/Schedule-of-Charges-Jul-Dec-2026-Conventional-Banking.pdf",
+      "sourceName": "ABL SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "No joining fee. Excl. FED/ST."
+    },
+    "631": {
+      "name": "Visa Platinum Credit Card",
+      "annualFee": 7000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.abl.com/wp-content/uploads/2026/06/Schedule-of-Charges-Jul-Dec-2026-Conventional-Banking.pdf",
+      "sourceName": "ABL SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "No joining fee. Excl. FED/ST."
+    },
+    "632": {
+      "name": "Askari Platinum Credit Card",
+      "annualFee": 20500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://askaribank.com/gallery/1.pdf",
+      "sourceName": "Askari SOC",
+      "verified": true,
+      "reversal": "Half the fee is waived if you use 50% of your credit limit within 2 months of issuance or renewal.",
+      "note": "Mastercard Platinum. Effective 10 Jul 2026 (lower 1–9 Jul). Excl. FED/ST."
+    },
+    "633": {
+      "name": "Askari Corporate Credit Card",
+      "annualFee": 5500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://askaribank.com/gallery/1.pdf",
+      "sourceName": "Askari SOC",
+      "verified": true,
+      "reversal": "No fee waiver offered.",
+      "note": "Corporate deals can have their own agreed charges. Excl. FED/ST."
+    },
+    "636": {
+      "name": "Askari World Credit Card",
+      "annualFee": 25000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://askaribank.com/gallery/1.pdf",
+      "sourceName": "Askari SOC",
+      "verified": true,
+      "reversal": "No fee waiver offered.",
+      "note": "Mastercard World. Effective 10 Jul 2026 (lower 1–9 Jul). Excl. FED/ST."
+    },
+    "637": {
+      "name": "Askari Visa Classic Debit Card",
+      "annualFee": 3500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://askaribank.com/gallery/1.pdf",
+      "sourceName": "Askari SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Visa Chip Classic. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "638": {
+      "name": "Askari Visa Gold Debit Card",
+      "annualFee": 4000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://askaribank.com/gallery/1.pdf",
+      "sourceName": "Askari SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Visa Chip Gold. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "639": {
+      "name": "Askari Gold Credit Card",
+      "annualFee": 12000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://askaribank.com/gallery/1.pdf",
+      "sourceName": "Askari SOC",
+      "verified": true,
+      "reversal": "Half the fee is waived if you use 50% of your credit limit within 2 months of issuance or renewal.",
+      "note": "Mastercard Gold. Effective 10 Jul 2026 (lower 1–9 Jul). Excl. FED/ST."
+    },
+    "640": {
+      "name": "Askari Classic Credit Card",
+      "annualFee": 5500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://askaribank.com/gallery/1.pdf",
+      "sourceName": "Askari SOC",
+      "verified": true,
+      "reversal": "Half the fee is waived if you use 50% of your credit limit within 2 months of issuance or renewal.",
+      "note": "Mastercard Classic. Effective 10 Jul 2026 (lower 1–9 Jul). Excl. FED/ST."
+    },
+    "644": {
+      "name": "AL Habib Gold Debit Card",
+      "annualFee": 4500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bankalhabib.com/files/download/reports/SOC-july-dec-2026-english.pdf",
+      "sourceName": "Bank AL Habib SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Visa. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "646": {
+      "name": "AL Habib UnionPay Apna Debit Card",
+      "annualFee": 3000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bankalhabib.com/files/download/reports/SOC-july-dec-2026-english.pdf",
+      "sourceName": "Bank AL Habib SOC",
+      "verified": false,
+      "reversal": null,
+      "note": "The SOC lists one China UnionPay fee; Apna version assumed the same. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "647": {
+      "name": "AL Habib Silver Debit Card",
+      "annualFee": 3700,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bankalhabib.com/files/download/reports/SOC-july-dec-2026-english.pdf",
+      "sourceName": "Bank AL Habib SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Visa. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "648": {
+      "name": "Bank Alfalah Visa Platinum Credit Card",
+      "annualFee": 23000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/Schedule%20of%20Charges%20July%20-%20Dec%202026%20(conventional).pdf",
+      "sourceName": "Alfalah SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Excl. FED/ST."
+    },
+    "649": {
+      "name": "Bank Alfalah Visa Signature Debit Card",
+      "annualFee": 23000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/Schedule%20of%20Charges%20July%20-%20Dec%202026%20(conventional).pdf",
+      "sourceName": "Alfalah SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "656": {
+      "name": "Mastercard Platinum Debit Card",
+      "annualFee": 6000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bop.com.pk/Documents/Resource_Center/Half%20Year%20Schedule%20of%20Bank%20Charges%20English%20Version%20(Latest%20%E2%80%93%20w.e.f%2001-07-2026).pdf",
+      "sourceName": "BOP SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "658": {
+      "name": "Mastercard Silver Debit Card",
+      "annualFee": 3000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bop.com.pk/Documents/Resource_Center/Half%20Year%20Schedule%20of%20Bank%20Charges%20English%20Version%20(Latest%20%E2%80%93%20w.e.f%2001-07-2026).pdf",
+      "sourceName": "BOP SOBC",
+      "verified": false,
+      "reversal": null,
+      "note": "The SOC lists Classic Debit Master Card; Silver assumed to be Classic. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "659": {
+      "name": "Mastercard Gold Debit Card",
+      "annualFee": 4000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bop.com.pk/Documents/Resource_Center/Half%20Year%20Schedule%20of%20Bank%20Charges%20English%20Version%20(Latest%20%E2%80%93%20w.e.f%2001-07-2026).pdf",
+      "sourceName": "BOP SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "804": {
+      "name": "HBL World DebitCard",
+      "annualFee": 20000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Mastercard World. Excl. FED/ST. Assumes the listed card is this one."
+    },
+    "806": {
+      "name": "HBL Gold CreditCard",
+      "annualFee": 14000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL SOBC",
+      "verified": true,
+      "reversal": "Spend Rs 200,000 within 60 days of the statement that charges the fee, then call 111-111-425 to request it. Discretionary.",
+      "note": "Existing HBL account holders need a Direct Debit Instruction. Excl. FED/ST."
+    },
+    "807": {
+      "name": "HBL Green CreditCard",
+      "annualFee": 6500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL SOBC",
+      "verified": true,
+      "reversal": "Spend Rs 50,000 within 60 days of the statement that charges the fee, then call 111-111-425 to request it. Discretionary.",
+      "note": "Existing HBL account holders need a Direct Debit Instruction. Excl. FED/ST."
+    },
+    "809": {
+      "name": "HBL DebitCard",
+      "annualFee": 3000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL SOBC",
+      "verified": false,
+      "reversal": null,
+      "note": "Plain HBL debit card: the SOBC lists Visa Chip and Mastercard Standard, both Rs 3,000. Excl. FED/ST."
+    },
+    "811": {
+      "name": "HBL Titanium DebitCard",
+      "annualFee": 3000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Mastercard Titanium. Excl. FED/ST. Assumes the listed card is this one."
+    },
+    "813": {
+      "name": "HBL Platinum CreditCard",
+      "annualFee": 22000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL SOBC",
+      "verified": true,
+      "reversal": "Spend Rs 500,000 within 60 days of the statement that charges the fee, then call 111-111-425 to request it. Discretionary.",
+      "note": "Prestige members get 50% off the fee. Existing HBL account holders need a Direct Debit Instruction. Excl. FED/ST."
+    },
+    "814": {
+      "name": "Visa Gold Debit Card",
+      "annualFee": 4400,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.habibmetro.com/habibmetro/2026/06/SOC-Jul-to-Dec-Eng-2026-HABIBMETRO.pdf",
+      "sourceName": "HabibMetro SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "816": {
+      "name": "Visa Classic Debit Card",
+      "annualFee": 3300,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.habibmetro.com/habibmetro/2026/06/SOC-Jul-to-Dec-Eng-2026-HABIBMETRO.pdf",
+      "sourceName": "HabibMetro SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Premium/Classic tier. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "817": {
+      "name": "Visa Platinum Debit Card",
+      "annualFee": 7500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.habibmetro.com/habibmetro/2026/06/SOC-Jul-to-Dec-Eng-2026-HABIBMETRO.pdf",
+      "sourceName": "HabibMetro SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Needs a Rs 3 million average balance over the last 3 months. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "835": {
+      "name": "Visa Platinum Debit Card",
+      "annualFee": 8000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.jsbl.com/wp-content/uploads/2026/05/Schedule-of-Charges-July-to-December-2026-English.pdf",
+      "sourceName": "JS Bank SOC",
+      "verified": true,
+      "reversal": "On accounts that keep the product's required average balance, a Rs 350 retention fee is charged instead.",
+      "note": "Rs 7,000 annual fee + Rs 1,000 yearly chip maintenance fee. Rs 1,000 issuance fee. Excl. FED/ST."
+    },
+    "837": {
+      "name": "Visa Platinum Credit Card",
+      "annualFee": 16150,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.jsbl.com/wp-content/uploads/2026/05/Schedule-of-Charges-July-to-December-2026-English.pdf",
+      "sourceName": "JS Bank SOC",
+      "verified": true,
+      "reversal": "Reduced to Rs 3,100 (plus chip fee) if you spend Rs 100,000 within 1 month of card activation.",
+      "note": "Rs 15,000 annual fee + Rs 1,150 yearly chip maintenance fee. Excl. FED/ST."
+    },
+    "840": {
+      "name": "Visa Gold Debit Card",
+      "annualFee": 3500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.jsbl.com/wp-content/uploads/2026/05/Schedule-of-Charges-July-to-December-2026-English.pdf",
+      "sourceName": "JS Bank SOC",
+      "verified": true,
+      "reversal": "On accounts that keep the product's required average balance, a Rs 250 retention fee is charged instead.",
+      "note": "Rs 2,500 annual fee + Rs 1,000 yearly chip maintenance fee. Rs 1,000 issuance fee. Excl. FED/ST."
+    },
+    "841": {
+      "name": "Visa Classic Credit Card",
+      "annualFee": 6150,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.jsbl.com/wp-content/uploads/2026/05/Schedule-of-Charges-July-to-December-2026-English.pdf",
+      "sourceName": "JS Bank SOC",
+      "verified": true,
+      "reversal": "Reduced to Rs 1,200 (plus chip fee) if you spend Rs 25,000 within 1 month of card activation.",
+      "note": "Rs 5,000 annual fee + Rs 1,150 yearly chip maintenance fee. Excl. FED/ST."
+    },
+    "842": {
+      "name": "Visa Gold Credit Card",
+      "annualFee": 9650,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.jsbl.com/wp-content/uploads/2026/05/Schedule-of-Charges-July-to-December-2026-English.pdf",
+      "sourceName": "JS Bank SOC",
+      "verified": true,
+      "reversal": "Reduced to Rs 1,800 (plus chip fee) if you spend Rs 50,000 within 1 month of card activation.",
+      "note": "Rs 8,500 annual fee + Rs 1,150 yearly chip maintenance fee. Excl. FED/ST."
+    },
+    "859": {
+      "name": "Visa Gold Debit Card",
+      "annualFee": 4500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.mcb.com.pk/assets/documents/SOBC-July-December-2026-English.pdf",
+      "sourceName": "MCB SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "860": {
+      "name": "Visa Silver Debit Card",
+      "annualFee": 3300,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.mcb.com.pk/assets/documents/SOBC-July-December-2026-English.pdf",
+      "sourceName": "MCB SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "861": {
+      "name": "Visa Gold Credit Card",
+      "annualFee": 14000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.mcb.com.pk/assets/documents/SOBC-July-December-2026-English.pdf",
+      "sourceName": "MCB SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Excl. FED/ST."
+    },
+    "862": {
+      "name": "Visa Platinum Debit Card",
+      "annualFee": 14000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.mcb.com.pk/assets/documents/SOBC-July-December-2026-English.pdf",
+      "sourceName": "MCB SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "863": {
+      "name": "Visa Platinum Credit Card",
+      "annualFee": 22000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.mcb.com.pk/assets/documents/SOBC-July-December-2026-English.pdf",
+      "sourceName": "MCB SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Excl. FED/ST."
+    },
+    "866": {
+      "name": "Titanium Mastercard Debit Card",
+      "annualFee": 5000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.meezanbank.com/wp-content/themes/mbl/downloads/home-downloads/SOC-ENG-Jul-Dec-2026.pdf",
+      "sourceName": "Meezan SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Charged only on activated cards. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "867": {
+      "name": "Platinum Visa Debit Card",
+      "annualFee": 10000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.meezanbank.com/wp-content/themes/mbl/downloads/home-downloads/SOC-ENG-Jul-Dec-2026.pdf",
+      "sourceName": "Meezan SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Charged only on activated cards. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "868": {
+      "name": "Classic Visa Debit Card",
+      "annualFee": 3500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.meezanbank.com/wp-content/themes/mbl/downloads/home-downloads/SOC-ENG-Jul-Dec-2026.pdf",
+      "sourceName": "Meezan SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Charged only on activated cards. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "869": {
+      "name": "Gold Visa Debit Card",
+      "annualFee": 4500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.meezanbank.com/wp-content/themes/mbl/downloads/home-downloads/SOC-ENG-Jul-Dec-2026.pdf",
+      "sourceName": "Meezan SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Charged only on activated cards. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "937": {
+      "name": "Mastercard Gold Debit Card",
+      "annualFee": 5000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://soneri-bank.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2026/05/29135907/SBL-Conventional-SOC-July-to-Dec-2026-Final.pdf",
+      "sourceName": "Soneri SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Excl. FED/ST."
+    },
+    "938": {
+      "name": "Mastercard Standard Debit Card",
+      "annualFee": 4000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://soneri-bank.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2026/05/29135907/SBL-Conventional-SOC-July-to-Dec-2026-Final.pdf",
+      "sourceName": "Soneri SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Excl. FED/ST."
+    },
+    "939": {
+      "name": "Visa Priority Debit Card",
+      "annualFee": 0,
+      "effective": "Jul–Dec 2026",
+      "source": "https://av.sc.com/pk/content/docs/pk-conventional-schedule-of-charges-english-h2-2026.pdf",
+      "sourceName": "StanChart SOC",
+      "verified": false,
+      "reversal": null,
+      "note": "Mastercard/Visa Priority Platinum: listed at Rs 9,000, but the annual fee is waived for qualified Priority clients, the only clients who get it."
+    },
+    "942": {
+      "name": "Mastercard Easy Credit Card",
+      "annualFee": 9000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://av.sc.com/pk/content/docs/pk-conventional-schedule-of-charges-english-h2-2026.pdf",
+      "sourceName": "StanChart SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Flat fee. Excl. FED/ST."
+    },
+    "944": {
+      "name": "Saadiq Visa Platinum Debit Card",
+      "annualFee": 4500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://av.sc.com/pk/content/docs/pk-saadiq-schedule-of-charges-english-h2-2026.pdf",
+      "sourceName": "StanChart Saadiq SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Saadiq Mastercard Titanium/Visa Platinum debit. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "951": {
+      "name": "Mastercard Titanium Credit Card",
+      "annualFee": 14500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://av.sc.com/pk/content/docs/pk-conventional-schedule-of-charges-english-h2-2026.pdf",
+      "sourceName": "StanChart SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Excl. FED/ST."
+    },
+    "957": {
+      "name": "Mastercard Corporate Credit Card",
+      "annualFee": 0,
+      "effective": "Jul–Dec 2026",
+      "source": "https://av.sc.com/pk/content/docs/pk-conventional-schedule-of-charges-english-h2-2026.pdf",
+      "sourceName": "StanChart SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Annual fee waived per the SOC."
+    },
+    "959": {
+      "name": "Visa Debit Card",
+      "annualFee": 3500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://av.sc.com/pk/content/docs/pk-conventional-schedule-of-charges-english-h2-2026.pdf",
+      "sourceName": "StanChart SOC",
+      "verified": false,
+      "reversal": null,
+      "note": "The SOC lists \"Classic Debit Card\"; assumed to be this card. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "970": {
+      "name": "Mastercard CashBack Credit Card",
+      "annualFee": 13500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://av.sc.com/pk/content/docs/pk-conventional-schedule-of-charges-english-h2-2026.pdf",
+      "sourceName": "StanChart SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Excl. FED/ST."
+    },
+    "1008": {
+      "name": "UBL Visa Platinum Credit Card",
+      "annualFee": 22000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+      "sourceName": "UBL SOC",
+      "verified": true,
+      "reversal": "No fee waiver in the SOC.",
+      "note": "Charged in advance, not refunded on closure. Excl. FED/ST."
+    },
+    "1011": {
+      "name": "Mastercard Signature Debit Card",
+      "annualFee": 25000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+      "sourceName": "UBL SOC",
+      "verified": false,
+      "reversal": "Free while you meet the Signature Priority Banking criteria.",
+      "note": "The SOC lists \"UBL Signature Master\"; assumed to be this card. Same amount charged at issuance. Charged in advance, not refunded on closure. Excl. FED/ST."
+    },
+    "1015": {
+      "name": "UBL Visa Gold Credit Card",
+      "annualFee": 12000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+      "sourceName": "UBL SOC",
+      "verified": true,
+      "reversal": "No fee waiver in the SOC.",
+      "note": "Charged in advance, not refunded on closure. Excl. FED/ST."
+    },
+    "1017": {
+      "name": "UBL Mastercard Premium Debit Card",
+      "annualFee": 2900,
+      "effective": "Jul–Dec 2026",
+      "source": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+      "sourceName": "UBL SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Charged in advance, not refunded on closure. Excl. FED/ST."
+    },
+    "1021": {
+      "name": "UBL Visa Classic Credit Card",
+      "annualFee": 6000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+      "sourceName": "UBL SOC",
+      "verified": true,
+      "reversal": "No fee waiver in the SOC.",
+      "note": "Charged in advance, not refunded on closure. Excl. FED/ST."
+    },
+    "1046": {
+      "name": "UnionPay Gold Debit Card",
+      "annualFee": 4000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.albaraka.com.pk/uploads/Schedule-of-Charges-(July-Dece-2026)-English.pdf",
+      "sourceName": "Al Baraka SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Free issuance. Excl. FED/ST."
+    },
+    "1047": {
+      "name": "UnionPay Silver Debit Card",
+      "annualFee": 2800,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.albaraka.com.pk/uploads/Schedule-of-Charges-(July-Dece-2026)-English.pdf",
+      "sourceName": "Al Baraka SOC",
+      "verified": false,
+      "reversal": null,
+      "note": "The SOC lists UnionPay Classic; Silver assumed to be Classic. Free issuance. Excl. FED/ST."
+    },
+    "1419": {
+      "name": "Platinum Mastercard Debit Card",
+      "annualFee": 0,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.meezanbank.com/wp-content/themes/mbl/downloads/home-downloads/SOC-ENG-Jul-Dec-2026.pdf",
+      "sourceName": "Meezan SOC",
+      "verified": false,
+      "reversal": "Rs 800 a month if you lose Premium status.",
+      "note": "Only for Meezan Premium customers; no annual fee is listed while you qualify."
+    },
+    "1478": {
+      "name": "Kids Club Visa Debit Card - Boys",
+      "annualFee": 1250,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.meezanbank.com/wp-content/themes/mbl/downloads/home-downloads/SOC-ENG-Jul-Dec-2026.pdf",
+      "sourceName": "Meezan SOC",
+      "verified": false,
+      "reversal": null,
+      "note": "The SOC lists \"Kids & Teens Visa\"; assumed to be this card. Charged only on activated cards. Free issuance. Excl. FED/ST."
+    },
+    "1504": {
+      "name": "PayPak Debit Card",
+      "annualFee": 2500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.meezanbank.com/wp-content/themes/mbl/downloads/home-downloads/SOC-ENG-Jul-Dec-2026.pdf",
+      "sourceName": "Meezan SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Charged only on activated cards. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1543": {
+      "name": "UBL Mastercard WIZ Virtual Prepaid Card",
+      "annualFee": 0,
+      "effective": "Jul–Dec 2026",
+      "source": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+      "sourceName": "UBL SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "No annual fee; Rs 600 issuance fee."
+    },
+    "1548": {
+      "name": "Cash+Shop Sapphire Visa Debit Card",
+      "annualFee": 3200,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.abl.com/wp-content/uploads/2026/06/Schedule-of-Charges-Jul-Dec-2026-Conventional-Banking.pdf",
+      "sourceName": "ABL SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same tier as UPI & PayPak Gold. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1549": {
+      "name": "Cash+Shop Sapphire 200 Visa Debit Card",
+      "annualFee": 6000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.abl.com/wp-content/uploads/2026/06/Schedule-of-Charges-Jul-Dec-2026-Conventional-Banking.pdf",
+      "sourceName": "ABL SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same tier as the Platinum debit card. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1551": {
+      "name": "Classic UPI & PayPak Debit Card",
+      "annualFee": 2900,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.abl.com/wp-content/uploads/2026/06/Schedule-of-Charges-Jul-Dec-2026-Conventional-Banking.pdf",
+      "sourceName": "ABL SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1564": {
+      "name": "Bank Alfalah Premier Visa Platinum Credit Card",
+      "annualFee": 0,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/Schedule%20of%20Charges%20July%20-%20Dec%202026%20(conventional).pdf",
+      "sourceName": "Alfalah SOC",
+      "verified": true,
+      "reversal": "Rs 5,750 + FED a quarter if you stop meeting the Premier balance criteria (for example Rs 3 million in a current account).",
+      "note": "Only for Bank Alfalah Premier customers; no annual fee while you qualify."
+    },
+    "1565": {
+      "name": "Bank Alfalah Premier Visa Signature Debit Card",
+      "annualFee": 0,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/Schedule%20of%20Charges%20July%20-%20Dec%202026%20(conventional).pdf",
+      "sourceName": "Alfalah SOC",
+      "verified": true,
+      "reversal": "Rs 5,750 + FED a quarter if you stop meeting the Premier balance criteria (for example Rs 3 million in a current account).",
+      "note": "Only for Bank Alfalah Premier customers; no annual fee while you qualify."
+    },
+    "1581": {
+      "name": "HBL Gold DebitCard",
+      "annualFee": 3800,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Mastercard Gold. Excl. FED/ST. Assumes the listed card is this one."
+    },
+    "1583": {
+      "name": "Mastercard Gold Debit Card",
+      "annualFee": 5000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.albaraka.com.pk/uploads/Schedule-of-Charges-(July-Dece-2026)-English.pdf",
+      "sourceName": "Al Baraka SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Free issuance. Excl. FED/ST."
+    },
+    "1584": {
+      "name": "Mastercard Silver Debit Card",
+      "annualFee": 3500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.albaraka.com.pk/uploads/Schedule-of-Charges-(July-Dece-2026)-English.pdf",
+      "sourceName": "Al Baraka SOC",
+      "verified": false,
+      "reversal": null,
+      "note": "The SOC lists Mastercard Classic; Silver assumed to be Classic. Free issuance. Excl. FED/ST."
+    },
+    "1586": {
+      "name": "Private Banking Visa Signature Credit Card",
+      "annualFee": 21150,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.jsbl.com/wp-content/uploads/2026/05/Schedule-of-Charges-July-to-December-2026-English.pdf",
+      "sourceName": "JS Bank SOC",
+      "verified": true,
+      "reversal": "Reduced to Rs 7,700 (plus chip fee) if you spend Rs 150,000 within 1 month of card activation.",
+      "note": "Rs 20,000 annual fee + Rs 1,150 yearly chip maintenance fee. Excl. FED/ST."
+    },
+    "1600": {
+      "name": "Visa Premium Debit Card",
+      "annualFee": 19500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.abl.com/wp-content/uploads/2026/06/Schedule-of-Charges-Jul-Dec-2026-Conventional-Banking.pdf",
+      "sourceName": "ABL SOC",
+      "verified": true,
+      "reversal": "Plus Rs 3,000 a month if the Rs 3 million monthly average savings balance is not kept.",
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1639": {
+      "name": "Classic Mastercard Debit Card",
+      "annualFee": 3500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.meezanbank.com/wp-content/themes/mbl/downloads/home-downloads/SOC-ENG-Jul-Dec-2026.pdf",
+      "sourceName": "Meezan SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Charged only on activated cards. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1660": {
+      "name": "Askari PayPak Gold Debit Card",
+      "annualFee": 2750,
+      "effective": "Jul–Dec 2026",
+      "source": "https://askaribank.com/gallery/1.pdf",
+      "sourceName": "Askari SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1661": {
+      "name": "Askari PayPak Classic Debit Card",
+      "annualFee": 2000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://askaribank.com/gallery/1.pdf",
+      "sourceName": "Askari SOC",
+      "verified": false,
+      "reversal": null,
+      "note": "The SOC lists PayPak Silver and Gold; Classic assumed to be Silver. Excl. FED/ST."
+    },
+    "1667": {
+      "name": "Bank Alfalah Visa Islamic Signature Debit Card",
+      "annualFee": 23000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/SOC%20Islamic%20English%20(Black%20Text)%20(Jul-Dec%202026)%2029-05-26%20copy.pdf",
+      "sourceName": "Alfalah Islamic SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1671": {
+      "name": "Visa Classic Credit Card",
+      "annualFee": 7000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.mcb.com.pk/assets/documents/SOBC-July-December-2026-English.pdf",
+      "sourceName": "MCB SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Excl. FED/ST."
+    },
+    "1679": {
+      "name": "Mastercard Gold Debit Card",
+      "annualFee": 3500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.jsbl.com/wp-content/uploads/2026/05/Schedule-of-Charges-July-to-December-2026-English.pdf",
+      "sourceName": "JS Bank SOC",
+      "verified": true,
+      "reversal": "On accounts that keep the product's required average balance, a Rs 250 retention fee is charged instead.",
+      "note": "Rs 2,500 annual fee + Rs 1,000 yearly chip maintenance fee. Rs 1,000 issuance fee. Excl. FED/ST."
+    },
+    "1680": {
+      "name": "Mastercard Platinum Debit Card",
+      "annualFee": 8000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.jsbl.com/wp-content/uploads/2026/05/Schedule-of-Charges-July-to-December-2026-English.pdf",
+      "sourceName": "JS Bank SOC",
+      "verified": true,
+      "reversal": "On accounts that keep the product's required average balance, a Rs 350 retention fee is charged instead.",
+      "note": "Rs 7,000 annual fee + Rs 1,000 yearly chip maintenance fee. Rs 1,000 issuance fee. Excl. FED/ST."
+    },
+    "1681": {
+      "name": "Mastercard Titanium Debit Card",
+      "annualFee": 4500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.jsbl.com/wp-content/uploads/2026/05/Schedule-of-Charges-July-to-December-2026-English.pdf",
+      "sourceName": "JS Bank SOC",
+      "verified": true,
+      "reversal": "On accounts that keep the product's required average balance, a Rs 300 retention fee is charged instead.",
+      "note": "Rs 3,500 annual fee + Rs 1,000 yearly chip maintenance fee. Rs 1,000 issuance fee. Excl. FED/ST."
+    },
+    "1682": {
+      "name": "AL Habib UnionPay Debit Card",
+      "annualFee": 3000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bankalhabib.com/files/download/reports/SOC-july-dec-2026-english.pdf",
+      "sourceName": "Bank AL Habib SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "China UnionPay. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1683": {
+      "name": "AL Habib Classic Credit Card",
+      "annualFee": 5600,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bankalhabib.com/files/download/reports/SOC-july-dec-2026-english.pdf",
+      "sourceName": "Bank AL Habib SOC",
+      "verified": false,
+      "reversal": "Reduced to Rs 560 if you spend Rs 100,000 within 60 days; fully reversed if you spend Rs 150,000 within 90 days.",
+      "note": "The SOC lists a Green card, not Classic; assumed to be this card. FED is not reversed. Excl. FED/ST."
+    },
+    "1684": {
+      "name": "AL Habib Gold Credit Card",
+      "annualFee": 8000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bankalhabib.com/files/download/reports/SOC-july-dec-2026-english.pdf",
+      "sourceName": "Bank AL Habib SOC",
+      "verified": true,
+      "reversal": "Reduced to Rs 800 if you spend Rs 150,000 within 60 days; fully reversed if you spend Rs 200,000 within 90 days.",
+      "note": "FED is not reversed. Excl. FED/ST."
+    },
+    "1698": {
+      "name": "UPI & Paypak myWallet Debit Card",
+      "annualFee": 350,
+      "effective": "Jul–Sep 2026",
+      "source": "https://www.abl.com/wp-content/uploads/2026/07/BB-SOC-July-September-2026_05-06.pdf",
+      "sourceName": "ABL branchless SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "myABL Wallet co-badged debit card, from the branchless banking SOC. Excl. FED/ST."
+    },
+    "1701": {
+      "name": "AL Habib PayPak Debit Card",
+      "annualFee": 2750,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bankalhabib.com/files/download/reports/SOC-july-dec-2026-english.pdf",
+      "sourceName": "Bank AL Habib SOC",
+      "verified": true,
+      "reversal": "Free on AL Habib Current, Current Plus and Apna Individual accounts with a Rs 25,000 monthly average balance (Rs 5,000 for Remit accounts).",
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1704": {
+      "name": "UnionPay Gold Debit Card",
+      "annualFee": 3600,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bankmakramah.com/wp-content/uploads/2026/06/BML-SOC-Conventional-English-Form-.pdf",
+      "sourceName": "Bank Makramah SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Needs a Rs 100,000 initial deposit. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1705": {
+      "name": "UnionPay Classic Debit Card",
+      "annualFee": 2500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bankmakramah.com/wp-content/uploads/2026/06/BML-SOC-Conventional-English-Form-.pdf",
+      "sourceName": "Bank Makramah SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Needs a Rs 5,000 initial deposit. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1717": {
+      "name": "Faysal Islami Mastercard Classic Debit Card",
+      "annualFee": 2300,
+      "effective": "Jul–Dec 2026",
+      "source": null,
+      "sourceName": "Faysal SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Charged only on activated cards, from 1 year after issuance. Excl. FED/ST."
+    },
+    "1718": {
+      "name": "Faysal Islami Mastercard Gold Debit Card",
+      "annualFee": 3300,
+      "effective": "Jul–Dec 2026",
+      "source": null,
+      "sourceName": "Faysal SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Charged only on activated cards, from 1 year after issuance. Excl. FED/ST."
+    },
+    "1721": {
+      "name": "UBL Pay Pak Debit Card",
+      "annualFee": 2000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+      "sourceName": "UBL SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Charged in advance, not refunded on closure. Excl. FED/ST."
+    },
+    "1722": {
+      "name": "UBL Union Pay Debit Card",
+      "annualFee": 2300,
+      "effective": "Jul–Dec 2026",
+      "source": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+      "sourceName": "UBL SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Charged in advance, not refunded on closure. Excl. FED/ST."
+    },
+    "1727": {
+      "name": "PayPak Debit Card",
+      "annualFee": 3000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://soneri-bank.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2026/05/29135907/SBL-Conventional-SOC-July-to-Dec-2026-Final.pdf",
+      "sourceName": "Soneri SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Excl. FED/ST."
+    },
+    "1728": {
+      "name": "AL Habib Platinum Debit Card",
+      "annualFee": 10000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bankalhabib.com/files/download/reports/SOC-july-dec-2026-english.pdf",
+      "sourceName": "Bank AL Habib SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Visa. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1729": {
+      "name": "HBL World Elite DebitCard",
+      "annualFee": 0,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL SOBC",
+      "verified": true,
+      "reversal": "Rs 8,000 a quarter membership fee if you stop meeting the Prestige criteria.",
+      "note": "Only for HBL Prestige clients; issuance and annual fee free."
+    },
+    "1733": {
+      "name": "Visa Platinum Debit Card",
+      "annualFee": 6000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.abl.com/wp-content/uploads/2026/06/Schedule-of-Charges-Jul-Dec-2026-Conventional-Banking.pdf",
+      "sourceName": "ABL SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1734": {
+      "name": "PayPak Debit Card",
+      "annualFee": 2000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bop.com.pk/Documents/Resource_Center/Half%20Year%20Schedule%20of%20Bank%20Charges%20English%20Version%20(Latest%20%E2%80%93%20w.e.f%2001-07-2026).pdf",
+      "sourceName": "BOP SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1735": {
+      "name": "UBL Ameen PayPak Debit Card",
+      "annualFee": 2000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+      "sourceName": "UBL SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Charged in advance, not refunded on closure. Excl. FED/ST."
+    },
+    "1736": {
+      "name": "UBL Ameen Premium Debit Mastercard",
+      "annualFee": 2900,
+      "effective": "Jul–Dec 2026",
+      "source": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+      "sourceName": "UBL SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Charged in advance, not refunded on closure. Excl. FED/ST."
+    },
+    "1739": {
+      "name": "Bank Alfalah Mastercard Optimus Credit Card",
+      "annualFee": 17000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/Schedule%20of%20Charges%20July%20-%20Dec%202026%20(conventional).pdf",
+      "sourceName": "Alfalah SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Excl. FED/ST."
+    },
+    "1740": {
+      "name": "Mastercard World Debit Card",
+      "annualFee": 27500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.meezanbank.com/wp-content/themes/mbl/downloads/home-downloads/SOC-ENG-Jul-Dec-2026.pdf",
+      "sourceName": "Meezan SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Charged only on activated cards. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1741": {
+      "name": "PayPak Classic Debit Card",
+      "annualFee": 2200,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.mcb.com.pk/assets/documents/SOBC-July-December-2026-English.pdf",
+      "sourceName": "MCB SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1743": {
+      "name": "Visa Signature Credit Card",
+      "annualFee": 30000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+      "sourceName": "UBL SOC",
+      "verified": false,
+      "reversal": "No fee waiver in the SOC.",
+      "note": "Silkbank is now part of UBL; the UBL SOC lists this as \"Visa Signature (ex-Silkbank)\". Charged in advance, not refunded on closure. Excl. FED/ST."
+    },
+    "1744": {
+      "name": "KHAAS Platinum Mastercard Debit Card",
+      "annualFee": 7000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bop.com.pk/Documents/Resource_Center/Half%20Year%20Schedule%20of%20Bank%20Charges%20English%20Version%20(Latest%20%E2%80%93%20w.e.f%2001-07-2026).pdf",
+      "sourceName": "BOP SOBC",
+      "verified": true,
+      "reversal": "Free for BOP Priority customers; charged again if you are marked ex-priority.",
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1748": {
+      "name": "Visa Fun Club Debit Card",
+      "annualFee": 1000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.mcb.com.pk/assets/documents/SOBC-July-December-2026-English.pdf",
+      "sourceName": "MCB SOBC",
+      "verified": true,
+      "reversal": "Free on MCB Fun Club current accounts with an average balance of Rs 50,000 in the month before the fee is due.",
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1752": {
+      "name": "PayPak Gold Debit Card",
+      "annualFee": 2500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.mcb.com.pk/assets/documents/SOBC-July-December-2026-English.pdf",
+      "sourceName": "MCB SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1810": {
+      "name": "Faysal Islami Noor Velocity Card",
+      "annualFee": 6500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.faysalbank.com/assets/documents/Noor-Card-KFS-EN-Jul-Dec-2026.pdf",
+      "sourceName": "Faysal Noor KFS",
+      "verified": true,
+      "reversal": "Reduced to Rs 600 if you spend Rs 20,000 within 60 days.",
+      "note": "Charged only after card activation. The first statement after activation includes the full fee; the reduction is credited after the 60 days."
+    },
+    "1811": {
+      "name": "Faysal Islami Noor Gold  Card",
+      "annualFee": 11000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.faysalbank.com/assets/documents/Noor-Card-KFS-EN-Jul-Dec-2026.pdf",
+      "sourceName": "Faysal Noor KFS",
+      "verified": true,
+      "reversal": "Reduced to Rs 900 if you spend Rs 30,000 within 60 days.",
+      "note": "Charged only after card activation. The first statement after activation includes the full fee; the reduction is credited after the 60 days."
+    },
+    "1812": {
+      "name": "Faysal Islami Noor Titanium  Card",
+      "annualFee": 13000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.faysalbank.com/assets/documents/Noor-Card-KFS-EN-Jul-Dec-2026.pdf",
+      "sourceName": "Faysal Noor KFS",
+      "verified": true,
+      "reversal": "Reduced to Rs 1,100 if you spend Rs 40,000 within 60 days.",
+      "note": "Charged only after card activation. The first statement after activation includes the full fee; the reduction is credited after the 60 days."
+    },
+    "1813": {
+      "name": "Faysal Islami Noor Platinum  Card",
+      "annualFee": 19000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.faysalbank.com/assets/documents/Noor-Card-KFS-EN-Jul-Dec-2026.pdf",
+      "sourceName": "Faysal Noor KFS",
+      "verified": true,
+      "reversal": "Reduced to Rs 2,100 if you spend Rs 200,000 within 60 days.",
+      "note": "Charged only after card activation. The first statement after activation includes the full fee; the reduction is credited after the 60 days."
+    },
+    "1814": {
+      "name": "Faysal Islami Noor World  Card",
+      "annualFee": 26000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.faysalbank.com/assets/documents/Noor-Card-KFS-EN-Jul-Dec-2026.pdf",
+      "sourceName": "Faysal Noor KFS",
+      "verified": true,
+      "reversal": "Reduced to Rs 2,500 if you spend Rs 400,000 within 60 days.",
+      "note": "Charged only after card activation. The first statement after activation includes the full fee; the reduction is credited after the 60 days."
+    },
+    "1816": {
+      "name": "Gold UPI & PayPak Debit Card",
+      "annualFee": 3200,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.abl.com/wp-content/uploads/2026/06/Schedule-of-Charges-Jul-Dec-2026-Conventional-Banking.pdf",
+      "sourceName": "ABL SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1817": {
+      "name": "Classic Plus UPI & PayPak Debit Card",
+      "annualFee": 2900,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.abl.com/wp-content/uploads/2026/06/Schedule-of-Charges-Jul-Dec-2026-Conventional-Banking.pdf",
+      "sourceName": "ABL SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1819": {
+      "name": "Mastercard Platinum Credit Card",
+      "annualFee": 20000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://av.sc.com/pk/content/docs/pk-conventional-schedule-of-charges-english-h2-2026.pdf",
+      "sourceName": "StanChart SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Excl. FED/ST."
+    },
+    "1820": {
+      "name": "Mastercard World Debit Card",
+      "annualFee": 18000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.jsbl.com/wp-content/uploads/2026/05/Schedule-of-Charges-July-to-December-2026-English.pdf",
+      "sourceName": "JS Bank SOC",
+      "verified": true,
+      "reversal": "On accounts that keep the product's required average balance, a Rs 400 retention fee is charged instead.",
+      "note": "Rs 17,000 annual fee + Rs 1,000 yearly chip maintenance fee. Rs 1,000 issuance fee. Excl. FED/ST."
+    },
+    "1833": {
+      "name": "Lahore Qalandar's Mastercard Debit Card",
+      "annualFee": 3500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bop.com.pk/Documents/Resource_Center/Half%20Year%20Schedule%20of%20Bank%20Charges%20English%20Version%20(Latest%20%E2%80%93%20w.e.f%2001-07-2026).pdf",
+      "sourceName": "BOP SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1834": {
+      "name": "Mastercard Gold Credit Card",
+      "annualFee": 6250,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bop.com.pk/Documents/Resource_Center/Half%20Year%20Schedule%20of%20Bank%20Charges%20English%20Version%20(Latest%20%E2%80%93%20w.e.f%2001-07-2026).pdf",
+      "sourceName": "BOP SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Excl. FED/ST."
+    },
+    "1835": {
+      "name": "Mastercard Platinum Credit Card",
+      "annualFee": 15625,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bop.com.pk/Documents/Resource_Center/Half%20Year%20Schedule%20of%20Bank%20Charges%20English%20Version%20(Latest%20%E2%80%93%20w.e.f%2001-07-2026).pdf",
+      "sourceName": "BOP SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Excl. FED/ST."
+    },
+    "1836": {
+      "name": "Faysal Islami Priority Platinum Debit Card",
+      "annualFee": 0,
+      "effective": "Jul–Dec 2026",
+      "source": null,
+      "sourceName": "Faysal SOC",
+      "verified": false,
+      "reversal": "Rs 7,000 is charged and the card downgraded if you stop meeting the deposit criteria.",
+      "note": "The SOC lists Mastercard Platinum (Rs 7,000), charged only when the deposit criteria are not met; assumed to be this card. Charged only on activated cards, from 1 year after issuance. Excl. FED/ST."
+    },
+    "1837": {
+      "name": "Mastercard World Credit Card",
+      "annualFee": 25000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bop.com.pk/Documents/Resource_Center/Half%20Year%20Schedule%20of%20Bank%20Charges%20English%20Version%20(Latest%20%E2%80%93%20w.e.f%2001-07-2026).pdf",
+      "sourceName": "BOP SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Excl. FED/ST."
+    },
+    "1838": {
+      "name": "Mastercard Women Naaz Debit Card",
+      "annualFee": 2700,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bop.com.pk/Documents/Resource_Center/Half%20Year%20Schedule%20of%20Bank%20Charges%20English%20Version%20(Latest%20%E2%80%93%20w.e.f%2001-07-2026).pdf",
+      "sourceName": "BOP SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "BOP Naaz Debit Card. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1840": {
+      "name": "HBL Islamic World DebitCard",
+      "annualFee": 20000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Islamic_Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL Islamic SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Mastercard World. Excl. FED/ST."
+    },
+    "1841": {
+      "name": "HBL Islamic Classic DebitCard",
+      "annualFee": 3000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Islamic_Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL Islamic SOBC",
+      "verified": false,
+      "reversal": null,
+      "note": "Plain Islamic debit card: the SOBC lists Visa Chip and Mastercard Standard, both Rs 3,000. Excl. FED/ST."
+    },
+    "1842": {
+      "name": "HBL Islamic Titanium DebitCard",
+      "annualFee": 3000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Islamic_Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL Islamic SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Mastercard Titanium. Excl. FED/ST."
+    },
+    "1843": {
+      "name": "HBL Islamic World Elite DebitCard",
+      "annualFee": 0,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Islamic_Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL Islamic SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Only for HBL Islamic Prestige clients; issuance and annual fee free."
+    },
+    "1844": {
+      "name": "HBL Islamic Gold DebitCard",
+      "annualFee": 3800,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Islamic_Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL Islamic SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Mastercard Gold. Excl. FED/ST."
+    },
+    "1845": {
+      "name": "UBL Urooj Visa Debit Card",
+      "annualFee": 2900,
+      "effective": "Jul–Dec 2026",
+      "source": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+      "sourceName": "UBL SOC",
+      "verified": true,
+      "reversal": "Waived on some current accounts (for example Urooj, Freelancer, Mukammal) with a year-to-date average balance of Rs 25,000 or more.",
+      "note": "Same amount charged at issuance. Charged in advance, not refunded on closure. Excl. FED/ST."
+    },
+    "1846": {
+      "name": "Bank Alfalah American Express Gold Credit Card",
+      "annualFee": 13500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/Schedule%20of%20Charges%20July%20-%20Dec%202026%20(conventional).pdf",
+      "sourceName": "Alfalah SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Excl. FED/ST."
+    },
+    "1847": {
+      "name": "UBL Ameen VISA Premium Debit Card",
+      "annualFee": 2900,
+      "effective": "Jul–Dec 2026",
+      "source": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+      "sourceName": "UBL SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Charged in advance, not refunded on closure. Excl. FED/ST."
+    },
+    "1848": {
+      "name": "UBL VISA Premium Debit Card",
+      "annualFee": 2900,
+      "effective": "Jul–Dec 2026",
+      "source": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+      "sourceName": "UBL SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Charged in advance, not refunded on closure. Excl. FED/ST."
+    },
+    "1849": {
+      "name": "Visa Infinite Debit Card",
+      "annualFee": 45000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.meezanbank.com/wp-content/themes/mbl/downloads/home-downloads/SOC-ENG-Jul-Dec-2026.pdf",
+      "sourceName": "Meezan SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Charged only on activated cards. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1852": {
+      "name": "Visa Ladies Debit Card",
+      "annualFee": 3300,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.habibmetro.com/habibmetro/2026/06/SOC-Jul-to-Dec-Eng-2026-HABIBMETRO.pdf",
+      "sourceName": "HabibMetro SOC",
+      "verified": true,
+      "reversal": "Free in the first year.",
+      "note": "Excl. FED/ST."
+    },
+    "1857": {
+      "name": "UnionPay PayPak Basic Debit Card",
+      "annualFee": 2200,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.abl.com/wp-content/uploads/2026/06/Schedule-of-Charges-Jul-Dec-2026-Conventional-Banking.pdf",
+      "sourceName": "ABL SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1860": {
+      "name": "Amal Mastercard Gold Debit Card",
+      "annualFee": 3300,
+      "effective": "Jul–Dec 2026",
+      "source": null,
+      "sourceName": "Faysal SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Mastercard Amal Gold. Charged only on activated cards, from 1 year after issuance. Excl. FED/ST."
+    },
+    "1861": {
+      "name": "Amal Mastercard Platinum Debit Card",
+      "annualFee": 7000,
+      "effective": "Jul–Dec 2026",
+      "source": null,
+      "sourceName": "Faysal SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Mastercard Amal Platinum. Charged only on activated cards, from 1 year after issuance. Excl. FED/ST."
+    },
+    "1862": {
+      "name": "Mastercard World Credit Card",
+      "annualFee": 26000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://av.sc.com/pk/content/docs/pk-conventional-schedule-of-charges-english-h2-2026.pdf",
+      "sourceName": "StanChart SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Excl. FED/ST."
+    },
+    "1863": {
+      "name": "Bank Alfalah Islamic Premier Visa Signature Debit Card",
+      "annualFee": 0,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/SOC%20Islamic%20English%20(Black%20Text)%20(Jul-Dec%202026)%2029-05-26%20copy.pdf",
+      "sourceName": "Alfalah Islamic SOC",
+      "verified": true,
+      "reversal": "Rs 5,750 + FED a quarter if you stop meeting the Premier balance criteria.",
+      "note": "Only for Bank Alfalah Islamic Premier customers; no annual fee while you qualify."
+    },
+    "1864": {
+      "name": "Bank Alfalah Islamic Power Pack Signature Debit Card",
+      "annualFee": 23000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/SOC%20Islamic%20English%20(Black%20Text)%20(Jul-Dec%202026)%2029-05-26%20copy.pdf",
+      "sourceName": "Alfalah Islamic SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1866": {
+      "name": "Mastercard Platinum Credit Card",
+      "annualFee": 18000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+      "sourceName": "UBL SOC",
+      "verified": false,
+      "reversal": "No fee waiver in the SOC.",
+      "note": "Silkbank is now part of UBL; the UBL SOC lists this as \"Mastercard Platinum (ex-Silkbank)\". Charged in advance, not refunded on closure. Excl. FED/ST."
+    },
+    "1867": {
+      "name": "Mastercard Gold Credit Card",
+      "annualFee": 8000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+      "sourceName": "UBL SOC",
+      "verified": false,
+      "reversal": "No fee waiver in the SOC.",
+      "note": "Silkbank is now part of UBL; the UBL SOC lists this as \"Mastercard Gold (ex-Silkbank)\". Charged in advance, not refunded on closure. Excl. FED/ST."
+    },
+    "1868": {
+      "name": "Mastercard Titanium Credit Card",
+      "annualFee": 14000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+      "sourceName": "UBL SOC",
+      "verified": false,
+      "reversal": "No fee waiver in the SOC.",
+      "note": "Silkbank is now part of UBL; the UBL SOC lists this as \"Mastercard Titanium (ex-Silkbank)\". Charged in advance, not refunded on closure. Excl. FED/ST."
+    },
+    "1872": {
+      "name": "Visa Women First Debit Card",
+      "annualFee": 3500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.meezanbank.com/wp-content/themes/mbl/downloads/home-downloads/SOC-ENG-Jul-Dec-2026.pdf",
+      "sourceName": "Meezan SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Charged only on activated cards. Issuance Rs 500. Excl. FED/ST."
+    },
+    "1873": {
+      "name": "UBL Visa Infinite Debit Card",
+      "annualFee": 45000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+      "sourceName": "UBL SOC",
+      "verified": true,
+      "reversal": "Free while you meet the Signature Priority Banking criteria.",
+      "note": "Same amount charged at issuance. Charged in advance, not refunded on closure. Excl. FED/ST."
+    },
+    "1874": {
+      "name": "UnionPay Platinum Debit Card",
+      "annualFee": 12000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.mcbislamicbank.com/Documents/MCB-ISLAMIC-SOBC-July-Dec-2026.pdf",
+      "sourceName": "MCB Islamic SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Needs a Rs 1 million balance. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1875": {
+      "name": "PayPak Classic Debit Card",
+      "annualFee": 3000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.mcbislamicbank.com/Documents/MCB-ISLAMIC-SOBC-July-Dec-2026.pdf",
+      "sourceName": "MCB Islamic SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1876": {
+      "name": "UnionPay Qadar Gold Debit Card",
+      "annualFee": 4300,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.mcbislamicbank.com/Documents/MCB-ISLAMIC-SOBC-July-Dec-2026.pdf",
+      "sourceName": "MCB Islamic SOBC",
+      "verified": false,
+      "reversal": null,
+      "note": "The SOC lists UnionPay Gold; Qadar version assumed the same. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1877": {
+      "name": "UnionPay Qadar Classic Debit Card",
+      "annualFee": 3400,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.mcbislamicbank.com/Documents/MCB-ISLAMIC-SOBC-July-Dec-2026.pdf",
+      "sourceName": "MCB Islamic SOBC",
+      "verified": false,
+      "reversal": null,
+      "note": "The SOC lists UnionPay Classic; Qadar version assumed the same. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1878": {
+      "name": "Faysal Islami Priority World Debit Card",
+      "annualFee": 0,
+      "effective": "Jul–Dec 2026",
+      "source": null,
+      "sourceName": "Faysal SOC",
+      "verified": false,
+      "reversal": "Rs 17,000 is charged and the card downgraded if you stop meeting the deposit criteria.",
+      "note": "The SOC lists Mastercard World (Rs 17,000), charged only when the deposit criteria are not met; assumed to be this card. Charged only on activated cards, from 1 year after issuance. Excl. FED/ST."
+    },
+    "1879": {
+      "name": "Visa Signature Debit Card",
+      "annualFee": 48000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.mcb.com.pk/assets/documents/SOBC-July-December-2026-English.pdf",
+      "sourceName": "MCB SOBC",
+      "verified": true,
+      "reversal": "Free with a quarterly average deposit relationship of Rs 2 million in current accounts or Rs 5 million in total deposits.",
+      "note": "Charged Rs 12,000 a quarter. Excl. FED/ST."
+    },
+    "1880": {
+      "name": "Mastercard World Debit Card",
+      "annualFee": 20000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bop.com.pk/Documents/Resource_Center/Half%20Year%20Schedule%20of%20Bank%20Charges%20English%20Version%20(Latest%20%E2%80%93%20w.e.f%2001-07-2026).pdf",
+      "sourceName": "BOP SOBC",
+      "verified": true,
+      "reversal": "Rs 9,000 (current account) or Rs 12,000 (savings account) for KHAAS/Priority customers.",
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1884": {
+      "name": "Nayab Visa Debit Card",
+      "annualFee": 4500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.mcb.com.pk/assets/documents/SOBC-July-December-2026-English.pdf",
+      "sourceName": "MCB SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Charged at the Visa Gold Plus price. Excl. FED/ST."
+    },
+    "1886": {
+      "name": "Mastercard Classic Debit Card",
+      "annualFee": 3200,
+      "effective": "Jul–Dec 2026",
+      "source": "https://bankislami.com.pk/wp-content/uploads/2026/05/Schedule-of-Charges-July-December-2026-English.pdf",
+      "sourceName": "BankIslami SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1887": {
+      "name": "Mastercard Titanium Debit Card",
+      "annualFee": 5000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://bankislami.com.pk/wp-content/uploads/2026/05/Schedule-of-Charges-July-December-2026-English.pdf",
+      "sourceName": "BankIslami SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1888": {
+      "name": "PayPak Debit Card",
+      "annualFee": 2200,
+      "effective": "Jul–Dec 2026",
+      "source": "https://bankislami.com.pk/wp-content/uploads/2026/05/Schedule-of-Charges-July-December-2026-English.pdf",
+      "sourceName": "BankIslami SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1889": {
+      "name": "AL Habib Signature Debit Card",
+      "annualFee": 23000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bankalhabib.com/files/download/reports/SOC-july-dec-2026-english.pdf",
+      "sourceName": "Bank AL Habib SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Visa. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1893": {
+      "name": "Lahore Qalandars Gold Credit Card",
+      "annualFee": 6250,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bop.com.pk/Documents/Resource_Center/Half%20Year%20Schedule%20of%20Bank%20Charges%20English%20Version%20(Latest%20%E2%80%93%20w.e.f%2001-07-2026).pdf",
+      "sourceName": "BOP SOBC",
+      "verified": false,
+      "reversal": null,
+      "note": "The SOC lists \"Lahore Qalandar Business Credit Card\" at Rs 6,250 (the Gold price); assumed to be this card. Excl. FED/ST."
+    },
+    "1895": {
+      "name": "UBL Visa Freelancer Debit Card",
+      "annualFee": 2900,
+      "effective": "Jul–Dec 2026",
+      "source": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+      "sourceName": "UBL SOC",
+      "verified": true,
+      "reversal": "Waived on some current accounts (for example Urooj, Freelancer, Mukammal) with a year-to-date average balance of Rs 25,000 or more.",
+      "note": "Same amount charged at issuance. Charged in advance, not refunded on closure. Excl. FED/ST."
+    },
+    "1896": {
+      "name": "PayPak Debit Card",
+      "annualFee": 2500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.albaraka.com.pk/uploads/Schedule-of-Charges-(July-Dece-2026)-English.pdf",
+      "sourceName": "Al Baraka SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Free issuance. Excl. FED/ST."
+    },
+    "1897": {
+      "name": "Mastercard Platinum Debit Card",
+      "annualFee": 12000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.albaraka.com.pk/uploads/Schedule-of-Charges-(July-Dece-2026)-English.pdf",
+      "sourceName": "Al Baraka SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Free issuance. Excl. FED/ST."
+    },
+    "1904": {
+      "name": "UBL Visa Premium Plus Debit Card",
+      "annualFee": 3500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+      "sourceName": "UBL SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Charged in advance, not refunded on closure. Excl. FED/ST."
+    },
+    "1907": {
+      "name": "Visa Student Debit Card",
+      "annualFee": 0,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.meezanbank.com/wp-content/themes/mbl/downloads/home-downloads/SOC-ENG-Jul-Dec-2026.pdf",
+      "sourceName": "Meezan SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "No issuance or annual fee."
+    },
+    "1909": {
+      "name": "Askari Visa Platinum Debit Card",
+      "annualFee": 8000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://askaribank.com/gallery/1.pdf",
+      "sourceName": "Askari SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Visa Chip Platinum. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1910": {
+      "name": "AL Habib Digital Visa Silver Debit Card",
+      "annualFee": 3700,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bankalhabib.com/files/download/reports/SOC-july-dec-2026-english.pdf",
+      "sourceName": "Bank AL Habib SOC",
+      "verified": false,
+      "reversal": null,
+      "note": "The SOC lists Visa Silver; Digital version assumed the same. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1911": {
+      "name": "AL Habib Digital Gold Debit Card",
+      "annualFee": 4500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bankalhabib.com/files/download/reports/SOC-july-dec-2026-english.pdf",
+      "sourceName": "Bank AL Habib SOC",
+      "verified": false,
+      "reversal": null,
+      "note": "The SOC lists Visa Gold; Digital version assumed the same. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1914": {
+      "name": "Kids Club Visa Debit Card - Girls",
+      "annualFee": 1250,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.meezanbank.com/wp-content/themes/mbl/downloads/home-downloads/SOC-ENG-Jul-Dec-2026.pdf",
+      "sourceName": "Meezan SOC",
+      "verified": false,
+      "reversal": null,
+      "note": "The SOC lists \"Kids & Teens Visa\"; assumed to be this card. Charged only on activated cards. Free issuance. Excl. FED/ST."
+    },
+    "1923": {
+      "name": "Bank Alfalah Islamic Women Power Pack Visa Debit Card",
+      "annualFee": 23000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/SOC%20Islamic%20English%20(Black%20Text)%20(Jul-Dec%202026)%2029-05-26%20copy.pdf",
+      "sourceName": "Alfalah Islamic SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Islamic Power Pack Women Debit Card. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1924": {
+      "name": "HBL World Business DebitCard",
+      "annualFee": 11000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Mastercard Business World. Listed at Rs 22,000; business customers pay 50%. Issuance fee waived. Excl. FED/ST."
+    },
+    "1925": {
+      "name": "HBL Classic Business DebitCard",
+      "annualFee": 0,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Mastercard Business Classic. Listed at Rs 8,000, but the SOBC waives the issuance and annual fee in full for business customers."
+    },
+    "1926": {
+      "name": "HBL Islamic World Business DebitCard",
+      "annualFee": 11000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Islamic_Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL Islamic SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Mastercard Business World. Listed at Rs 22,000; business customers pay 50%. Issuance fee waived. Excl. FED/ST."
+    },
+    "1927": {
+      "name": "HBL Islamic Classic Business DebitCard",
+      "annualFee": 0,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Islamic_Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL Islamic SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Mastercard Business Classic. Listed at Rs 8,000, but the SOBC waives the issuance and annual fee in full for business customers."
+    },
+    "1928": {
+      "name": "Askari Visa Signature Debit Card",
+      "annualFee": 22000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://askaribank.com/gallery/1.pdf",
+      "sourceName": "Askari SOC",
+      "verified": true,
+      "reversal": "Free for Priority Banking customers. If downgraded, Rs 5,500 + FED a quarter until you qualify again.",
+      "note": "Visa Chip Signature. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1929": {
+      "name": "Bank Alfalah Visa Islamic Classic Debit Card",
+      "annualFee": 3800,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/SOC%20Islamic%20English%20(Black%20Text)%20(Jul-Dec%202026)%2029-05-26%20copy.pdf",
+      "sourceName": "Alfalah Islamic SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1930": {
+      "name": "Bank Alfalah PayPak Islamic Classic Debit Card",
+      "annualFee": 3000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/SOC%20Islamic%20English%20(Black%20Text)%20(Jul-Dec%202026)%2029-05-26%20copy.pdf",
+      "sourceName": "Alfalah Islamic SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1931": {
+      "name": "Bank Alfalah Visa Islamic Gold Debit Card",
+      "annualFee": 5500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/SOC%20Islamic%20English%20(Black%20Text)%20(Jul-Dec%202026)%2029-05-26%20copy.pdf",
+      "sourceName": "Alfalah Islamic SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1932": {
+      "name": "Bank Alfalah Islamic Women Visa Gold Debit Card",
+      "annualFee": 5500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/SOC%20Islamic%20English%20(Black%20Text)%20(Jul-Dec%202026)%2029-05-26%20copy.pdf",
+      "sourceName": "Alfalah Islamic SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Islamic Gold Women Debit Card. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1934": {
+      "name": "Bank Alfalah Visa Classic Credit Card",
+      "annualFee": 7000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/Schedule%20of%20Charges%20July%20-%20Dec%202026%20(conventional).pdf",
+      "sourceName": "Alfalah SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Excl. FED/ST."
+    },
+    "1935": {
+      "name": "Bank Alfalah Visa Corporate Credit Card",
+      "annualFee": 6000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/Schedule%20of%20Charges%20July%20-%20Dec%202026%20(conventional).pdf",
+      "sourceName": "Alfalah SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Corporate/SME credit card. No issuance or renewal fee. Excl. FED/ST."
+    },
+    "1936": {
+      "name": "Bank Alfalah Visa Gold Credit Card",
+      "annualFee": 14000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/Schedule%20of%20Charges%20July%20-%20Dec%202026%20(conventional).pdf",
+      "sourceName": "Alfalah SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Excl. FED/ST."
+    },
+    "1937": {
+      "name": "Bank Alfalah Ultra Visa Credit Card",
+      "annualFee": 11000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/Schedule%20of%20Charges%20July%20-%20Dec%202026%20(conventional).pdf",
+      "sourceName": "Alfalah SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Visa Ultra Cash Back. Rs 11,000 issuance fee as well. Excl. FED/ST."
+    },
+    "1938": {
+      "name": "Bank Alfalah Pehchaan Visa Debit Card",
+      "annualFee": 5500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/Schedule%20of%20Charges%20July%20-%20Dec%202026%20(conventional).pdf",
+      "sourceName": "Alfalah SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1939": {
+      "name": "Bank Alfalah Visa Classic Debit Card",
+      "annualFee": 3800,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/Schedule%20of%20Charges%20July%20-%20Dec%202026%20(conventional).pdf",
+      "sourceName": "Alfalah SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1940": {
+      "name": "Bank Alfalah Visa Gold Debit Card",
+      "annualFee": 5500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/Schedule%20of%20Charges%20July%20-%20Dec%202026%20(conventional).pdf",
+      "sourceName": "Alfalah SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1941": {
+      "name": "Bank Alfalah Visa Platinum Debit Card",
+      "annualFee": 11000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/Schedule%20of%20Charges%20July%20-%20Dec%202026%20(conventional).pdf",
+      "sourceName": "Alfalah SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1942": {
+      "name": "Bank Alfalah PayPak Classic Debit Card",
+      "annualFee": 3000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://prodbaf.blob.core.windows.net/data/Schedule%20of%20Charges%20July%20-%20Dec%202026%20(conventional).pdf",
+      "sourceName": "Alfalah SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "The SOC lists PayPak Debit and UnionPay PayPak Co-badged Classic, both Rs 3,000. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1943": {
+      "name": "Visa Gold Debit Card",
+      "annualFee": 4500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.mcbislamicbank.com/Documents/MCB-ISLAMIC-SOBC-July-Dec-2026.pdf",
+      "sourceName": "MCB Islamic SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1944": {
+      "name": "Visa Classic Debit Card",
+      "annualFee": 3500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.mcbislamicbank.com/Documents/MCB-ISLAMIC-SOBC-July-Dec-2026.pdf",
+      "sourceName": "MCB Islamic SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1945": {
+      "name": "Visa Niswan Debit Card",
+      "annualFee": 4000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.mcbislamicbank.com/Documents/MCB-ISLAMIC-SOBC-July-Dec-2026.pdf",
+      "sourceName": "MCB Islamic SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1946": {
+      "name": "Visa Platinum Debit Card",
+      "annualFee": 6000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.mcbislamicbank.com/Documents/MCB-ISLAMIC-SOBC-July-Dec-2026.pdf",
+      "sourceName": "MCB Islamic SOBC",
+      "verified": true,
+      "reversal": "Free while you keep a Rs 3 million balance (needed to get the card).",
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1948": {
+      "name": "Visa Junior Club Debit Card",
+      "annualFee": 2700,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.mcbislamicbank.com/Documents/MCB-ISLAMIC-SOBC-July-Dec-2026.pdf",
+      "sourceName": "MCB Islamic SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1950": {
+      "name": "Visa Infinite Debit Card",
+      "annualFee": 0,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.abl.com/wp-content/uploads/2026/06/Schedule-of-Charges-Jul-Dec-2026-Conventional-Banking.pdf",
+      "sourceName": "ABL SOC",
+      "verified": true,
+      "reversal": "Rs 8,000 a month if the monthly average balance (Rs 5 million current or Rs 10 million savings) is not kept.",
+      "note": "No issuance or annual fee while the balance is kept."
+    },
+    "1952": {
+      "name": "Nexgen Habib University PayPak Debit Card",
+      "annualFee": 2500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.albaraka.com.pk/uploads/Schedule-of-Charges-(July-Dece-2026)-English.pdf",
+      "sourceName": "Al Baraka SOC",
+      "verified": false,
+      "reversal": null,
+      "note": "The SOC lists \"NexGen Banking PayPak Debit Card\"; same fee assumed for this version. Free issuance. Excl. FED/ST."
+    },
+    "1953": {
+      "name": "Nexgen Student PayPak Debit Card",
+      "annualFee": 2500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.albaraka.com.pk/uploads/Schedule-of-Charges-(July-Dece-2026)-English.pdf",
+      "sourceName": "Al Baraka SOC",
+      "verified": false,
+      "reversal": null,
+      "note": "The SOC lists \"NexGen Banking PayPak Debit Card\"; same fee assumed for this version. Free issuance. Excl. FED/ST."
+    },
+    "1954": {
+      "name": "Nexgen IVS PayPak Debit Card",
+      "annualFee": 2500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.albaraka.com.pk/uploads/Schedule-of-Charges-(July-Dece-2026)-English.pdf",
+      "sourceName": "Al Baraka SOC",
+      "verified": false,
+      "reversal": null,
+      "note": "The SOC lists \"NexGen Banking PayPak Debit Card\"; same fee assumed for this version. Free issuance. Excl. FED/ST."
+    },
+    "1955": {
+      "name": "Nexgen Riphah University PayPak Debit Card",
+      "annualFee": 2500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.albaraka.com.pk/uploads/Schedule-of-Charges-(July-Dece-2026)-English.pdf",
+      "sourceName": "Al Baraka SOC",
+      "verified": false,
+      "reversal": null,
+      "note": "The SOC lists \"NexGen Banking PayPak Debit Card\"; same fee assumed for this version. Free issuance. Excl. FED/ST."
+    },
+    "1956": {
+      "name": "Mastercard Her Titanium Debit Card",
+      "annualFee": 4500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.jsbl.com/wp-content/uploads/2026/05/Schedule-of-Charges-July-to-December-2026-English.pdf",
+      "sourceName": "JS Bank SOC",
+      "verified": false,
+      "reversal": "Free (including chip fee) on a JS HER Current Account with a Rs 50,000 average balance.",
+      "note": "Priced as the Titanium debit card: Rs 3,500 + Rs 1,000 chip maintenance. Excl. FED/ST."
+    },
+    "1958": {
+      "name": "Khanum Classic Plus UPI & PayPak Debit Card",
+      "annualFee": 2900,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.abl.com/wp-content/uploads/2026/06/Schedule-of-Charges-Jul-Dec-2026-Conventional-Banking.pdf",
+      "sourceName": "ABL SOC",
+      "verified": false,
+      "reversal": null,
+      "note": "Allied Khanum (women's) account version of UPI & PayPak Classic Plus; same fee assumed. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1959": {
+      "name": "Visa Signature Business Card",
+      "annualFee": 16000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.habibmetro.com/habibmetro/2026/06/SOC-Jul-to-Dec-Eng-2026-HABIBMETRO.pdf",
+      "sourceName": "HabibMetro SOC",
+      "verified": false,
+      "reversal": null,
+      "note": "The SOC lists \"Business Debit Card\"; assumed to be this card. Same amount charged at issuance. Excl. FED/ST."
+    },
+    "1973": {
+      "name": "HBL UPI & PayPak Co-Badge DebitCard",
+      "annualFee": 2700,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL SOBC",
+      "verified": false,
+      "reversal": null,
+      "note": "UnionPay & PayPak Co-Badge. Name match assumed. Excl. FED/ST."
+    },
+    "1974": {
+      "name": "HBL Islamic UPI & PayPak Co-Badge DebitCard",
+      "annualFee": 2700,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Islamic_Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL Islamic SOBC",
+      "verified": false,
+      "reversal": null,
+      "note": "UnionPay & PayPak Co-Badge. Name match assumed. Excl. FED/ST."
+    },
+    "1975": {
+      "name": "HBL UnionPay Gold DebitCard",
+      "annualFee": 3500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL SOBC",
+      "verified": false,
+      "reversal": null,
+      "note": "UnionPay Chip Gold. Name match assumed. Excl. FED/ST."
+    },
+    "1976": {
+      "name": "HBL UnionPay Classic DebitCard",
+      "annualFee": 2700,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL SOBC",
+      "verified": false,
+      "reversal": null,
+      "note": "UnionPay Chip. Name match assumed. Excl. FED/ST."
+    },
+    "1977": {
+      "name": "HBL Islamic UnionPay Classic DebitCard",
+      "annualFee": 2700,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Islamic_Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL Islamic SOBC",
+      "verified": false,
+      "reversal": null,
+      "note": "UnionPay Chip. Name match assumed. Excl. FED/ST."
+    },
+    "1978": {
+      "name": "HBL Islamic UnionPay Gold DebitCard",
+      "annualFee": 3500,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Islamic_Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL Islamic SOBC",
+      "verified": false,
+      "reversal": null,
+      "note": "UnionPay Chip Gold. Name match assumed. Excl. FED/ST."
+    },
+    "1980": {
+      "name": "Faysal Islami Co-Badged Mastercard Paypak Debit Card",
+      "annualFee": 2300,
+      "effective": "Jul–Dec 2026",
+      "source": null,
+      "sourceName": "Faysal SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Mastercard PayPak CoBadge. Charged only on activated cards, from 1 year after issuance. Excl. FED/ST."
+    },
+    "1981": {
+      "name": "Faysal Islami Paypak Debit Card",
+      "annualFee": 2300,
+      "effective": "Jul–Dec 2026",
+      "source": null,
+      "sourceName": "Faysal SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Charged only on activated cards, from 1 year after issuance. Excl. FED/ST."
+    },
+    "1982": {
+      "name": "AL Habib Platinum Credit Card",
+      "annualFee": 20000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.bankalhabib.com/files/download/reports/SOC-july-dec-2026-english.pdf",
+      "sourceName": "Bank AL Habib SOC",
+      "verified": true,
+      "reversal": "Reduced to Rs 2,000 if you spend Rs 200,000 within 60 days; fully reversed if you spend Rs 250,000 within 90 days.",
+      "note": "FED is not reversed. Excl. FED/ST."
+    },
+    "1983": {
+      "name": "HBL Paypak DebitCard",
+      "annualFee": 2000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL SOBC",
+      "verified": false,
+      "reversal": null,
+      "note": "PayPak Chip. Name match assumed. Excl. FED/ST."
+    },
+    "1984": {
+      "name": "HBL Islamic Paypak DebitCard",
+      "annualFee": 2000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://www.hbl.com/assets/documents/Islamic_Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+      "sourceName": "HBL Islamic SOBC",
+      "verified": false,
+      "reversal": null,
+      "note": "PayPak Chip. Name match assumed. Excl. FED/ST."
+    },
+    "1990": {
+      "name": "Faysal Islami Paypak Unionpay Co-Badged Debit Card",
+      "annualFee": 2300,
+      "effective": "Jul–Dec 2026",
+      "source": null,
+      "sourceName": "Faysal SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "UnionPay PayPak Cobadge. Charged only on activated cards, from 1 year after issuance. Excl. FED/ST."
+    },
+    "1994": {
+      "name": "PayPak Edge Co-badge Debit Card",
+      "annualFee": 5000,
+      "effective": "Jul–Dec 2026",
+      "source": "https://nbp.com.pk/Rates-Charges/Schedule-of-Bank-Charges-Jul-to-Dec-2026.pdf",
+      "sourceName": "NBP SOBC",
+      "verified": true,
+      "reversal": null,
+      "note": "Mastercard co-badge PayPak Edge. Rs 800 issuance fee. Excl. FED/ST."
+    },
+    "1996": {
+      "name": "Paypak Standard Debit Card",
+      "annualFee": 2800,
+      "effective": "Jul–Dec 2026",
+      "source": "https://av.sc.com/pk/content/docs/pk-conventional-schedule-of-charges-english-h2-2026.pdf",
+      "sourceName": "StanChart SOC",
+      "verified": true,
+      "reversal": null,
+      "note": "Same amount charged at issuance. Excl. FED/ST."
+    }
+  }
+}

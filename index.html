@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CardComp</title>
+  <meta name="description" content="Compare Pakistani bank card discounts, caps, valid days and annual fees before you visit.">
+  <link rel="icon" href="icons/icon32.png">
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <div id="error" class="banner error" role="alert" hidden></div>
+  <div id="status" class="banner status" role="status" hidden></div>
+
+  <!-- Steps 1 and 2: city, then category (rendered by app.js) -->
+  <div id="questions" class="questions" hidden>
+    <div class="brand brand-lg">
+      <img src="icons/icon48.png" alt="" width="36" height="36">
+      <div class="brand-name">CardComp</div>
+    </div>
+    <div id="question"></div>
+  </div>
+
+  <!-- Step 3: cards and results -->
+  <div id="cards-step" class="cards-step" hidden>
+    <header class="bar">
+      <div class="brand">
+        <img src="icons/icon48.png" alt="" width="32" height="32">
+        <div class="brand-name">CardComp</div>
+      </div>
+      <div class="pills">
+        <button id="pill-city" type="button" class="pill"><span>City</span><b></b></button>
+        <button id="pill-category" type="button" class="pill"><span>Category</span><b></b></button>
+      </div>
+    </header>
+
+    <main class="cards-main">
+      <div class="heading">
+        <h1 class="title">Which cards are you weighing up?</h1>
+        <p>Pick a bank and card. Add up to 4.</p>
+      </div>
+
+      <div id="slots" class="slots"></div>
+
+      <section class="panel">
+        <div class="tabs" role="tablist">
+          <button type="button" role="tab" data-tab="compare" aria-selected="true">Compare places</button>
+          <button type="button" role="tab" data-tab="mine" aria-selected="false">My places &amp; yearly value</button>
+          <button type="button" role="tab" data-tab="place" aria-selected="false">Check one place</button>
+        </div>
+
+        <div id="tab-compare" class="tab" role="tabpanel">
+          <div class="toolbar">
+            <h2 id="table-title" class="panel-title"></h2>
+            <div class="controls">
+              <span id="table-controls" class="controls" hidden>
+                <label class="control">Show
+                  <select id="view"></select>
+                </label>
+                <label class="control">Sort by
+                  <select id="sort"></select>
+                </label>
+                <label id="sort-card-wrap" class="control" hidden>for
+                  <select id="sort-card"></select>
+                </label>
+                <input id="name-filter" class="control-input" type="search" placeholder="Search places" aria-label="Search places">
+                <label class="control">Bill Rs
+                  <input id="bill" class="control-input bill" type="number" min="0" step="500" placeholder="e.g. 5000" inputmode="numeric" title="With a typical bill, cards are ranked by the rupees saved (caps included), not by the % alone.">
+                </label>
+              </span>
+              <span id="table-count" class="count"></span>
+            </div>
+          </div>
+          <div id="progress" class="progress" role="status" aria-live="polite" hidden></div>
+          <div id="summary" class="summary"></div>
+          <div id="table-wrap" class="table-wrap">
+            <table id="table" class="grid compare"></table>
+          </div>
+          <div class="panel-foot">
+            <div id="pager" class="pager"></div>
+            <span class="spacer"></span>
+            <button id="load-caps" type="button" class="ghost" hidden></button>
+            <button id="export" type="button" class="ghost" disabled>Export CSV</button>
+            <button id="refresh" type="button" class="ghost" title="Reload the selected cards' places and deals">Refresh data</button>
+          </div>
+        </div>
+
+        <div id="tab-mine" class="tab" role="tabpanel" hidden>
+          <p class="hint">Star (☆) the places you go to in the Compare or Check tabs. Set how often you go and your usual bill there. Savings use the best active deal for each card at your bill, with caps.</p>
+          <div id="value"></div>
+          <h2>Your places in <span id="mine-city"></span></h2>
+          <div id="mine-list"></div>
+        </div>
+
+        <div id="tab-place" class="tab" role="tabpanel" hidden>
+          <div class="search">
+            <input id="search" class="control-input" type="search" placeholder="Search a place by name, e.g. Asian Wok" autocomplete="off" aria-label="Search a place">
+            <ul id="search-results" class="results" hidden></ul>
+          </div>
+          <div id="place-result"></div>
+        </div>
+      </section>
+
+      <footer class="foot">
+        <p class="disclaimer">
+          Deal data from <a href="https://peekaboo.guru" target="_blank" rel="noopener">Peekaboo Guru</a>. Unofficial tool, not affiliated with them or any bank. Discounts can change; check with the bank or the place before you pay.
+          Annual fees are entered by hand from bank fee schedules and may be out of date.
+        </p>
+      </footer>
+    </main>
+  </div>
+
+  <script src="chrome-shim.js"></script>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
