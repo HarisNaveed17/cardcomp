@@ -1,0 +1,642 @@
+[
+    {
+        "isAppliedAllowed": false,
+        "keywords": "Onic, mobile, sim, network, communication, service, onic pakistan",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 245,
+        "name": "Onic",
+        "description": "Discover digital independence with epic data, unlimited minutes & endless opportunities!",
+        "id": 74150,
+        "categories": [
+            {
+                "categoryId": 30,
+                "categoryName": "Telcos",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Telcos.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/oniclogo_33ecf017-115d-4111-996d-7c76bcfb0da9-172.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "Easypaisa, Easypay, Telenor, Wallet, Onlinepayment, easy paisa, paisa",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 210,
+        "name": "Easypaisa",
+        "description": "Easypaisa provides you with the largest branch less banking services inside and outside Pakistan. We offer convenience and empowerment to take complete control of your life.",
+        "id": 13998,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            },
+            {
+                "categoryId": 23,
+                "categoryName": "Online Services",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Online Services.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/easypaisalogo_8c40820f-c627-4018-8277-bb06172915c7-916.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "mcb, bank, banking, office, cash, money, online banking, services, cheque",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 44,
+        "name": "MCB Bank Limited",
+        "description": "Bank For Life! MCB provides amazing banking solutions along with easy car loan to its customers. Here you can find all the deals and discounts on all MCB Debit and Credit Cards including MCB Lite Card, Visa Gold Debit Card, Visa Platinum Debit Card, Visa Platinum Credit Card, Visa Gold Credit Card etc..",
+        "id": 777,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy5_cfa06e88-7b48-4242-9191-7538e1b90b0d-764.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "FaysalBank, Faysal, Faisal, Bank, FaysalIslami, Banking, money, cash, online banking",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 30,
+        "name": "Faysal Bank Limited",
+        "description": "Bank on Ambition! Faysal bank provides easy personal and home loan to its customers along with atm facility around the country. Here you can find all the deals and discounts on all Faysal Bank Credit and Debit Cards including Master World Credit Card, Master Platinum Credit Card, Master Titanium Credit Card, Visa Gold Debit Card etc..",
+        "id": 44,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy3_5aa157dc-5314-4103-b67d-8c2d1e5dd88d-366.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "baraka, al baraka, barka, albaraka",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 106,
+        "name": "Al Baraka Bank",
+        "description": "Al Baraka Bank (Pakistan) Limited, offers a wide array of Islamic financing products such as Murabaha, Ijarah, Musharakah and Islamic Export Refinance etc., catering to a diverse cross-section of the economy including the Corporate, SME and Consumer sectors.",
+        "id": 6095,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/albarakabanknewloo_ee053dc7-e0f1-4600-bd36-bdb5796bcd68-213.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "mcb, bank, banking, office, mcb islamic, mcb islamic bank ltd, limited, mcbislamic",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 241,
+        "name": "MCB Islamic Bank Ltd",
+        "description": "MCB Islamic Bank Limited (the “Bank”) is the wholly owned subsidiary of MCB Bank Limited and commenced its operations in 2015 with a nation-wide network of branches.",
+        "id": 73011,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/mcbislamiclogo_864c7f72-706a-4db4-9d65-bc3846520be6-748.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "Allied Bank, Allied, Abl, bank, account, credit, loan, currency, alliedbank",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 45,
+        "name": "Allied Bank",
+        "description": "Ap Kay Dil Mai Hamara Account",
+        "id": 778,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/960e7769-9ded-428d-89a7-b1d4776435ba-350.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "askari, akbl, bank, office, cash, money, transfer, ebanking",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 37,
+        "name": "Askari Bank Limited",
+        "description": "To be the bank of first choice in the region. Askari Bank provides easy car financing scheme and car loan to its customers. Here you can find all the deal and discounts on all Askari Bank Credit and Debit Card including Master Platinum Credit Card, Master Silver Credit Card, Master Gold Credit Card, Visa Gold Debit Card, Visa Classic Debit Card etc..",
+        "id": 322,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_eb51b57b-2c91-42fd-be87-eb3d674ccdbe-843.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "BAHL, al habib, bank, office, transfer, cash, money, ebanking",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 28,
+        "name": "Bank AL Habib",
+        "description": "Bank AL Habib was established in October 1991 and strives to embody high standards of integrity, farsightedness and the trust reposed in it by its customers in all its banking operations.",
+        "id": 46,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/26bf5b92-38d4-42c2-adfd-634952fa22e6-626.jpeg"
+    },
+    {
+        "isAppliedAllowed": true,
+        "keywords": "Bankalfalah, bank, alfalah, falah, office, cash, online, transection",
+        "isMembershipAllowed": true,
+        "sourceEntityId": 43,
+        "name": "Bank Alfalah",
+        "description": "Bank Alfalah is one of the largest private Bank in Pakistan with a network of over 1000 branches in more than 200 cities across Pakistan",
+        "id": 627,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/ccc3625c-f9e8-456b-9e44-83e177a4d0d9-829.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "summit, sumit, bank, office, branch, cash, money, transfer, transection, Bank Makramah Limited, makramah, bml",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 36,
+        "name": "Bank Makramah Limited",
+        "description": "BML, formerly SMBL, encompasses a network of 170 branches & 200+ ATMs in 60+ cities of Pakistan.",
+        "id": 323,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_97f62224-2522-4cfd-a594-1e0457cef3dd-889.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "bok, bankofkhyber, bank, pakistan, money, transfer, cash, finance, khyber, bank of khyber",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 246,
+        "name": "Bank of Khyber",
+        "description": "Bank of Khyber (BoK) is an “A+” rated Government Commercial Bank, operating across the country with a network of 250+ branches & sub-branches.",
+        "id": 74535,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/boklogo_fea3c5a0-40b2-4b71-8889-5a489e91e1f4-766.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "Bank, punjab, pakistan, money, transfer, cash, finance, bop, of, Bankofpunjab",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 96,
+        "name": "Bank of Punjab",
+        "description": "Passion Reborn! Bank of Punjab is a customer focused bank with service excellence. Here you can find all the deals and discounts on all BOP Debit Cards including MasterCard Gold Debit Card, MasterCard Silver Debit Card and MasterCard Platinum Debit Card.",
+        "id": 4468,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_79b94094-4104-40d8-8659-8312d9992c6d-499.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "islamic, banking, account, Bank Islami, Islami, currency, car finance",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 50,
+        "name": "BankIslami",
+        "description": "BankIslami's mission is to save humanity from Riba by providing Shariah-compliant, customer-centric, and innovative financial solutions while creating value for our stakeholders and maintaining social responsibility and transparency. Here is the list of Discount Partners offering exclusive discounts and deals to BankIslami customers using Shariah-compliant Debit Cards, including Priority Banking Debit Mastercard, Classic Debit Mastercard, and PayPak Debit Cards",
+        "id": 1006,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/bankislamilogo_02e17ccd-a3ce-4208-a058-aa0f0c1f51cb-990.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "dubai islamic, islamic, dib, dibpk, dubai islamic bank, home, auto, finance, dubai, bank, account",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 40,
+        "name": "Dubai Islamic Bank",
+        "description": "The better way to bank! Dubai Islamic Bank has a unique distinction of being the world first Islamic bank. DIB Pakistan provides easy Personal Loan along with Home and Auto Finance to its customers. Here you can find all the deals and discounts on all DIB Debit Cards including Visa Debit Card, Visa Gold Debit Cards, Visa Silver Debit Card and Visa Platinum Debit Card,",
+        "id": 327,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/Logo1_b10dd813-07a8-41f7-a89a-c50dccd44c9e-548.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "efu, efu life, efulife, life insurance, insurance",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 211,
+        "name": "EFU Life",
+        "description": "Zaroori Hai",
+        "id": 326,
+        "categories": [
+            {
+                "categoryId": 23,
+                "categoryName": "Online Services",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Online Services.png"
+            },
+            {
+                "categoryId": 29,
+                "categoryName": "Services",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Services.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/EFULife_cd49f663-f12d-472d-b445-8a6e8a0addd8-43.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "golootlo, go lootlo, lootlo, debit card, discount, unionpay",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 215,
+        "name": "Golootlo",
+        "description": "Golootlo is Pakistan’s leading digital savings platform that connects users with exclusive discounts and deals across In-Store, Delivery, and E-commerce. With 30,000+ brands offering discounts of up to 50% off, Golootlo helps users save more on their everyday shopping, dining, entertainment, lifestyle experiences, and much more.",
+        "id": 14800,
+        "categories": [
+            {
+                "categoryId": 7,
+                "categoryName": "Discount Books & Apps",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Discount Books & Apps.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/golootlo_7e8cbf7d-0b19-4f27-926d-751bf0121ef6-96.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "Habib, bank, currency, rupee, habib, hbl, loan, account, HBL",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 32,
+        "name": "Habib Bank Limited",
+        "description": "Jahan Khwab Wahan HBL! HBL being the largest bank of Pakistan provides amazing online (internet) banking service along with easy car loan for its customers. Here you can find all the deals and discounts for all HBL Credit and Debit cards including Visa Gold Credit Card, Visa Green Credit Card, Visa Platinum Credit Card, Master Debit Card, Master World Debit Card, Master Titanium Debit Card etc..",
+        "id": 289,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/hblnewlogo_0df69171-bf78-412a-b12b-eed3e2ef43f6-225.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "Habib Metro, Bank, HMB, cash, money, transfer, banking",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 46,
+        "name": "Habib Metro Bank",
+        "description": "Stay Ahead! HABIBMETRO has its primary focus on retail banking and trade finance and also offers highly innovative E-Banking solutions and Consumer Banking to its account holders (customers). Here you can find all the deals and discounts on all HMB Debit Cards including Visa Debit Card, Visa Gold Debit Card, Visa Platinum Debit Card and Visa Premium Debit Card.",
+        "id": 782,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            },
+            {
+                "categoryId": 277,
+                "categoryName": "HMB - Spend & Win Campaign",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/HMB - Spend & Win Campaign.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy5_7423a554-97fa-49a7-8cad-8ccc41ed6340-412.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "Habib, bank, currency, rupee, habib, hbl, loan, account, HBL, hblislamic, islamic",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 239,
+        "name": "HBL Islamic Bank Limited",
+        "description": "HBL is one of the largest and leading Islamic banking players in the country. The bank provides a wide range of Shariah compliant solutions to its diverse clientele and is committed to introduce innovative products and initiatives for its valued customers. All the Islamic products offered by HBL are approved by the bank’s Shariah Board comprising of renowned Shariah scholars of Pakistan.",
+        "id": 65659,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/hblislamicnewlogo_57b30a3d-468c-4af7-b8e2-c5b80d5fa63f-606.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "Jazz, sms, sim, telco, communication, phone, telecom, service",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 204,
+        "name": "Jazz",
+        "description": "Jazz is Pakistan's leading telecom service provider, spearheading service excellence and product innovation in the country. With a subscriber base above 50 million and a legacy of more than 20 years, Jazz maintains market leadership.",
+        "id": 11822,
+        "categories": [
+            {
+                "categoryId": 29,
+                "categoryName": "Services",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Services.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/58da50a4-07c4-4aee-9989-9c47f8497b83-270.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "Jazz Cash, Jazzcash, jazz, cash, load, sim, app",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 60,
+        "name": "Jazz Cash",
+        "description": "Complete Financial Liberation, that you have always wanted!",
+        "id": 1419,
+        "categories": [
+            {
+                "categoryId": 23,
+                "categoryName": "Online Services",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Online Services.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/JazzCash_553656f7-718d-4b6a-9f3a-a93a65f26216-67.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "JSBank, JS bank, js, bank, credit, account, currency, atm, cash, online, transection, payment, office",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 39,
+        "name": "JS Bank",
+        "description": "Shaping Pakistan's financial future through innovation, inclusivity & digital excellence.",
+        "id": 325,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/2a3987d0-7888-4a6c-81a5-b287936af4b9-658.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "Jubilee Life Insurance, jubliee, life, insurance, life insurance, funds",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 23,
+        "name": "Jubilee Life Insurance",
+        "description": "At Jubilee Life Insurance, formerly known as New Jubilee Life Insurance Company Limited (NJI Life), we bring global experience to Pakistan. For over 15 years, we’ve been in the business of providing you with a better life; a life of security and safety. ",
+        "id": 47,
+        "categories": [
+            {
+                "categoryId": 29,
+                "categoryName": "Services",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Services.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/7259bcf5-a805-49a4-9041-a6fa4b5ff559-372.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "MeezanBank, meezan, islamic, sharia, Islamic Banking, debit, cash, accounts, online, payments, office",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 29,
+        "name": "Meezan Bank",
+        "description": "Meezan Bank - The Premier Islamic Bank! With a network of over 570 online branches, Meezan Bank is the leading dedicated Islamic bank in the country that offers a wide range of personal and corporate Islamic banking products and services. Here you can find all the deals and discounts on all Meezan Bank Debit Cards including Platinum MasterCard Debit Card, Platinum Visa Debit Card, Titanium MasterCard Debit Card, Gold Visa Debit Card and Silver Visa Debit Card.",
+        "id": 45,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_d76a1008-3871-4032-9b94-96f4d7693797-229.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "National bank of pakistan, nbp, bank, cash, discount, deal, finance, transaction, loan, credit, debit, atm",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 213,
+        "name": "National Bank of Pakistan",
+        "description": "The Nation's Bank",
+        "id": 14708,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/nbplogo_f29c62e4-bad7-4e6e-b49f-d44d664a12c9-966.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "bank, loan, atm, Samba, banking, Samba Bank, sambabank",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 231,
+        "name": "Samba Bank",
+        "description": " Samba Bank Limited Pakistan is a majority owned subsidiary of Samba Financial Group of Saudi Arabia. We are focused on building a full-service consumer, corporate, investment banking and capital markets franchise.",
+        "id": 27919,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_20e69eec-5d73-4014-bdf0-699398ae1a37-55.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "SilkBank, silk, bank, account, loan, atm, currency, credit, cards, debit",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 1,
+        "name": "Silk Bank",
+        "description": "Benchmark of Excellence in Premier Banking.",
+        "id": 40,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo2copy_fd4aebd2-eade-47c5-b919-6f48749cdcbb-383.jpeg"
+    },
+    {
+        "isAppliedAllowed": true,
+        "keywords": "Soneri, bank, atm, debit, credit, card, master",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 51,
+        "name": "Soneri Bank Limited",
+        "description": "Roshan Har Qadam! Soneri Bank provides innovative and efficient financial solutions to its customers. Here you can find all the deals and discounts on all Soneri Bank Debit Card including Visa Gold Debit Card, Visa Classic Debit Card, MasterCard Gold Debit Card, MasterCard Standard Debit Card etc..",
+        "id": 1045,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            },
+            {
+                "categoryId": 100,
+                "categoryName": "Soneri - Eid Special Offers",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Soneri - Eid Special Offers.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy2_93c3f0d7-47da-47f3-b5bd-d197f9d3211b-938.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "SCB, StandardChartered, standard, chartered, bank, cash, money, transfer, office",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 31,
+        "name": "Standard Chartered Bank",
+        "description": "Your Spirit Our Strength! Standard Chartered Bank (Pakistan) Ltd. is the oldest and largest international bank in Pakistan. Here you can find all the deals and discounts on all SCB Credit and Debit Cards including Master Easy Credit Card, Master Cashback Credit Card, Master Corporate Credit Card, Saadiq Visa Platinum Debit Card, Visa Gold Credit Card, Visa Classic Credit Card, Visa Platinum Credit Card, Visa Debit Card etc..",
+        "id": 54,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_c07f0a51-5094-4454-8927-b9b8aff36da1-59.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "Telenor, gsm, cellphone, network, internet, broadband, telenor, telenorpakistan",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 49,
+        "name": "Telenor",
+        "description": "Karo Mumkin",
+        "id": 1005,
+        "categories": [
+            {
+                "categoryId": 30,
+                "categoryName": "Telcos",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Telcos.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/dc542d4d-60ac-435a-99d3-96422d8ceea6-858.png"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "Unitedbank, ubl, united, bank, loan, atm, banking, UBL",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 38,
+        "name": "United Bank Limited (UBL)",
+        "description": "Where You Come First! UBL is one of the largest banks of Pakistan. Here you can find all the deals and discounts on all UBL Credit and Debit Cards inlcuding Visa Classic Credit Card, Visa Gold Credit, Visa Platinum Credit Card, Master Debit Card, Wiz Visa Prepaid Debit Card (Internet Card) etc. along with Omni App and Omni Debit Card for UBL Omni account holders. ",
+        "id": 321,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/4b819a00-27cd-4533-9c68-a50164989c46-393.jpeg"
+    },
+    {
+        "isAppliedAllowed": true,
+        "keywords": "Vouch365, Vouch 356, Azadi Deals, 365",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 24,
+        "name": "Vouch365",
+        "description": "Spend less, Save more! Enjoy Buy 1 Get 1 Free Offers and Discounts.",
+        "id": 48,
+        "categories": [
+            {
+                "categoryId": 7,
+                "categoryName": "Discount Books & Apps",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Discount Books & Apps.png"
+            },
+            {
+                "categoryId": 76,
+                "categoryName": "EFU - Leisure",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/EFU - Leisure.png"
+            },
+            {
+                "categoryId": 85,
+                "categoryName": "EFU - Lifestyle",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/EFU - Lifestyle.png"
+            },
+            {
+                "categoryId": 86,
+                "categoryName": "EFU - Wellness",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/EFU - Wellness.png"
+            },
+            {
+                "categoryId": 1,
+                "categoryName": "Food",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Food.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/cd11d4bb600407a2f77c785b8d3f9ea6_324d10f3-d57c-4a4c-87cb-4fd8b3a9bc17-465.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "Zeta1Mall, zeta, one, mall, zeta 1, food, lifestyle, clothing, brand, food court, rest room, zaraj builders, malls, appartments",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 247,
+        "name": "Zeta1 Mall",
+        "description": "An ultimate Retail Experience & an incredible investment opportunity! - A Project by Zaraj Builders.",
+        "id": 74631,
+        "categories": [
+            {
+                "categoryId": 18,
+                "categoryName": "Lifestyle",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Lifestyle.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy3_c2c11baa-b512-4b42-8b72-0e22afb5530c-699.jpeg"
+    },
+    {
+        "isAppliedAllowed": false,
+        "keywords": "Zindigi, digital, services, finance, account, management, banks, Online Services, zindigi by JS",
+        "isMembershipAllowed": false,
+        "sourceEntityId": 244,
+        "name": "Zindigi",
+        "description": "Here you'll find all the latest news on our products, services and how we can serve you better.",
+        "id": 74127,
+        "categories": [
+            {
+                "categoryId": 4,
+                "categoryName": "Banks",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Banks.png"
+            },
+            {
+                "categoryId": 23,
+                "categoryName": "Online Services",
+                "categoryLogo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Online Services.png"
+            }
+        ],
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/Logo1_1a7b1319-4735-48a6-a2dd-67d9ba08f4ee-197.jpeg"
+    }
+]

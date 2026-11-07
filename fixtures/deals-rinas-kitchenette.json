@@ -1,0 +1,1483 @@
+{
+    "total": 27,
+    "deals": [
+        {
+            "dealId": 146027,
+            "keywords": [
+                ""
+            ],
+            "title": "10% off",
+            "startDate": "2026-06-02T19:26:00",
+            "endDate": "2027-06-02T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 10,
+            "targetEntityId": 1432,
+            "sourceEntityId": 37,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* 10% or max discount of PKR 2,000/- can be availed per transaction.\n* 01 discounted transaction can be availed per card per day\n* Offer applicable on dine-in/delivery/takeaway\n* The discounts are not valid in conjunction with other special promotions, discounts programs or vouchers defined by Askari Bank or alliance partner\n* The discounts cannot be combined with group discounts, parties, special events or any other offers (where applicable)\n* The partners reserve the right to refuse or cancel any order for any unforeseen reason at any given time\n* Askari Bank’s eligible Credit & Debit Card members are entitled to discounts in respect to payments made at the alliance partners through their Askari Credit & Debit Cards only and discount is not applicable on cash transaction\n* Askari Bank shall not be responsible for any customer or third party for unsatisfactory or delayed performance of the partners, losses, damages, delays or cancellation by partners\n* Askari Bank will not be responsible for any complaint or liability whatsoever that arises with respect to items and services availed at the mentioned partner(s)\n* Askari Bank and the Alliance Partner reserve the right to terminate, withdraw or change the criteria of any discount offering without providing prior notice or reason\n* Askari Bank is not liable for the accuracy of the brand offers mentioned under alliances and for updated brand offers, please refer to the relevant alliance partner’s website\n* Askari Credit Card & Askari Debit Card Terms and Conditions apply\n* Alliance Partner Terms & Conditions Apply.",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 322,
+            "sourceEntityName": "Askari Bank Limited",
+            "sourceEntityDescription": "To be the bank of first choice in the region. Askari Bank provides easy car financing scheme and car loan to its customers. Here you can find all the deal and discounts on all Askari Bank Credit and Debit Card including Master Platinum Credit Card, Master Silver Credit Card, Master Gold Credit Card, Visa Gold Debit Card, Visa Classic Debit Card etc..",
+            "sourceEntityContactNumber": "111 000 787",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_eb51b57b-2c91-42fd-be87-eb3d674ccdbe-843.jpeg",
+            "associations": [
+                {
+                    "typeId": 640,
+                    "name": "Askari Classic Credit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/Classic_af899f7d-bea4-4558-8d30-48d6fd245c96-777.jpeg",
+                    "order": 10,
+                    "sourceEntityAssociationId": 122
+                },
+                {
+                    "typeId": 637,
+                    "name": "Askari Visa Classic Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/visaclassic_cfe19e74-29c6-4d87-a1f0-4e0532cde0d4-742.jpeg",
+                    "order": 0,
+                    "sourceEntityAssociationId": 487
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 146026,
+            "keywords": [
+                ""
+            ],
+            "title": "20% off",
+            "startDate": "2026-06-02T19:25:00",
+            "endDate": "2027-06-02T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 20,
+            "targetEntityId": 1432,
+            "sourceEntityId": 37,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* 20% or max discount of PKR 3,000/- can be availed per transaction.\n* 01 discounted transaction can be availed per card per day\n* Offer applicable on dine-in/delivery/takeaway\n* The discounts are not valid in conjunction with other special promotions, discounts programs or vouchers defined by Askari Bank or alliance partner\n* The discounts cannot be combined with group discounts, parties, special events or any other offers (where applicable)\n* The partners reserve the right to refuse or cancel any order for any unforeseen reason at any given time\n* Askari Bank’s eligible Credit & Debit Card members are entitled to discounts in respect to payments made at the alliance partners through their Askari Credit & Debit Cards only and discount is not applicable on cash transaction\n* Askari Bank shall not be responsible for any customer or third party for unsatisfactory or delayed performance of the partners, losses, damages, delays or cancellation by partners\n* Askari Bank will not be responsible for any complaint or liability whatsoever that arises with respect to items and services availed at the mentioned partner(s)\n* Askari Bank and the Alliance Partner reserve the right to terminate, withdraw or change the criteria of any discount offering without providing prior notice or reason\n* Askari Bank is not liable for the accuracy of the brand offers mentioned under alliances and for updated brand offers, please refer to the relevant alliance partner’s website\n* Askari Credit Card & Askari Debit Card Terms and Conditions apply\n* Alliance Partner Terms & Conditions Apply.",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 322,
+            "sourceEntityName": "Askari Bank Limited",
+            "sourceEntityDescription": "To be the bank of first choice in the region. Askari Bank provides easy car financing scheme and car loan to its customers. Here you can find all the deal and discounts on all Askari Bank Credit and Debit Card including Master Platinum Credit Card, Master Silver Credit Card, Master Gold Credit Card, Visa Gold Debit Card, Visa Classic Debit Card etc..",
+            "sourceEntityContactNumber": "111 000 787",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_eb51b57b-2c91-42fd-be87-eb3d674ccdbe-843.jpeg",
+            "associations": [
+                {
+                    "typeId": 639,
+                    "name": "Askari Gold Credit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/Gold_955a8ffc-27a4-425d-affd-7b853a37ae70-763.jpeg",
+                    "order": 9,
+                    "sourceEntityAssociationId": 120
+                },
+                {
+                    "typeId": 1898,
+                    "name": "Askari Sahar Visa Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/sahar_9719fe7c-2b60-476f-8975-85c19accd5cd-392.jpeg",
+                    "order": 0,
+                    "sourceEntityAssociationId": 2655
+                },
+                {
+                    "typeId": 638,
+                    "name": "Askari Visa Gold Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/visagold_32414022-f427-4a23-92a8-eedb5d27246b-82.jpeg",
+                    "order": 0,
+                    "sourceEntityAssociationId": 486
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 146025,
+            "keywords": [
+                ""
+            ],
+            "title": "30% off",
+            "startDate": "2026-06-02T19:24:00",
+            "endDate": "2027-06-02T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 30,
+            "targetEntityId": 1432,
+            "sourceEntityId": 37,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* 30% or max discount of PKR 5,000/- can be availed per transaction.\n* 01 discounted transaction can be availed per card per day\n* Offer applicable on dine-in/delivery/takeaway\n* The discounts are not valid in conjunction with other special promotions, discounts programs or vouchers defined by Askari Bank or alliance partner\n* The discounts cannot be combined with group discounts, parties, special events or any other offers (where applicable)\n* The partners reserve the right to refuse or cancel any order for any unforeseen reason at any given time\n* Askari Bank’s eligible Credit & Debit Card members are entitled to discounts in respect to payments made at the alliance partners through their Askari Credit & Debit Cards only and discount is not applicable on cash transaction\n* Askari Bank shall not be responsible for any customer or third party for unsatisfactory or delayed performance of the partners, losses, damages, delays or cancellation by partners\n* Askari Bank will not be responsible for any complaint or liability whatsoever that arises with respect to items and services availed at the mentioned partner(s)\n* Askari Bank and the Alliance Partner reserve the right to terminate, withdraw or change the criteria of any discount offering without providing prior notice or reason\n* Askari Bank is not liable for the accuracy of the brand offers mentioned under alliances and for updated brand offers, please refer to the relevant alliance partner’s website\n* Askari Credit Card & Askari Debit Card Terms and Conditions apply\n* Alliance Partner Terms & Conditions Apply.",
+            "likeCount": 1,
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 322,
+            "sourceEntityName": "Askari Bank Limited",
+            "sourceEntityDescription": "To be the bank of first choice in the region. Askari Bank provides easy car financing scheme and car loan to its customers. Here you can find all the deal and discounts on all Askari Bank Credit and Debit Card including Master Platinum Credit Card, Master Silver Credit Card, Master Gold Credit Card, Visa Gold Debit Card, Visa Classic Debit Card etc..",
+            "sourceEntityContactNumber": "111 000 787",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_eb51b57b-2c91-42fd-be87-eb3d674ccdbe-843.jpeg",
+            "associations": [
+                {
+                    "typeId": 632,
+                    "name": "Askari Platinum Credit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/Platinium_641034e4-f4f4-49fb-80cf-148e3a466cc9-547.jpeg",
+                    "order": 8,
+                    "sourceEntityAssociationId": 119
+                },
+                {
+                    "typeId": 1909,
+                    "name": "Askari Visa Platinum Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/askarivisaplatinumdebitcard_c58bcc45-7a11-49ef-85ac-84ea9ac56916-843.png",
+                    "order": 0,
+                    "sourceEntityAssociationId": 2771
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 146024,
+            "keywords": [
+                ""
+            ],
+            "title": "40% off",
+            "startDate": "2026-06-02T19:23:00",
+            "endDate": "2027-06-02T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 40,
+            "targetEntityId": 1432,
+            "sourceEntityId": 37,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* 40% or max discount of PKR 10,000/- can be availed per transaction.\n* 01 discounted transaction can be availed per card per day\n* Offer applicable on dine-in/delivery/takeaway\n* The discounts are not valid in conjunction with other special promotions, discounts programs or vouchers defined by Askari Bank or alliance partner\n* The discounts cannot be combined with group discounts, parties, special events or any other offers (where applicable)\n* The partners reserve the right to refuse or cancel any order for any unforeseen reason at any given time\n* Askari Bank’s eligible Credit & Debit Card members are entitled to discounts in respect to payments made at the alliance partners through their Askari Credit & Debit Cards only and discount is not applicable on cash transaction\n* Askari Bank shall not be responsible for any customer or third party for unsatisfactory or delayed performance of the partners, losses, damages, delays or cancellation by partners\n* Askari Bank will not be responsible for any complaint or liability whatsoever that arises with respect to items and services availed at the mentioned partner(s)\n* Askari Bank and the Alliance Partner reserve the right to terminate, withdraw or change the criteria of any discount offering without providing prior notice or reason\n* Askari Bank is not liable for the accuracy of the brand offers mentioned under alliances and for updated brand offers, please refer to the relevant alliance partner’s website\n* Askari Credit Card & Askari Debit Card Terms and Conditions apply\n* Alliance Partner Terms & Conditions Apply.",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 322,
+            "sourceEntityName": "Askari Bank Limited",
+            "sourceEntityDescription": "To be the bank of first choice in the region. Askari Bank provides easy car financing scheme and car loan to its customers. Here you can find all the deal and discounts on all Askari Bank Credit and Debit Card including Master Platinum Credit Card, Master Silver Credit Card, Master Gold Credit Card, Visa Gold Debit Card, Visa Classic Debit Card etc..",
+            "sourceEntityContactNumber": "111 000 787",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_eb51b57b-2c91-42fd-be87-eb3d674ccdbe-843.jpeg",
+            "associations": [
+                {
+                    "typeId": 636,
+                    "name": "Askari World Credit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/world_c825b4a0-659e-45cf-9984-fc2f8b7eb033-377.jpeg",
+                    "order": 1,
+                    "sourceEntityAssociationId": 190
+                },
+                {
+                    "typeId": 633,
+                    "name": "Askari Corporate Credit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/askaricorporatecard_4e4e4cf0-2b95-4c93-8f51-fa44deec0a24-122.png",
+                    "order": 0,
+                    "sourceEntityAssociationId": 121
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 146023,
+            "keywords": [
+                ""
+            ],
+            "title": "50% off",
+            "startDate": "2026-06-02T18:55:00",
+            "endDate": "2027-06-02T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 50,
+            "targetEntityId": 1432,
+            "sourceEntityId": 37,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* 50% or max discount of PKR 10,000/- can be availed per transaction.\n* 01 discounted transaction can be availed per card per day\n* Offer applicable on dine-in/delivery/takeaway\n* The discounts are not valid in conjunction with other special promotions, discounts programs or vouchers defined by Askari Bank or alliance partner\n* The discounts cannot be combined with group discounts, parties, special events or any other offers (where applicable)\n* The partners reserve the right to refuse or cancel any order for any unforeseen reason at any given time\n* Askari Bank’s eligible Credit & Debit Card members are entitled to discounts in respect to payments made at the alliance partners through their Askari Credit & Debit Cards only and discount is not applicable on cash transaction\n* Askari Bank shall not be responsible for any customer or third party for unsatisfactory or delayed performance of the partners, losses, damages, delays or cancellation by partners\n* Askari Bank will not be responsible for any complaint or liability whatsoever that arises with respect to items and services availed at the mentioned partner(s)\n* Askari Bank and the Alliance Partner reserve the right to terminate, withdraw or change the criteria of any discount offering without providing prior notice or reason\n* Askari Bank is not liable for the accuracy of the brand offers mentioned under alliances and for updated brand offers, please refer to the relevant alliance partner’s website\n* Askari Credit Card & Askari Debit Card Terms and Conditions apply\n* Alliance Partner Terms & Conditions Apply.",
+            "likeCount": 1,
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 322,
+            "sourceEntityName": "Askari Bank Limited",
+            "sourceEntityDescription": "To be the bank of first choice in the region. Askari Bank provides easy car financing scheme and car loan to its customers. Here you can find all the deal and discounts on all Askari Bank Credit and Debit Card including Master Platinum Credit Card, Master Silver Credit Card, Master Gold Credit Card, Visa Gold Debit Card, Visa Classic Debit Card etc..",
+            "sourceEntityContactNumber": "111 000 787",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_eb51b57b-2c91-42fd-be87-eb3d674ccdbe-843.jpeg",
+            "associations": [
+                {
+                    "typeId": 1928,
+                    "name": "Askari Visa Signature Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/askarivisasignaturecard_c9f09208-2dd5-4e25-9332-2d06bd23e5e3-832.png",
+                    "order": 0,
+                    "sourceEntityAssociationId": 2890
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 145422,
+            "keywords": [
+                ""
+            ],
+            "title": "40% off",
+            "startDate": "2026-05-20T00:00:00",
+            "endDate": "2026-12-31T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 40,
+            "targetEntityId": 1432,
+            "sourceEntityId": 32,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Maximum discount of PKR 25,000/- can be availed per transaction.\n* The discounts are not valid in conjunction with other special promotions, discount programmes or vouchers defined by HBL or alliance partners\n* The discounts cannot be combined with group discounts, parties, special events or any other offers\n* HBL Cardmembers are entitled to discounts in respect to payments made at the alliance partners through their HBL Cards. This is not applicable in respect to cash transactions.\n* HBL will not be responsible for any complaint or liability whatsoever that arises with respect to items and services availed on the mentioned partners.\n* HBL reserves the right to terminate or withdraw or change the criteria of any discount offering without providing prior notice or reason.\n* HBL is not liable for the accuracy of the brand offers mentioned under alliances. For updated brand offers, please refer to the relevant alliance partner’s website or physical outlet",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 289,
+            "sourceEntityName": "Habib Bank Limited",
+            "sourceEntityDescription": "Jahan Khwab Wahan HBL! HBL being the largest bank of Pakistan provides amazing online (internet) banking service along with easy car loan for its customers. Here you can find all the deals and discounts for all HBL Credit and Debit cards including Visa Gold Credit Card, Visa Green Credit Card, Visa Platinum Credit Card, Master Debit Card, Master World Debit Card, Master Titanium Debit Card etc..",
+            "sourceEntityContactNumber": "111 111 425",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/hblnewlogo_0df69171-bf78-412a-b12b-eed3e2ef43f6-225.jpeg",
+            "associations": [
+                {
+                    "typeId": 1972,
+                    "name": "HBL Visa Infinite CreditCard",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/hblvisainfinitecard_275a7f79-6d80-4ceb-b34d-94a93ef4e46a-279.png",
+                    "order": 11,
+                    "sourceEntityAssociationId": 3048
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 144472,
+            "keywords": [
+                ""
+            ],
+            "title": "15% off Everyday",
+            "startDate": "2026-05-11T16:16:00",
+            "endDate": "2026-12-31T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 15,
+            "targetEntityId": 1432,
+            "sourceEntityId": 44,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Discount Cap PKR 1,500/-\n* A maximum of five (5) discounted transactions per month are permissible per cardholder.\n* MCB Bank reserves the right to terminate, withdraw and change the criteria/conditions for any discount offering at any time.\n* Terms & Conditions apply",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 777,
+            "sourceEntityName": "MCB Bank Limited",
+            "sourceEntityDescription": "Bank For Life! MCB provides amazing banking solutions along with easy car loan to its customers. Here you can find all the deals and discounts on all MCB Debit and Credit Cards including MCB Lite Card, Visa Gold Debit Card, Visa Platinum Debit Card, Visa Platinum Credit Card, Visa Gold Credit Card etc..",
+            "sourceEntityContactNumber": "111 000 622",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy5_cfa06e88-7b48-4242-9191-7538e1b90b0d-764.jpeg",
+            "associations": [
+                {
+                    "typeId": 1884,
+                    "name": "Nayab Visa Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/mcbnayabdebitcardv1_15ae56c9-749b-4acc-a5dc-8700a0f4e62e-821.png",
+                    "order": 9,
+                    "sourceEntityAssociationId": 2585
+                },
+                {
+                    "typeId": 861,
+                    "name": "Visa Gold Credit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/mcbvisagoldcreditcard_7cc5553c-ff76-4304-b803-834aadf01fca-648.jpeg",
+                    "order": 8,
+                    "sourceEntityAssociationId": 103
+                },
+                {
+                    "typeId": 859,
+                    "name": "Visa Gold Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/mcbvisagolddebitcard_a467b14e-43a9-4d21-a74a-20c82285cee4-120.png",
+                    "order": 7,
+                    "sourceEntityAssociationId": 101
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 144471,
+            "keywords": [
+                ""
+            ],
+            "title": "30% off Everyday",
+            "startDate": "2026-05-11T16:14:00",
+            "endDate": "2026-12-31T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 30,
+            "targetEntityId": 1432,
+            "sourceEntityId": 44,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Discount Cap PKR 5,000/- on Visa Signature Debit Card & Visa Platinum Credit Card.\n* Discount Cap PKR 3,000/- on Visa Platinum Debit Card.\n* A maximum of five (5) discounted transactions per month are permissible per cardholder.\n* MCB Bank reserves the right to terminate, withdraw and change the criteria/conditions for any discount offering at any time.\n* Terms & Conditions apply",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 777,
+            "sourceEntityName": "MCB Bank Limited",
+            "sourceEntityDescription": "Bank For Life! MCB provides amazing banking solutions along with easy car loan to its customers. Here you can find all the deals and discounts on all MCB Debit and Credit Cards including MCB Lite Card, Visa Gold Debit Card, Visa Platinum Debit Card, Visa Platinum Credit Card, Visa Gold Credit Card etc..",
+            "sourceEntityContactNumber": "111 000 622",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy5_cfa06e88-7b48-4242-9191-7538e1b90b0d-764.jpeg",
+            "associations": [
+                {
+                    "typeId": 1879,
+                    "name": "Visa Signature Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/mcbvisasignaturecard_e6345dac-b868-4640-9bdb-40315d8cd603-823.png",
+                    "order": 12,
+                    "sourceEntityAssociationId": 2567
+                },
+                {
+                    "typeId": 863,
+                    "name": "Visa Platinum Credit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/mcbvisaplatinumcards_803d5177-603b-4277-b648-95dd6bec38c3-502.jpeg",
+                    "order": 11,
+                    "sourceEntityAssociationId": 104
+                },
+                {
+                    "typeId": 862,
+                    "name": "Visa Platinum Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/mcbvisaplatinumdebitcard_fca7ed57-ef88-4260-8f36-00740120734a-636.jpeg",
+                    "order": 10,
+                    "sourceEntityAssociationId": 485
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 142058,
+            "keywords": [
+                ""
+            ],
+            "title": "20% off Everyday",
+            "startDate": "2026-03-30T13:32:00",
+            "endDate": "2026-12-31T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 20,
+            "targetEntityId": 1432,
+            "sourceEntityId": 43,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Discount Cap PKR 2,500/-\n* Discount is only valid on Dine-in\n* Discount is not valid on catering or other services offered by the restaurant\n* All discounts marketed by Bank Alfalah are subject to the applicable terms & conditions and can be discontinued and/or changed without prior notice to the customer\n* The discounts are not valid in conjunction with other special promotions, discount programs or vouchers defined by Bank Alfalah or alliance partners and cannot be clubbed for group discounts, parties etc.\n* Bank Alfalah will not be liable for any disputes or claims arising out of, or in connection with, its subject matter or formation (including non-contractual disputes or claims) from this campaign.\n* Bank Alfalah does not guarantee the accuracy of the brand offers mentioned above. For the latest offers, please check the respective alliance partner’s website or visit their physical store or call Bank Alfalah’s helpline 021-111-225-111\n* Payment done via NFC or digital wallets are not eligible for discount. Presence of a physical eligible debit / credit card is important.\n* Bank Alfalah & Merchant are not obligated disburse any discounts via NFC / digital wallets.\n* Terms & Conditions apply.",
+            "likeCount": 2,
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 627,
+            "sourceEntityName": "Bank Alfalah",
+            "sourceEntityDescription": "Bank Alfalah is one of the largest private Bank in Pakistan with a network of over 1000 branches in more than 200 cities across Pakistan",
+            "sourceEntityContactNumber": "111 225 111",
+            "buy": true,
+            "apply": true,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/ccc3625c-f9e8-456b-9e44-83e177a4d0d9-829.jpeg",
+            "associations": [
+                {
+                    "typeId": 648,
+                    "name": "Bank Alfalah Visa Platinum Credit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/visaplatinumcreditcard_a3c9834a-d783-4a79-800c-8cf5960e0a31-675.png",
+                    "order": 1,
+                    "sourceEntityAssociationId": 88
+                },
+                {
+                    "typeId": 1864,
+                    "name": "Bank Alfalah Islamic Power Pack Signature Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/islamicpowerpackvisasignaturecard_6fdeb363-d5e9-46e5-8a92-07cee2a17dbd-70.png",
+                    "order": 0,
+                    "sourceEntityAssociationId": 2516
+                },
+                {
+                    "typeId": 1923,
+                    "name": "Bank Alfalah Islamic Women Power Pack Visa Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/islamicpowerpackwomencard_b861b8ab-aaea-4ac6-97bd-ff9b4e62995e-175.png",
+                    "order": 0,
+                    "sourceEntityAssociationId": 2856
+                },
+                {
+                    "typeId": 1667,
+                    "name": "Bank Alfalah Visa Islamic Signature Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/islamicvisasignaturedebitcard_34a459bd-ba47-4413-8279-6cf86d883b3b-807.png",
+                    "order": 0,
+                    "sourceEntityAssociationId": 1900
+                },
+                {
+                    "typeId": 649,
+                    "name": "Bank Alfalah Visa Signature Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/visasignaturedebitcard_17fa0c0a-a504-47d6-8683-f0a33069470e-654.png",
+                    "order": 0,
+                    "sourceEntityAssociationId": 155
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 136188,
+            "keywords": [
+                ""
+            ],
+            "title": "25% off Everyday",
+            "startDate": "2026-01-08T12:09:00",
+            "endDate": "2026-12-31T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 25,
+            "targetEntityId": 1432,
+            "sourceEntityId": 43,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Discount Cap PKR 5,000/-\n* Discount is only valid on Dine-in\n* Discount is not valid on catering or other services offered by the restaurant\n* All discounts marketed by Bank Alfalah are subject to the applicable terms & conditions and can be discontinued and/or changed without prior notice to the customer\n* The discounts are not valid in conjunction with other special promotions, discount programs or vouchers defined by Bank Alfalah or alliance partners and cannot be clubbed for group discounts, parties etc.\n* Bank Alfalah will not be liable for any disputes or claims arising out of, or in connection with, its subject matter or formation (including non-contractual disputes or claims) from this campaign.\n* Bank Alfalah does not guarantee the accuracy of the brand offers mentioned above. For the latest offers, please check the respective alliance partner’s website or visit their physical store or call Bank Alfalah’s helpline 021-111-225-111\n* Payment done via NFC or digital wallets are not eligible for discount. Presence of a physical eligible debit / credit card is important.\n* Bank Alfalah & Merchant are not obligated disburse any discounts via NFC / digital wallets.\n* Terms & Conditions apply.",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 627,
+            "sourceEntityName": "Bank Alfalah",
+            "sourceEntityDescription": "Bank Alfalah is one of the largest private Bank in Pakistan with a network of over 1000 branches in more than 200 cities across Pakistan",
+            "sourceEntityContactNumber": "111 225 111",
+            "buy": true,
+            "apply": true,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/ccc3625c-f9e8-456b-9e44-83e177a4d0d9-829.jpeg",
+            "associations": [
+                {
+                    "typeId": 1863,
+                    "name": "Bank Alfalah Islamic Premier Visa Signature Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/islamicpremiervisasignaturedebitcard_ab48e06a-45ad-4a7c-a01b-a38b52fec1ab-378.png",
+                    "order": 0,
+                    "sourceEntityAssociationId": 2515
+                },
+                {
+                    "typeId": 1564,
+                    "name": "Bank Alfalah Premier Visa Platinum Credit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/premiervisaplatinumcreditcard_033ec76d-7b23-48b2-8e81-5fa365d500c4-844.png",
+                    "order": 0,
+                    "sourceEntityAssociationId": 1600
+                },
+                {
+                    "typeId": 1565,
+                    "name": "Bank Alfalah Premier Visa Signature Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/premiervisasignaturedebitcard_986f6af5-dafb-42a0-a15f-419f566bd705-925.png",
+                    "order": 0,
+                    "sourceEntityAssociationId": 1601
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 136187,
+            "keywords": [
+                ""
+            ],
+            "title": "50% off Everyday",
+            "startDate": "2026-01-08T12:08:00",
+            "endDate": "2026-12-31T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 50,
+            "targetEntityId": 1432,
+            "sourceEntityId": 43,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Discount Cap PKR 50,000/-\n* Discount is only valid on Dine-in\n* Discount is not valid on catering or other services offered by the restaurant\n* All discounts marketed by Bank Alfalah are subject to the applicable terms & conditions and can be discontinued and/or changed without prior notice to the customer\n* The discounts are not valid in conjunction with other special promotions, discount programs or vouchers defined by Bank Alfalah or alliance partners and cannot be clubbed for group discounts, parties etc.\n* Bank Alfalah will not be liable for any disputes or claims arising out of, or in connection with, its subject matter or formation (including non-contractual disputes or claims) from this campaign.\n* Bank Alfalah does not guarantee the accuracy of the brand offers mentioned above. For the latest offers, please check the respective alliance partner’s website or visit their physical store or call Bank Alfalah’s helpline 021-111-225-111\n* Payment done via NFC or digital wallets are not eligible for discount. Presence of a physical eligible debit / credit card is important.\n* Bank Alfalah & Merchant are not obligated disburse any discounts via NFC / digital wallets.\n* Terms & Conditions apply.",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 627,
+            "sourceEntityName": "Bank Alfalah",
+            "sourceEntityDescription": "Bank Alfalah is one of the largest private Bank in Pakistan with a network of over 1000 branches in more than 200 cities across Pakistan",
+            "sourceEntityContactNumber": "111 225 111",
+            "buy": true,
+            "apply": true,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/ccc3625c-f9e8-456b-9e44-83e177a4d0d9-829.jpeg",
+            "associations": [
+                {
+                    "typeId": 1918,
+                    "name": "Bank Alfalah Islamic Premier Visa Infinite Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/islamicpremierinfinitedebitcard_12a53f8a-54dd-47d6-b686-69b42224358c-453.png",
+                    "order": 0,
+                    "sourceEntityAssociationId": 2805
+                },
+                {
+                    "typeId": 1917,
+                    "name": "Bank Alfalah Premier Visa Infinite Credit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/infinitecreditcard_8736d726-3f0d-4fe2-a44c-095f1391a782-966.png",
+                    "order": 0,
+                    "sourceEntityAssociationId": 2802
+                },
+                {
+                    "typeId": 1916,
+                    "name": "Bank Alfalah Premier Visa Infinite Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/infinitedebitcard_52b43ed9-8408-4fca-ba1f-ab1302deddf5-721.png",
+                    "order": 0,
+                    "sourceEntityAssociationId": 2801
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 132076,
+            "keywords": [
+                ""
+            ],
+            "title": "40% off Everyday",
+            "startDate": "2025-10-27T00:00:00",
+            "endDate": "2027-06-30T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 40,
+            "targetEntityId": 1432,
+            "sourceEntityId": 241,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Discount will be valid only on MCB Islamic Visa Platinum Debit Card on (4568 1011) BIN only.\n* Discount will be valid only on MCB Islamic Visa Platinum Business Debit Card on (4240 3267) BIN only.\n* 40% or Rs. 5,000 whichever is lower.\n* To ensure fair and equitable utilization of discount offers, the Bank may apply fair usage terms and conditions to promotional discounts available on all MCB Islamic Bank Debit Cards, with the objective of promoting responsible and transparent use of discount privileges.\n* To prevent misuse or excessive/commercial use of discount offers, only (1) one transaction per card per day at the same participating merchant shall be eligible for the applicable discount. Additionally, a maximum of three (3) transactions per card per participating merchant per month shall be eligible for the discount. Transactions exceeding these limits may not qualify for the applicable discount, and the Bank reserves the right to recover the discount amount, where applicable and permissible under the relevant offer terms and applicable regulations.\n* For the effective monitoring and enforcement of the above usage limits, the Bank reserves the right to monitor the utilization of promotional offers and may apply reasonable controls or usage thresholds where deemed necessary. The Bank may also restrict or withdraw applicable discount benefits in cases of misuse or violation of the relevant promotional terms and conditions.\n* Discount is only applicable on food and regular menu.\n* Offer is valid on All days i.e. (Monday till Sunday) starting from 1st July 2026 to 30th June 2027\n* The discount cannot be availed in conjunction with other promotions.\n* The discount at the alliance partner will be available on the days and according to the situation as per the rules and regulations set on the concerned area’s government policies.(Where applicable)\n* The discounts cannot be combined with group discounts, parties, special events or any other offers (where applicable)\n* MCB Islamic debit card members are entitled to discounts in respect to payments made at the alliance partners through their MCB Islamic debit card (selective) only and discount is not applicable on cash transaction.\n* MCB Islamic Bank shall not be responsible for any customer or third party for unsatisfactory or delayed performance of the alliance partners, losses, damages, delays or cancellation/discontinuation of this discount services.\n* The alliance partners reserve the right to refuse or cancel any order for any unforeseen reason at any given time.\n* MCB Islamic Bank will not be responsible for any complaint or liability whatsoever that arises with respect to items, discounts and services availed at the mentioned partner(s).\n* MCB Islamic Bank and the Alliance Partner reserves the right to terminate, withdraw or change the criteria of any discount offering without providing prior notice or reason.\n* MCB Islamic Bank is not liable for the accuracy of the brand offers mentioned under alliances and for updated brand offers, please refer to the relevant alliance partner’s website.\n* MCB Islamic Bank may together with the Alliance Partners, offer discounts from time to time, as part of promotion schemes for the MCB Islamic Debit Cardholders. However, the Alliance Partners have full authority to refuse any promotional offers, and the Bank shall not be liable to the Cardholder for any such refusal.\n* Bank Offers including Discounts, Promotional Offers, and Incentives that are discretionary, and the Cardholders are not entitled to claim the same as a matter of their right.\n* MCB Islamic Bank Debit cards Terms & Conditions apply (Where applicable).",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 73011,
+            "sourceEntityName": "MCB Islamic Bank Ltd",
+            "sourceEntityDescription": "MCB Islamic Bank Limited (the “Bank”) is the wholly owned subsidiary of MCB Bank Limited and commenced its operations in 2015 with a nation-wide network of branches.",
+            "sourceEntityContactNumber": "042 111 222 642",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/mcbislamiclogo_864c7f72-706a-4db4-9d65-bc3846520be6-748.jpeg",
+            "associations": [
+                {
+                    "typeId": 1949,
+                    "name": "Visa Platinum Business Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/mcbislamicvisacorporatedebitcard_0de117d0-1ba5-43de-a8d0-e8a6226d505a-283.png",
+                    "order": 11,
+                    "sourceEntityAssociationId": 2940
+                },
+                {
+                    "typeId": 1946,
+                    "name": "Visa Platinum Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/mcbislamicvisaplatinumdebitcard_fa11e8e4-68ea-4d23-aab5-68b76389d234-615.png",
+                    "order": 10,
+                    "sourceEntityAssociationId": 2939
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 132077,
+            "keywords": [
+                ""
+            ],
+            "title": "20% off Everyday",
+            "startDate": "2025-10-27T00:00:00",
+            "endDate": "2027-06-30T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 20,
+            "targetEntityId": 1432,
+            "sourceEntityId": 241,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Discount will be valid only on MCB Islamic Visa Gold Debit Card on (4205 9900) BIN only.\n* Discount will be valid only on MCB Islamic Visa Niswan Debit Card on (4568 1012) BIN only.\n* Discount will be valid only on MCB Islamic Visa FCY Debit Card on (4293 3510) BIN only.\n* 20% or Rs. 2,500 whichever is lower.\n* To ensure fair and equitable utilization of discount offers, the Bank may apply fair usage terms and conditions to promotional discounts available on all MCB Islamic Bank Debit Cards, with the objective of promoting responsible and transparent use of discount privileges.\n* To prevent misuse or excessive/commercial use of discount offers, only (1) one transaction per card per day at the same participating merchant shall be eligible for the applicable discount. Additionally, a maximum of three (3) transactions per card per participating merchant per month shall be eligible for the discount. Transactions exceeding these limits may not qualify for the applicable discount, and the Bank reserves the right to recover the discount amount, where applicable and permissible under the relevant offer terms and applicable regulations.\n* For the effective monitoring and enforcement of the above usage limits, the Bank reserves the right to monitor the utilization of promotional offers and may apply reasonable controls or usage thresholds where deemed necessary. The Bank may also restrict or withdraw applicable discount benefits in cases of misuse or violation of the relevant promotional terms and conditions.\n* Discount is only applicable on food and regular menu.\n* Offer is valid on All days i.e. (Monday till Sunday) starting from 1st July 2026 to 30th June 2027\n* The discount cannot be availed in conjunction with other promotions.\n* The discount at the alliance partner will be available on the days and according to the situation as per the rules and regulations set on the concerned area’s government policies.(Where applicable)\n* The discounts cannot be combined with group discounts, parties, special events or any other offers (where applicable)\n* MCB Islamic debit card members are entitled to discounts in respect to payments made at the alliance partners through their MCB Islamic debit card (selective) only and discount is not applicable on cash transaction.\n* MCB Islamic Bank shall not be responsible for any customer or third party for unsatisfactory or delayed performance of the alliance partners, losses, damages, delays or cancellation/discontinuation of this discount services.\n* The alliance partners reserve the right to refuse or cancel any order for any unforeseen reason at any given time.\n* MCB Islamic Bank will not be responsible for any complaint or liability whatsoever that arises with respect to items, discounts and services availed at the mentioned partner(s).\n* MCB Islamic Bank and the Alliance Partner reserves the right to terminate, withdraw or change the criteria of any discount offering without providing prior notice or reason.\n* MCB Islamic Bank is not liable for the accuracy of the brand offers mentioned under alliances and for updated brand offers, please refer to the relevant alliance partner’s website.\n* MCB Islamic Bank may together with the Alliance Partners, offer discounts from time to time, as part of promotion schemes for the MCB Islamic Debit Cardholders. However, the Alliance Partners have full authority to refuse any promotional offers, and the Bank shall not be liable to the Cardholder for any such refusal.\n* Bank Offers including Discounts, Promotional Offers, and Incentives that are discretionary, and the Cardholders are not entitled to claim the same as a matter of their right.\n* MCB Islamic Bank Debit cards Terms & Conditions apply (Where applicable).",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 73011,
+            "sourceEntityName": "MCB Islamic Bank Ltd",
+            "sourceEntityDescription": "MCB Islamic Bank Limited (the “Bank”) is the wholly owned subsidiary of MCB Bank Limited and commenced its operations in 2015 with a nation-wide network of branches.",
+            "sourceEntityContactNumber": "042 111 222 642",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/mcbislamiclogo_864c7f72-706a-4db4-9d65-bc3846520be6-748.jpeg",
+            "associations": [
+                {
+                    "typeId": 1943,
+                    "name": "Visa Gold Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/mcbislamicvisagolddebitcard_de1655a4-066a-4ca6-828e-fdf765eeb9d5-180.png",
+                    "order": 9,
+                    "sourceEntityAssociationId": 2941
+                },
+                {
+                    "typeId": 1947,
+                    "name": "Visa FCY Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/mcbislamicvisafcydebitcard_452585dd-5c78-4ee2-9ca7-bb2b3ba6b1f0-375.png",
+                    "order": 8,
+                    "sourceEntityAssociationId": 2943
+                },
+                {
+                    "typeId": 1945,
+                    "name": "Visa Niswan Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/mcbislamicniswanvisadebitcard_4860807d-f3a0-4430-8073-5c904143b299-852.png",
+                    "order": 6,
+                    "sourceEntityAssociationId": 2942
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 132078,
+            "keywords": [
+                ""
+            ],
+            "title": "15% off Everyday",
+            "startDate": "2025-10-27T00:00:00",
+            "endDate": "2027-06-30T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 15,
+            "targetEntityId": 1432,
+            "sourceEntityId": 241,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Discount will be valid only on MCB Islamic Visa Classic Debit Card on (4141 5300) BIN only.\n* Discount will be valid only on MCB Islamic Visa Junior Club Debit Card on (4195 5900) BIN only.\n* 15% or Rs. 1,500 whichever is lower.\n* To ensure fair and equitable utilization of discount offers, the Bank may apply fair usage terms and conditions to promotional discounts available on all MCB Islamic Bank Debit Cards, with the objective of promoting responsible and transparent use of discount privileges.\n* To prevent misuse or excessive/commercial use of discount offers, only (1) one transaction per card per day at the same participating merchant shall be eligible for the applicable discount. Additionally, a maximum of three (3) transactions per card per participating merchant per month shall be eligible for the discount. Transactions exceeding these limits may not qualify for the applicable discount, and the Bank reserves the right to recover the discount amount, where applicable and permissible under the relevant offer terms and applicable regulations.\n* For the effective monitoring and enforcement of the above usage limits, the Bank reserves the right to monitor the utilization of promotional offers and may apply reasonable controls or usage thresholds where deemed necessary. The Bank may also restrict or withdraw applicable discount benefits in cases of misuse or violation of the relevant promotional terms and conditions.\n* Discount is only applicable on food and regular menu.\n* Offer is valid on All days i.e. (Monday till Sunday) starting from 1st July 2026 to 30th June 2027\n* The discount cannot be availed in conjunction with other promotions.\n* The discount at the alliance partner will be available on the days and according to the situation as per the rules and regulations set on the concerned area’s government policies.(Where applicable)\n* The discounts cannot be combined with group discounts, parties, special events or any other offers (where applicable)\n* MCB Islamic debit card members are entitled to discounts in respect to payments made at the alliance partners through their MCB Islamic debit card (selective) only and discount is not applicable on cash transaction.\n* MCB Islamic Bank shall not be responsible for any customer or third party for unsatisfactory or delayed performance of the alliance partners, losses, damages, delays or cancellation/discontinuation of this discount services.\n* The alliance partners reserve the right to refuse or cancel any order for any unforeseen reason at any given time.\n* MCB Islamic Bank will not be responsible for any complaint or liability whatsoever that arises with respect to items, discounts and services availed at the mentioned partner(s).\n* MCB Islamic Bank and the Alliance Partner reserves the right to terminate, withdraw or change the criteria of any discount offering without providing prior notice or reason.\n* MCB Islamic Bank is not liable for the accuracy of the brand offers mentioned under alliances and for updated brand offers, please refer to the relevant alliance partner’s website.\n* MCB Islamic Bank may together with the Alliance Partners, offer discounts from time to time, as part of promotion schemes for the MCB Islamic Debit Cardholders. However, the Alliance Partners have full authority to refuse any promotional offers, and the Bank shall not be liable to the Cardholder for any such refusal.\n* Bank Offers including Discounts, Promotional Offers, and Incentives that are discretionary, and the Cardholders are not entitled to claim the same as a matter of their right.\n* MCB Islamic Bank Debit cards Terms & Conditions apply (Where applicable).",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 73011,
+            "sourceEntityName": "MCB Islamic Bank Ltd",
+            "sourceEntityDescription": "MCB Islamic Bank Limited (the “Bank”) is the wholly owned subsidiary of MCB Bank Limited and commenced its operations in 2015 with a nation-wide network of branches.",
+            "sourceEntityContactNumber": "042 111 222 642",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/mcbislamiclogo_864c7f72-706a-4db4-9d65-bc3846520be6-748.jpeg",
+            "associations": [
+                {
+                    "typeId": 1944,
+                    "name": "Visa Classic Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/mcbislamicvisaclassicdebitcard_10ebe796-d4ca-40f7-9dfb-261cd738e82e-149.png",
+                    "order": 7,
+                    "sourceEntityAssociationId": 2944
+                },
+                {
+                    "typeId": 1948,
+                    "name": "Visa Junior Club Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/4b27cda8793e4f8b95d834d56f2d1385_12942dff-3468-4d9f-893d-20ca5a71238d-333.jpeg",
+                    "order": 5,
+                    "sourceEntityAssociationId": 2945
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 126822,
+            "keywords": [
+                ""
+            ],
+            "title": "30% off on Every Wednesday, Thursday & Friday",
+            "startDate": "2025-07-01T00:00:00",
+            "endDate": "2027-06-30T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 30,
+            "targetEntityId": 1432,
+            "sourceEntityId": 241,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Discount will be valid only on MCB Islamic Union Pay Platinum on (6234 0430) BIN only.\n* 30% or Rs. 4,000 whichever is lower.\n* To ensure fair and equitable utilization of discount offers, the Bank may apply fair usage terms and conditions to promotional discounts available on all MCB Islamic Bank Debit Cards, with the objective of promoting responsible and transparent use of discount privileges.\n* To prevent misuse or excessive/commercial use of discount offers, only (1) one transaction per card per day at the same participating merchant shall be eligible for the applicable discount. Additionally, a maximum of three (3) transactions per card per participating merchant per month shall be eligible for the discount. Transactions exceeding these limits may not qualify for the applicable discount, and the Bank reserves the right to recover the discount amount, where applicable and permissible under the relevant offer terms and applicable regulations.\n* For the effective monitoring and enforcement of the above usage limits, the Bank reserves the right to monitor the utilization of promotional offers and may apply reasonable controls or usage thresholds where deemed necessary. The Bank may also restrict or withdraw applicable discount benefits in cases of misuse or violation of the relevant promotional terms and conditions.\n* Discount is only applicable on food and regular menu.\n* Offer is valid on Every Wednesday, Thursday & Friday starting from 1st July 2026 to 30th June 2027\n* The discount cannot be availed in conjunction with other promotions.\n* The discount at the alliance partner will be available on the days and according to the situation as per the rules and regulations set on the concerned area’s government policies.(Where applicable)\n* The discounts cannot be combined with group discounts, parties, special events or any other offers (where applicable)\n* MCB Islamic debit card members are entitled to discounts in respect to payments made at the alliance partners through their MCB Islamic debit card (selective) only and discount is not applicable on cash transaction.\n* MCB Islamic Bank shall not be responsible for any customer or third party for unsatisfactory or delayed performance of the alliance partners, losses, damages, delays or cancellation/discontinuation of this discount services.\n* The alliance partners reserve the right to refuse or cancel any order for any unforeseen reason at any given time.\n* MCB Islamic Bank will not be responsible for any complaint or liability whatsoever that arises with respect to items, discounts and services availed at the mentioned partner(s).\n* MCB Islamic Bank and the Alliance Partner reserves the right to terminate, withdraw or change the criteria of any discount offering without providing prior notice or reason.\n* MCB Islamic Bank is not liable for the accuracy of the brand offers mentioned under alliances and for updated brand offers, please refer to the relevant alliance partner’s website.\n* MCB Islamic Bank may together with the Alliance Partners, offer discounts from time to time, as part of promotion schemes for the MCB Islamic Debit Cardholders. However, the Alliance Partners have full authority to refuse any promotional offers, and the Bank shall not be liable to the Cardholder for any such refusal.\n* Bank Offers including Discounts, Promotional Offers, and Incentives that are discretionary, and the Cardholders are not entitled to claim the same as a matter of their right.\n* MCB Islamic Bank Debit cards Terms & Conditions apply (Where applicable).",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 73011,
+            "sourceEntityName": "MCB Islamic Bank Ltd",
+            "sourceEntityDescription": "MCB Islamic Bank Limited (the “Bank”) is the wholly owned subsidiary of MCB Bank Limited and commenced its operations in 2015 with a nation-wide network of branches.",
+            "sourceEntityContactNumber": "042 111 222 642",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/mcbislamiclogo_864c7f72-706a-4db4-9d65-bc3846520be6-748.jpeg",
+            "associations": [
+                {
+                    "typeId": 1874,
+                    "name": "UnionPay Platinum Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/mcbplatinumcard_5ee3fb0d-7133-47aa-9642-09f4ab32f1be-904.png",
+                    "order": 4,
+                    "sourceEntityAssociationId": 2553
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 126823,
+            "keywords": [
+                ""
+            ],
+            "title": "15% off on Every Wednesday, Thursday & Friday",
+            "startDate": "2025-07-01T00:00:00",
+            "endDate": "2027-06-30T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 15,
+            "targetEntityId": 1432,
+            "sourceEntityId": 241,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Discount will be valid only on MCB Islamic Union Pay Gold Debit Card (6234 0420) BIN only.\n* Discount will be valid only on MCB Islamic Classic Debit Card (6234 0410) BIN only.\n* Discount will be valid only on MCB Islamic PayPak Debit Card (22057200) BIN only.\n* 15% or Rs. 1,500 whichever is lower on UnionPay Qadar Gold Debit Card\n* 15% or Rs. 1,000 whichever is lower on UnionPay Qadar Classic Debit Card & PayPak Classic Debit Card\n* To ensure fair and equitable utilization of discount offers, the Bank may apply fair usage terms and conditions to promotional discounts available on all MCB Islamic Bank Debit Cards, with the objective of promoting responsible and transparent use of discount privileges.\n* To prevent misuse or excessive/commercial use of discount offers, only (1) one transaction per card per day at the same participating merchant shall be eligible for the applicable discount. Additionally, a maximum of three (3) transactions per card per participating merchant per month shall be eligible for the discount. Transactions exceeding these limits may not qualify for the applicable discount, and the Bank reserves the right to recover the discount amount, where applicable and permissible under the relevant offer terms and applicable regulations.\n* For the effective monitoring and enforcement of the above usage limits, the Bank reserves the right to monitor the utilization of promotional offers and may apply reasonable controls or usage thresholds where deemed necessary. The Bank may also restrict or withdraw applicable discount benefits in cases of misuse or violation of the relevant promotional terms and conditions.\n* Discount is only applicable on food and regular menu.\n* Offer is valid on Every Wednesday, Thursday & Friday starting from 1st July 2026 to 30th June 2027\n* The discount cannot be availed in conjunction with other promotions.\n* The discount at the alliance partner will be available on the days and according to the situation as per the rules and regulations set on the concerned area’s government policies.(Where applicable)\n* The discounts cannot be combined with group discounts, parties, special events or any other offers (where applicable)\n* MCB Islamic debit card members are entitled to discounts in respect to payments made at the alliance partners through their MCB Islamic debit card (selective) only and discount is not applicable on cash transaction.\n* MCB Islamic Bank shall not be responsible for any customer or third party for unsatisfactory or delayed performance of the alliance partners, losses, damages, delays or cancellations.\n* The Alliance partner reserves the right to refuse or cancel any order for any unforeseen reason at any given time.\n* MCB Islamic Bank will not be responsible for any complaint or liability whatsoever that arises with respect to items and services availed at the mentioned alliance partner(s).\n* MCB Islamic Bank and the Alliance Partner reserve the right to terminate, withdraw or change the criteria of any discount offering without providing prior notice or reason.\n* MCB Islamic Bank is not liable for the accuracy of the brand offers mentioned under alliances and for updated brand offers, please refer to the relevant alliance partner’s website.\n* The Bank may together with the Alliance Partners, offer discounts from time to time, as part of promotion schemes for the MCB Islamic Debit Cardholders. However, the Alliance Partners have full authority to refuse any promotional offers, and the Bank shall not be liable to the Cardholder for any such refusal.\n* Bank Offers including Discounts, Promotional Offers, and Incentives that are discretionary, and the Cardholders are not entitled to claim the same as a matter of their right.\n* MCB Islamic Debit cards Terms & Conditions apply (Where applicable).",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 73011,
+            "sourceEntityName": "MCB Islamic Bank Ltd",
+            "sourceEntityDescription": "MCB Islamic Bank Limited (the “Bank”) is the wholly owned subsidiary of MCB Bank Limited and commenced its operations in 2015 with a nation-wide network of branches.",
+            "sourceEntityContactNumber": "042 111 222 642",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/mcbislamiclogo_864c7f72-706a-4db4-9d65-bc3846520be6-748.jpeg",
+            "associations": [
+                {
+                    "typeId": 1876,
+                    "name": "UnionPay Qadar Gold Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/mcbislamicgoldcard_b3501c36-e316-4218-a24d-ab0d9bb4b2e1-250.png",
+                    "order": 3,
+                    "sourceEntityAssociationId": 2555
+                },
+                {
+                    "typeId": 1877,
+                    "name": "UnionPay Qadar Classic Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/mcbislamicclassiccards_d7d8ed70-43c6-40bb-a271-9405b83b5ef1-40.png",
+                    "order": 2,
+                    "sourceEntityAssociationId": 2556
+                },
+                {
+                    "typeId": 1875,
+                    "name": "PayPak Classic Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/mcbislamicpaypak_8ba220ce-1eed-4e47-88b7-2ebe3178cf34-834.png",
+                    "order": 1,
+                    "sourceEntityAssociationId": 2554
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 114481,
+            "keywords": [
+                ""
+            ],
+            "title": "30% off on Every Tuesday",
+            "startDate": "2024-10-01T12:10:00",
+            "endDate": "2026-12-31T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 30,
+            "targetEntityId": 1432,
+            "sourceEntityId": 96,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Discount will be valid only on Mastercard Platinum Credit Card on 523849 BIN only\n* Discount will be valid only on Mastercard Taqwa KHAAS Platinum Islamic Debit Card on 53254468 BIN only\n* 30% or Rs. 4,000 whichever is lower on Mastercard Platinum Credit Card\n* 30% or Rs. 3,000 whichever is lower on Mastercard Taqwa KHAAS Platinum Islamic Debit Card\n* The Bank may together with the Alliance Partners, offer discounts from time to time, as part of promotion schemes for the Cardholders. However, the Alliance Partners have full authority to refuse any promotional offers, and the Bank shall not be liable to the Cardholder for any such refusal.\n* Only (01) One Discount transaction is allowed on offer day and total (4) Four Discount transactions in a Calendar month per card.\n* Split of transactions are not allowed for discount offer.\n* Any other discount transaction monitored same day,will be charged back in monthly account statement of customer.\n* Bank Offers including Discounts, Promotional Offers, and Incentives that are discretionary, and the Cardholders are not entitled to claim the same as a matter of their right.\n* Bank is entitled at any time without any liability to the Cardholder in any manner whatsoever to terminate or withdraw or change the criteria and conditions for these discounts, promotional offers, and incentives. \n* The Cardholders may be entitled to discounts mentioned above in respect to payments made at the mentioned Alliance Partners through their BOP Credit Card /Debit Card. This entitlement is not applicable in respect of cash transactions. \n* The aforementioned discounts are not valid in conjunction with other special promotions, discount programs or vouchers defined by the Bank or Alliance Partners.\n* All Discounts, Promotional Offers, and Incentives are subject to the specific category of the card bins (Gold, Platinum, or World). The cardholder of each category will only be able to enjoy the Offers of the card he/she holds and not any other. \n* The terms of our banking agreement apply to each use of a Credit/Debit card. If a cardholder does not agree with those terms, they should not sign the credit card or carry out any transaction. \n* Cardholder accepts the terms of our banking agreement when he/she first use the Debit/credit card.",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 4468,
+            "sourceEntityName": "Bank of Punjab",
+            "sourceEntityDescription": "Passion Reborn! Bank of Punjab is a customer focused bank with service excellence. Here you can find all the deals and discounts on all BOP Debit Cards including MasterCard Gold Debit Card, MasterCard Silver Debit Card and MasterCard Platinum Debit Card.",
+            "sourceEntityContactNumber": "111 267 200",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_79b94094-4104-40d8-8659-8312d9992c6d-499.jpeg",
+            "associations": [
+                {
+                    "typeId": 1835,
+                    "name": "Mastercard Platinum Credit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/mastercardplatinumcard_684a9d52-734a-40cb-ae51-45e6b770d1dc-208.png",
+                    "order": 11,
+                    "sourceEntityAssociationId": 2349
+                },
+                {
+                    "typeId": 1900,
+                    "name": "Mastercard Taqwa KHAAS Platinum Islamic Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/taqwakhaas_8bf67030-de23-4f78-915f-41406a41dab8-387.png",
+                    "order": 0,
+                    "sourceEntityAssociationId": 2658
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 114483,
+            "keywords": [
+                ""
+            ],
+            "title": "20% off on Every Tuesday",
+            "startDate": "2024-10-01T12:10:00",
+            "endDate": "2026-12-31T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 20,
+            "targetEntityId": 1432,
+            "sourceEntityId": 96,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Discount will be valid only on Mastercard Taqwa Platinum Islamic Debit Card on 53254464 BIN only\n* Discount will be valid only on Mastercard Gold Credit Card on 523821 BIN only\n* 20% or Rs. 3,000 whichever is lower on Mastercard Taqwa Platinum Islamic Debit Card\n* 20% or Rs. 2,000 whichever is lower on Mastercard Gold Credit Card\n* The Bank may together with the Alliance Partners, offer discounts from time to time, as part of promotion schemes for the Cardholders. However, the Alliance Partners have full authority to refuse any promotional offers, and the Bank shall not be liable to the Cardholder for any such refusal.\n* Only (01) One Discount transaction is allowed on offer day and total (4) Four Discount transactions in a Calendar month per card.\n* Split of transactions are not allowed for discount offer.\n* Any other discount transaction monitored same day,will be charged back in monthly account statement of customer.\n* Bank Offers including Discounts, Promotional Offers, and Incentives that are discretionary, and the Cardholders are not entitled to claim the same as a matter of their right.\n* Bank is entitled at any time without any liability to the Cardholder in any manner whatsoever to terminate or withdraw or change the criteria and conditions for these discounts, promotional offers, and incentives. \n* The Cardholders may be entitled to discounts mentioned above in respect to payments made at the mentioned Alliance Partners through their BOP Credit Card /Debit Card. This entitlement is not applicable in respect of cash transactions. \n* The aforementioned discounts are not valid in conjunction with other special promotions, discount programs or vouchers defined by the Bank or Alliance Partners.\n* All Discounts, Promotional Offers, and Incentives are subject to the specific category of the card bins (Gold, Platinum, or World). The cardholder of each category will only be able to enjoy the Offers of the card he/she holds and not any other. \n* The terms of our banking agreement apply to each use of a Credit/Debit card. If a cardholder does not agree with those terms, they should not sign the credit card or carry out any transaction. \n* Cardholder accepts the terms of our banking agreement when he/she first use the Debit/credit card.",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 4468,
+            "sourceEntityName": "Bank of Punjab",
+            "sourceEntityDescription": "Passion Reborn! Bank of Punjab is a customer focused bank with service excellence. Here you can find all the deals and discounts on all BOP Debit Cards including MasterCard Gold Debit Card, MasterCard Silver Debit Card and MasterCard Platinum Debit Card.",
+            "sourceEntityContactNumber": "111 267 200",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_79b94094-4104-40d8-8659-8312d9992c6d-499.jpeg",
+            "associations": [
+                {
+                    "typeId": 1834,
+                    "name": "Mastercard Gold Credit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/mastercardgoldcard_750bc795-9391-4845-b7f9-905750de3063-537.png",
+                    "order": 3,
+                    "sourceEntityAssociationId": 2348
+                },
+                {
+                    "typeId": 1899,
+                    "name": "Mastercard Taqwa Platinum Islamic Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/taqwaplatinum_5abb7c8f-dfa7-438e-8f1e-addcff27cc61-331.png",
+                    "order": 0,
+                    "sourceEntityAssociationId": 2657
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 112675,
+            "keywords": [
+                ""
+            ],
+            "title": "30% off",
+            "startDate": "2024-08-12T11:57:00",
+            "endDate": "2026-12-31T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 30,
+            "targetEntityId": 1432,
+            "sourceEntityId": 29,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Payment shall be made through Meezan Bank Debit Card.\n* Maximum discount cap is of Rs. 8,000 per transaction.\n* This offer is not valid in conjunction with any other promotions and discount program.\n* Discount will not be applicable on govt. taxes (like GST etc.).\n* Meezan Bank reserves the right to discontinue any promotional deal at any time.",
+            "likeCount": 2,
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 45,
+            "sourceEntityName": "Meezan Bank",
+            "sourceEntityDescription": "Meezan Bank - The Premier Islamic Bank! With a network of over 570 online branches, Meezan Bank is the leading dedicated Islamic bank in the country that offers a wide range of personal and corporate Islamic banking products and services. Here you can find all the deals and discounts on all Meezan Bank Debit Cards including Platinum MasterCard Debit Card, Platinum Visa Debit Card, Titanium MasterCard Debit Card, Gold Visa Debit Card and Silver Visa Debit Card.",
+            "sourceEntityContactNumber": "111 331 331",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_d76a1008-3871-4032-9b94-96f4d7693797-229.jpeg",
+            "associations": [
+                {
+                    "typeId": 1740,
+                    "name": "Mastercard World Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/mastercardworlddebitcard_abc6fbbb-afa0-4d3f-bcc3-3b2e3f14e761-311.png",
+                    "order": 9,
+                    "sourceEntityAssociationId": 2107
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 112674,
+            "keywords": [
+                ""
+            ],
+            "title": "40% off",
+            "startDate": "2024-08-12T11:56:00",
+            "endDate": "2026-12-31T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 40,
+            "targetEntityId": 1432,
+            "sourceEntityId": 29,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Payment shall be made through Meezan Bank Debit Card.\n* Maximum discount cap is of Rs. 10,000 per transaction.\n* This offer is not valid in conjunction with any other promotions and discount program.\n* Discount will not be applicable on govt. taxes (like GST etc.).\n* Meezan Bank reserves the right to discontinue any promotional deal at any time.",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 45,
+            "sourceEntityName": "Meezan Bank",
+            "sourceEntityDescription": "Meezan Bank - The Premier Islamic Bank! With a network of over 570 online branches, Meezan Bank is the leading dedicated Islamic bank in the country that offers a wide range of personal and corporate Islamic banking products and services. Here you can find all the deals and discounts on all Meezan Bank Debit Cards including Platinum MasterCard Debit Card, Platinum Visa Debit Card, Titanium MasterCard Debit Card, Gold Visa Debit Card and Silver Visa Debit Card.",
+            "sourceEntityContactNumber": "111 331 331",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_d76a1008-3871-4032-9b94-96f4d7693797-229.jpeg",
+            "associations": [
+                {
+                    "typeId": 1849,
+                    "name": "Visa Infinite Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/infinitedebitcad_372bbb9e-d724-41dd-8081-8e81d320260b-147.png",
+                    "order": 10,
+                    "sourceEntityAssociationId": 2462
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 107793,
+            "keywords": [
+                ""
+            ],
+            "title": "25% off",
+            "startDate": "2024-04-02T12:12:00",
+            "endDate": "2026-12-31T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 25,
+            "targetEntityId": 1432,
+            "sourceEntityId": 239,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Maximum discount of PKR 15,000/- can be availed per transaction.\n* The discounts are not valid in conjunction with other special promotions, discount programmes or vouchers defined by HBL or alliance partners\n* The discounts cannot be combined with group discounts, parties, special events or any other offers\n* HBL Cardmembers are entitled to discounts in respect to payments made at the alliance partners through their HBL Cards. This is not applicable in respect to cash transactions.\n* HBL will not be responsible for any complaint or liability whatsoever that arises with respect to items and services availed on the mentioned partners.\n* HBL reserves the right to terminate or withdraw or change the criteria of any discount offering without providing prior notice or reason.\n* HBL is not liable for the accuracy of the brand offers mentioned under alliances. For updated brand offers, please refer to the relevant alliance partner’s website or physical outlet",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 65659,
+            "sourceEntityName": "HBL Islamic Bank Limited",
+            "sourceEntityDescription": "HBL is one of the largest and leading Islamic banking players in the country. The bank provides a wide range of Shariah compliant solutions to its diverse clientele and is committed to introduce innovative products and initiatives for its valued customers. All the Islamic products offered by HBL are approved by the bank’s Shariah Board comprising of renowned Shariah scholars of Pakistan.",
+            "sourceEntityContactNumber": "111 111 425",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/hblislamicnewlogo_57b30a3d-468c-4af7-b8e2-c5b80d5fa63f-606.jpeg",
+            "associations": [
+                {
+                    "typeId": 1926,
+                    "name": "HBL Islamic World Business DebitCard",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/hblislamicworldbusinessdebitcard_5beca49c-9c5b-4e70-880f-21fa3550fde1-252.png",
+                    "order": 0,
+                    "sourceEntityAssociationId": 2886
+                },
+                {
+                    "typeId": 1840,
+                    "name": "HBL Islamic World DebitCard",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/hblislamicworld_401182c4-01f9-467f-b2c4-64c65ecdf710-464.jpeg",
+                    "order": 0,
+                    "sourceEntityAssociationId": 2408
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 107792,
+            "keywords": [
+                ""
+            ],
+            "title": "25% off",
+            "startDate": "2024-04-02T12:11:00",
+            "endDate": "2026-12-31T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 25,
+            "targetEntityId": 1432,
+            "sourceEntityId": 32,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Maximum discount of PKR 15,000/- can be availed per transaction.\n* The discounts are not valid in conjunction with other special promotions, discount programmes or vouchers defined by HBL or alliance partners\n* The discounts cannot be combined with group discounts, parties, special events or any other offers\n* HBL Cardmembers are entitled to discounts in respect to payments made at the alliance partners through their HBL Cards. This is not applicable in respect to cash transactions.\n* HBL will not be responsible for any complaint or liability whatsoever that arises with respect to items and services availed on the mentioned partners.\n* HBL reserves the right to terminate or withdraw or change the criteria of any discount offering without providing prior notice or reason.\n* HBL is not liable for the accuracy of the brand offers mentioned under alliances. For updated brand offers, please refer to the relevant alliance partner’s website or physical outlet",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 289,
+            "sourceEntityName": "Habib Bank Limited",
+            "sourceEntityDescription": "Jahan Khwab Wahan HBL! HBL being the largest bank of Pakistan provides amazing online (internet) banking service along with easy car loan for its customers. Here you can find all the deals and discounts for all HBL Credit and Debit cards including Visa Gold Credit Card, Visa Green Credit Card, Visa Platinum Credit Card, Master Debit Card, Master World Debit Card, Master Titanium Debit Card etc..",
+            "sourceEntityContactNumber": "111 111 425",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/hblnewlogo_0df69171-bf78-412a-b12b-eed3e2ef43f6-225.jpeg",
+            "associations": [
+                {
+                    "typeId": 813,
+                    "name": "HBL Platinum CreditCard",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/platinumcreditcard_72f93088-2bfb-49c1-a1bc-12537dc75526-520.jpeg",
+                    "order": 10,
+                    "sourceEntityAssociationId": 9
+                },
+                {
+                    "typeId": 804,
+                    "name": "HBL World DebitCard",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/worlddebitcard_c56cebdd-89a4-45d6-9780-2c5c83759449-693.jpeg",
+                    "order": 8,
+                    "sourceEntityAssociationId": 10
+                },
+                {
+                    "typeId": 1924,
+                    "name": "HBL World Business DebitCard",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/hblworldbusinessdebitcard_66700317-a2cf-4968-a98f-d738dac8804d-43.png",
+                    "order": 0,
+                    "sourceEntityAssociationId": 2882
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 104170,
+            "keywords": [
+                ""
+            ],
+            "title": "50% off",
+            "startDate": "2024-01-18T17:29:00",
+            "endDate": "2036-12-31T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 50,
+            "targetEntityId": 1432,
+            "sourceEntityId": 45,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* The discount offers are for ABL cardholders for the promotion of ABL respective Cards.\n* 50% Discount is capped to PKR 10,000 per transaction.\n* Introduction of Fair Usage Terms & Conditions (T&C) for Premium & Infinite Debit Card Discounts; \n  * a. To ensure fair and equitable utilization of discount offers, Allied Bank has introduced Fair Usage Terms & Conditions for Premium and Infinite Debit Card discounts. These terms and conditions have been duly aligned to promote responsible and transparent usage of discount privileges.\n  * b. To prevent misuse of card/discounts and its commercial use by the cardholder, the Bank reserves the right to monitor card transactions for excessive or disproportionate usage of discount or promotional offers and can impose any threshold per month consequent to this monitoring. The Bank may, at its sole discretion and without prior notice, restrict, suspend, or cancel the Card and/or withdraw the applicable benefits/discounts. The Bank’s determination of excessive/commercial usage or misuse shall be final and binding, and the Cardholder shall have no right to claim or any recourse in this regard.\n  * c. To ensure fair usage of the discount, only one transaction per card per day is allowed at a single alliance partner. Additionally, a maximum of 3 transactions per card per alliances partner are eligible for the discount in a month. If more than 3 transactions are made, the bank reserves the right to charge or recover the full amount of discount from the card holder for any additional transactions.\n* Allied Bank Cardholders may be entitled to the discount offers in respect of payments made at the selected Merchants and Alliance Partners through their Allied (Visa, UPI-PayPak) Cards including Credit & Debit cards. The discount offers are not applicable in respect of cash transactions.\n* Allied Bank is entitled at any time without any liability to the cardholder in any manner whatsoever to terminate or withdraw or change the criteria and conditions for any or all the discounts and/or promotional offers.\n* The discounts are not valid in conjunction with other special promotions and/or discount programs defined by Allied Bank, Merchants and Alliance Partners.\n* Allied Bank specific card discounts and/or promotional offers are discretionary and the cardholders are not entitled to claim the same as a matter of their right.\n* The Merchants / Alliance Partners reserve the right to refuse or cancel discount for any unforeseen reason or circumstances including but not limited to misuse of discount / multiple transaction on a single card at any given time.\n* For any further information, please call Helpline at: 042-111-225-225.",
+            "likeCount": 2,
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 778,
+            "sourceEntityName": "Allied Bank",
+            "sourceEntityDescription": "Ap Kay Dil Mai Hamara Account",
+            "sourceEntityContactNumber": "111 225 225",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/960e7769-9ded-428d-89a7-b1d4776435ba-350.jpeg",
+            "associations": [
+                {
+                    "typeId": 1950,
+                    "name": "Visa Infinite Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/ABLvisainfinite_e3549fdc-60af-4e1f-9ba1-32c8191b54a3-767.png",
+                    "order": 16,
+                    "sourceEntityAssociationId": 2953
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 103578,
+            "keywords": [
+                ""
+            ],
+            "title": "30% off",
+            "startDate": "2024-01-02T13:00:00",
+            "endDate": "2026-12-31T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 30,
+            "targetEntityId": 1432,
+            "sourceEntityId": 239,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Maximum discount of PKR 20,000/- can be availed per transaction.\n* The discounts are not valid in conjunction with other special promotions, discount programmes or vouchers defined by HBL or alliance partners\n* The discounts cannot be combined with group discounts, parties, special events or any other offers\n* HBL Cardmembers are entitled to discounts in respect to payments made at the alliance partners through their HBL Cards. This is not applicable in respect to cash transactions.\n* HBL will not be responsible for any complaint or liability whatsoever that arises with respect to items and services availed on the mentioned partners.\n* HBL reserves the right to terminate or withdraw or change the criteria of any discount offering without providing prior notice or reason.\n* HBL is not liable for the accuracy of the brand offers mentioned under alliances. For updated brand offers, please refer to the relevant alliance partner’s website or physical outlet",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 65659,
+            "sourceEntityName": "HBL Islamic Bank Limited",
+            "sourceEntityDescription": "HBL is one of the largest and leading Islamic banking players in the country. The bank provides a wide range of Shariah compliant solutions to its diverse clientele and is committed to introduce innovative products and initiatives for its valued customers. All the Islamic products offered by HBL are approved by the bank’s Shariah Board comprising of renowned Shariah scholars of Pakistan.",
+            "sourceEntityContactNumber": "111 111 425",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/hblislamicnewlogo_57b30a3d-468c-4af7-b8e2-c5b80d5fa63f-606.jpeg",
+            "associations": [
+                {
+                    "typeId": 1843,
+                    "name": "HBL Islamic World Elite DebitCard",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/hblislamicworldelitecard_8111e01b-a4a7-46de-8da3-aac52154e6c5-499.jpeg",
+                    "order": 0,
+                    "sourceEntityAssociationId": 2409
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 103576,
+            "keywords": [
+                ""
+            ],
+            "title": "30% off",
+            "startDate": "2024-01-02T12:58:00",
+            "endDate": "2026-12-31T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 30,
+            "targetEntityId": 1432,
+            "sourceEntityId": 32,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Maximum discount of PKR 20,000/- can be availed per transaction.\n* The discounts are not valid in conjunction with other special promotions, discount programmes or vouchers defined by HBL or alliance partners\n* The discounts cannot be combined with group discounts, parties, special events or any other offers\n* HBL Cardmembers are entitled to discounts in respect to payments made at the alliance partners through their HBL Cards. This is not applicable in respect to cash transactions.\n* HBL will not be responsible for any complaint or liability whatsoever that arises with respect to items and services availed on the mentioned partners.\n* HBL reserves the right to terminate or withdraw or change the criteria of any discount offering without providing prior notice or reason.\n* HBL is not liable for the accuracy of the brand offers mentioned under alliances. For updated brand offers, please refer to the relevant alliance partner’s website or physical outlet",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 289,
+            "sourceEntityName": "Habib Bank Limited",
+            "sourceEntityDescription": "Jahan Khwab Wahan HBL! HBL being the largest bank of Pakistan provides amazing online (internet) banking service along with easy car loan for its customers. Here you can find all the deals and discounts for all HBL Credit and Debit cards including Visa Gold Credit Card, Visa Green Credit Card, Visa Platinum Credit Card, Master Debit Card, Master World Debit Card, Master Titanium Debit Card etc..",
+            "sourceEntityContactNumber": "111 111 425",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/hblnewlogo_0df69171-bf78-412a-b12b-eed3e2ef43f6-225.jpeg",
+            "associations": [
+                {
+                    "typeId": 1729,
+                    "name": "HBL World Elite DebitCard",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/worldelitedebitcard_c16e72d1-1c55-4938-a1a9-bf4da6c31f9d-150.jpeg",
+                    "order": 9,
+                    "sourceEntityAssociationId": 2059
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 103472,
+            "keywords": [
+                ""
+            ],
+            "title": "40% off on Every Tuesday",
+            "startDate": "2024-01-01T18:07:00",
+            "endDate": "2026-12-31T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 40,
+            "targetEntityId": 1432,
+            "sourceEntityId": 96,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Discount will be valid only on Mastercard World Debit Card on 53254409 BIN only\n* Discount will be valid only on Mastercard Taqwa World Islamic Debit Card 53254435 BIN only\n* Discount capping PKR 4,000/- on Mastercard World Debit Card & Mastercard Taqwa World Islamic Debit Card\n* The Bank may together with the Alliance Partners, offer discounts from time to time, as part of promotion schemes for the Cardholders. However, the Alliance Partners have full authority to refuse any promotional offers, and the Bank shall not be liable to the Cardholder for any such refusal.\n* Only (01) One Discount transaction is allowed on offer day and total (4) Four Discount transactions in a Calendar month per card.\n* Split of transactions are not allowed for discount offer.\n* Any other discount transaction monitored same day,will be charged back in monthly account statement of customer.\n* Bank Offers including Discounts, Promotional Offers, and Incentives that are discretionary, and the Cardholders are not entitled to claim the same as a matter of their right.\n* Bank is entitled at any time without any liability to the Cardholder in any manner whatsoever to terminate or withdraw or change the criteria and conditions for these discounts, promotional offers, and incentives. \n* The Cardholders may be entitled to discounts mentioned above in respect to payments made at the mentioned Alliance Partners through their BOP Credit Card /Debit Card. This entitlement is not applicable in respect of cash transactions. \n* The aforementioned discounts are not valid in conjunction with other special promotions, discount programs or vouchers defined by the Bank or Alliance Partners.\n* All Discounts, Promotional Offers, and Incentives are subject to the specific category of the card bins (Gold, Platinum, or World). The cardholder of each category will only be able to enjoy the Offers of the card he/she holds and not any other. \n* The terms of our banking agreement apply to each use of a Credit/Debit card. If a cardholder does not agree with those terms, they should not sign the credit card or carry out any transaction. \n* Cardholder accepts the terms of our banking agreement when he/she first use the Debit/credit card.",
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 4468,
+            "sourceEntityName": "Bank of Punjab",
+            "sourceEntityDescription": "Passion Reborn! Bank of Punjab is a customer focused bank with service excellence. Here you can find all the deals and discounts on all BOP Debit Cards including MasterCard Gold Debit Card, MasterCard Silver Debit Card and MasterCard Platinum Debit Card.",
+            "sourceEntityContactNumber": "111 267 200",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_79b94094-4104-40d8-8659-8312d9992c6d-499.jpeg",
+            "associations": [
+                {
+                    "typeId": 1880,
+                    "name": "Mastercard World Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/bopworlddebitcard_644f0853-6659-4444-96b9-0ae3ee42486f-442.png",
+                    "order": 2,
+                    "sourceEntityAssociationId": 2572
+                },
+                {
+                    "typeId": 1881,
+                    "name": "Mastercard Taqwa World Islamic Debit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/bopworlddebitcardtaqwa_c2cb5c0a-dab9-434b-9642-17acea9a2792-889.png",
+                    "order": 0,
+                    "sourceEntityAssociationId": 2573
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        },
+        {
+            "dealId": 103471,
+            "keywords": [
+                ""
+            ],
+            "title": "50% off on Every Tuesday",
+            "startDate": "2024-01-01T18:06:00",
+            "endDate": "2026-12-31T23:59:00",
+            "poweredBy": "NONE",
+            "percentageValue": 50,
+            "targetEntityId": 1432,
+            "sourceEntityId": 96,
+            "redeemableCount": 0,
+            "orderType": "OUTLET",
+            "expiresIn": 7216216,
+            "description": "* Discount will be valid only on World Credit Card on 523819 BIN only\n* 50% or Rs. 6,000 whichever is lower \n* The Bank may together with the Alliance Partners, offer discounts from time to time, as part of promotion schemes for the Cardholders. However, the Alliance Partners have full authority to refuse any promotional offers, and the Bank shall not be liable to the Cardholder for any such refusal.\n* Only (01) One Discount transaction is allowed on offer day and total (4) Four Discount transactions in a Calendar month per card.\n* Split of transactions are not allowed for discount offer.\n* Any other discount transaction monitored same day,will be charged back in monthly account statement of customer.\n* Bank Offers including Discounts, Promotional Offers, and Incentives that are discretionary, and the Cardholders are not entitled to claim the same as a matter of their right.\n* Bank is entitled at any time without any liability to the Cardholder in any manner whatsoever to terminate or withdraw or change the criteria and conditions for these discounts, promotional offers, and incentives. \n* The Cardholders may be entitled to discounts mentioned above in respect to payments made at the mentioned Alliance Partners through their BOP Credit Card /Debit Card. This entitlement is not applicable in respect of cash transactions. \n* The aforementioned discounts are not valid in conjunction with other special promotions, discount programs or vouchers defined by the Bank or Alliance Partners.\n* All Discounts, Promotional Offers, and Incentives are subject to the specific category of the card bins (Gold, Platinum, or World). The cardholder of each category will only be able to enjoy the Offers of the card he/she holds and not any other. \n* The terms of our banking agreement apply to each use of a Credit/Debit card. If a cardholder does not agree with those terms, they should not sign the credit card or carry out any transaction. \n* Cardholder accepts the terms of our banking agreement when he/she first use the Debit/credit card.",
+            "likeCount": 4,
+            "targetBranches": {
+                "2026015": "Firdous Market Islamabad Branch"
+            },
+            "likedByMe": "false",
+            "dislikedByMe": "false",
+            "targetEntityName": "Rinas kitchenette",
+            "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "sourceOriginalId": 4468,
+            "sourceEntityName": "Bank of Punjab",
+            "sourceEntityDescription": "Passion Reborn! Bank of Punjab is a customer focused bank with service excellence. Here you can find all the deals and discounts on all BOP Debit Cards including MasterCard Gold Debit Card, MasterCard Silver Debit Card and MasterCard Platinum Debit Card.",
+            "sourceEntityContactNumber": "111 267 200",
+            "buy": false,
+            "apply": false,
+            "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_79b94094-4104-40d8-8659-8312d9992c6d-499.jpeg",
+            "associations": [
+                {
+                    "typeId": 1837,
+                    "name": "Mastercard World Credit Card",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/bopmastercardworld_b92f5b50-4990-4af7-a847-fb2809e8f383-447.png",
+                    "order": 12,
+                    "sourceEntityAssociationId": 2371
+                }
+            ],
+            "isRedeemable": false,
+            "redeemedCount": 0,
+            "redemptionDetails": {
+                "isRedeemable": false,
+                "redeemableCount": 0,
+                "redeemedCount": 0
+            }
+        }
+    ]
+}

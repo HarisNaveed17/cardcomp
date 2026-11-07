@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:oklch(0.76 0.17 52);color:oklch(0.25 0.12 295);font:15px/1.45 "DM Sans",system-ui,sans-serif}
+a{color:oklch(0.42 0.2 295)}a:hover{color:oklch(0.32 0.18 295)}
+select option{color:#1b1030;background:#fff}
+@keyframes pop{0%{opacity:0;transform:translateY(24px) scale(.94)}100%{opacity:1;transform:none}}
+@keyframes reveal{0%{opacity:0;transform:translateY(-6px)}100%{opacity:1;transform:none}}
+</style>
+</helmet>
+
+<div style="min-height:100vh;display:flex;flex-direction:column">
+
+<sc-if value="{{ inQuestions }}" hint-placeholder-val="{{ true }}">
+  <div style="flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:48px 20px;gap:28px">
+    <div style="display:flex;align-items:center;gap:12px">
+      <img src="icons/icon48.png" alt="" width="36" height="36" style="border-radius:10px">
+      <div style="font-family:'Bricolage Grotesque',sans-serif;font-weight:800;font-size:22px;color:oklch(0.25 0.12 295);letter-spacing:-0.01em;white-space:nowrap">Best Card For You</div>
+    </div>
+
+    <sc-if value="{{ stepCity }}" hint-placeholder-val="{{ true }}">
+      <div style="width:100%;max-width:640px;background:oklch(0.38 0.19 295);color:#fff;border-radius:28px;padding:36px 36px 32px;box-shadow:0 24px 60px -20px oklch(0.3 0.18 295 / 0.6);animation:pop .5s cubic-bezier(.2,.9,.3,1.15) both">
+        <div style="font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:oklch(0.85 0.13 62)">Question 1 of 2</div>
+        <h1 style="font-family:'Bricolage Grotesque',sans-serif;font-weight:700;font-size:36px;line-height:1.1;margin:10px 0 6px;letter-spacing:-0.02em;text-wrap:pretty">Which city do you shop in?</h1>
+        <p style="margin:0 0 24px;color:oklch(0.88 0.04 295);font-size:15px">Deals differ by city. You can change this later.</p>
+        <div style="display:flex;flex-wrap:wrap;gap:10px">
+          <sc-for list="{{ cityChips }}" as="c" hint-placeholder-count="7">
+            <button type="button" onClick="{{ c.pick }}" style="font:600 16px 'DM Sans',sans-serif;padding:12px 20px;border-radius:999px;cursor:pointer;border:2px solid {{ c.border }};background:{{ c.bg }};color:{{ c.fg }};transition:all .15s" style-hover="background:oklch(0.82 0.15 60);color:oklch(0.25 0.12 295);border-color:oklch(0.82 0.15 60)">{{ c.name }}</button>
+          </sc-for>
+        </div>
+      </div>
+    </sc-if>
+
+    <sc-if value="{{ stepCategory }}" hint-placeholder-val="{{ false }}">
+      <div style="width:100%;max-width:640px;background:oklch(0.38 0.19 295);color:#fff;border-radius:28px;padding:36px 36px 32px;box-shadow:0 24px 60px -20px oklch(0.3 0.18 295 / 0.6);animation:pop .5s cubic-bezier(.2,.9,.3,1.15) both">
+        <div style="display:flex;justify-content:space-between;align-items:center;gap:12px">
+          <div style="font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:oklch(0.85 0.13 62);white-space:nowrap">Question 2 of 2</div>
+          <button type="button" onClick="{{ backToCity }}" style="font:500 14px 'DM Sans',sans-serif;background:none;border:0;color:oklch(0.88 0.04 295);cursor:pointer;padding:4px 0;white-space:nowrap;flex:none" style-hover="color:#fff">← {{ city }}</button>
+        </div>
+        <h1 style="font-family:'Bricolage Grotesque',sans-serif;font-weight:700;font-size:36px;line-height:1.1;margin:10px 0 6px;letter-spacing:-0.02em;text-wrap:pretty">What do you spend on most?</h1>
+        <p style="margin:0 0 24px;color:oklch(0.88 0.04 295);font-size:15px">We'll compare deals in this category.</p>
+        <div style="display:flex;flex-wrap:wrap;gap:10px">
+          <sc-for list="{{ catChips }}" as="c" hint-placeholder-count="13">
+            <button type="button" onClick="{{ c.pick }}" style="font:600 16px 'DM Sans',sans-serif;padding:12px 20px;border-radius:999px;cursor:pointer;border:2px solid {{ c.border }};background:{{ c.bg }};color:{{ c.fg }};transition:all .15s" style-hover="background:oklch(0.82 0.15 60);color:oklch(0.25 0.12 295);border-color:oklch(0.82 0.15 60)">{{ c.name }}</button>
+          </sc-for>
+        </div>
+      </div>
+    </sc-if>
+  </div>
+</sc-if>
+
+<sc-if value="{{ stepCards }}" hint-placeholder-val="{{ false }}">
+  <header style="display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap;padding:18px 28px">
+    <div style="display:flex;align-items:center;gap:12px">
+      <img src="icons/icon48.png" alt="" width="32" height="32" style="border-radius:9px">
+      <div style="font-family:'Bricolage Grotesque',sans-serif;font-weight:800;font-size:20px;letter-spacing:-0.01em;white-space:nowrap">Best Card For You</div>
+    </div>
+    <div style="display:flex;gap:8px;flex-wrap:wrap">
+      <button type="button" onClick="{{ backToCity }}" style="font:600 14px 'DM Sans',sans-serif;padding:8px 14px;border-radius:999px;border:0;cursor:pointer;background:oklch(0.38 0.19 295);color:#fff;display:flex;gap:8px;align-items:center" style-hover="background:oklch(0.32 0.18 295)"><span style="color:oklch(0.85 0.13 62);font-weight:500">City</span>{{ city }}</button>
+      <button type="button" onClick="{{ backToCategory }}" style="font:600 14px 'DM Sans',sans-serif;padding:8px 14px;border-radius:999px;border:0;cursor:pointer;background:oklch(0.38 0.19 295);color:#fff;display:flex;gap:8px;align-items:center" style-hover="background:oklch(0.32 0.18 295)"><span style="color:oklch(0.85 0.13 62);font-weight:500">Category</span>{{ categoryName }}</button>
+    </div>
+  </header>
+
+  <main style="flex:1;padding:8px 20px 48px;display:flex;flex-direction:column;align-items:center;gap:36px">
+    <div style="text-align:center;max-width:640px">
+      <h1 style="font-family:'Bricolage Grotesque',sans-serif;font-weight:700;font-size:36px;line-height:1.1;margin:8px 0 6px;letter-spacing:-0.02em;text-wrap:pretty">Which cards are you weighing up?</h1>
+      <p style="margin:0;font-size:16px;color:oklch(0.3 0.12 295)">Pick a bank and card. Add up to 4.</p>
+    </div>
+
+    <div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:flex-start;gap:20px;width:100%;max-width:1360px">
+      <sc-for list="{{ slots }}" as="s" hint-placeholder-count="2">
+        <div style="width:300px;background:oklch(0.38 0.19 295);color:#fff;border-radius:24px;padding:22px 22px 20px;box-shadow:0 20px 50px -22px oklch(0.3 0.18 295 / 0.7);animation:pop .5s cubic-bezier(.2,.9,.3,1.15) both;animation-delay:{{ s.delay }};display:flex;flex-direction:column;gap:14px">
+          <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;min-height:30px">
+            <div style="font-family:'Bricolage Grotesque',sans-serif;font-weight:700;font-size:18px;white-space:nowrap">Card {{ s.num }}</div>
+            <sc-if value="{{ s.removable }}" hint-placeholder-val="{{ false }}">
+              <button type="button" onClick="{{ s.remove }}" aria-label="Remove card" style="flex:none;width:30px;height:30px;border-radius:50%;border:0;background:rgba(255,255,255,.12);color:#fff;font-size:18px;line-height:1;cursor:pointer" style-hover="background:rgba(255,255,255,.24)">×</button>
+            </sc-if>
+          </div>
+
+          <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:500;color:oklch(0.88 0.04 295)">Bank
+            <select value="{{ s.bankId }}" onChange="{{ s.onBank }}" style="font:500 15px 'DM Sans',sans-serif;color:#fff;background:rgba(255,255,255,.1);border:1.5px solid rgba(255,255,255,.22);border-radius:12px;padding:10px 12px;color-scheme:dark;cursor:pointer">
+              <option value="">Pick a bank</option>
+              <sc-for list="{{ banks }}" as="b" hint-placeholder-count="0"><option value="{{ b.id }}">{{ b.name }}</option></sc-for>
+            </select>
+          </label>
+
+          <div style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:500;color:oklch(0.88 0.04 295)">Card type
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:4px;padding:4px;background:rgba(255,255,255,.1);border-radius:12px">
+              <button type="button" onClick="{{ s.setCredit }}" style="font:600 14px 'DM Sans',sans-serif;padding:8px;border:0;border-radius:9px;cursor:pointer;background:{{ s.creditBg }};color:{{ s.creditFg }}">Credit</button>
+              <button type="button" onClick="{{ s.setDebit }}" style="font:600 14px 'DM Sans',sans-serif;padding:8px;border:0;border-radius:9px;cursor:pointer;background:{{ s.debitBg }};color:{{ s.debitFg }}">Debit</button>
+            </div>
+          </div>
+
+          <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:500;color:oklch(0.88 0.04 295)">Card
+            <select value="{{ s.cardId }}" onChange="{{ s.onCard }}" disabled="{{ s.cardDisabled }}" style="font:500 15px 'DM Sans',sans-serif;color:#fff;background:rgba(255,255,255,.1);border:1.5px solid rgba(255,255,255,.22);border-radius:12px;padding:10px 12px;color-scheme:dark;cursor:pointer;opacity:{{ s.cardOpacity }}">
+              <option value="">{{ s.cardPlaceholder }}</option>
+              <sc-for list="{{ s.cardOptions }}" as="o" hint-placeholder-count="0"><option value="{{ o.id }}" disabled="{{ o.used }}">{{ o.name }}</option></sc-for>
+            </select>
+          </label>
+
+          <button type="button" onClick="{{ s.toggleHave }}" aria-pressed="{{ s.haveStr }}" style="display:flex;align-items:center;gap:10px;font:500 14px 'DM Sans',sans-serif;color:#fff;background:none;border:0;padding:2px 0;cursor:pointer;text-align:left">
+            <span style="width:40px;height:24px;border-radius:999px;background:{{ s.haveTrack }};position:relative;flex:none;transition:background .2s">
+              <span style="position:absolute;top:3px;left:{{ s.haveKnob }};width:18px;height:18px;border-radius:50%;background:#fff;transition:left .2s"></span>
+            </span>
+            I already have this card
+          </button>
+
+          <sc-if value="{{ s.complete }}" hint-placeholder-val="{{ false }}">
+            <div style="background:oklch(0.3 0.16 295);border-radius:16px;padding:16px;display:flex;flex-direction:column;gap:12px;animation:reveal .35s ease both">
+              <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:8px">
+                <div style="font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:oklch(0.85 0.04 295)">Annual fee</div>
+                <span style="font-size:11px;font-weight:600;padding:2px 8px;border-radius:999px;background:{{ s.badgeBg }};color:{{ s.badgeFg }}">{{ s.badge }}</span>
+              </div>
+              <sc-if value="{{ s.feeKnown }}" hint-placeholder-val="{{ true }}">
+                <div>
+                  <div style="font-family:'Bricolage Grotesque',sans-serif;font-weight:800;font-size:30px;line-height:1;color:oklch(0.85 0.13 62)">{{ s.feeText }}</div>
+                  <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:12px;color:oklch(0.85 0.04 295);margin-top:6px">
+                    <span>{{ s.feeSub }}</span>
+                    <button type="button" onClick="{{ s.editFee }}" style="font:600 12px 'DM Sans',sans-serif;background:none;border:0;padding:0;color:oklch(0.85 0.13 62);cursor:pointer;text-decoration:underline">Edit</button>
+                    <sc-if value="{{ s.overridden }}" hint-placeholder-val="{{ false }}">
+                      <button type="button" onClick="{{ s.resetFee }}" style="font:600 12px 'DM Sans',sans-serif;background:none;border:0;padding:0;color:oklch(0.85 0.13 62);cursor:pointer;text-decoration:underline">Reset</button>
+                    </sc-if>
+                  </div>
+                </div>
+              </sc-if>
+              <sc-if value="{{ s.feeUnknown }}" hint-placeholder-val="{{ false }}">
+                <div style="display:flex;flex-direction:column;gap:8px">
+                  <div style="font-size:14px;color:#fff">{{ s.feePrompt }}</div>
+                  <div style="display:flex;gap:8px;align-items:center">
+                    <input type="number" min="0" step="500" placeholder="Rs" defaultValue="{{ s.feeInput }}" autoFocus="{{ s.editing }}" onBlur="{{ s.onFeeBlur }}" onKeyDown="{{ s.onFeeKey }}" style="font:500 15px 'DM Sans',sans-serif;color:#fff;background:rgba(255,255,255,.1);border:1.5px solid rgba(255,255,255,.22);border-radius:10px;padding:8px 10px;color-scheme:dark;width:140px">
+                    <span style="font-size:12px;color:oklch(0.85 0.04 295)">Press Enter to save</span>
+                  </div>
+                </div>
+              </sc-if>
+              <sc-if value="{{ s.hasReversal }}" hint-placeholder-val="{{ false }}">
+                <div style="border-top:1px solid rgba(255,255,255,.14);padding-top:12px">
+                  <div style="font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:oklch(0.85 0.04 295);margin-bottom:4px">Fee reversal</div>
+                  <div style="font-size:14px;line-height:1.45;color:#fff;text-wrap:pretty">{{ s.reversal }}</div>
+                </div>
+              </sc-if>
+              <sc-if value="{{ s.hasNote }}" hint-placeholder-val="{{ false }}">
+                <div style="font-size:12px;line-height:1.45;color:oklch(0.85 0.04 295);text-wrap:pretty">{{ s.note }}</div>
+              </sc-if>
+              <div style="border-top:1px solid rgba(255,255,255,.14);padding-top:12px;display:flex;justify-content:space-between;align-items:baseline;gap:8px">
+                <div style="font-size:14px;color:#fff"><strong style="font-weight:700;color:oklch(0.85 0.13 62)">{{ s.covered }}</strong> of {{ placeCount }} places</div>
+                <div style="font-size:12px;color:oklch(0.85 0.04 295)">best {{ s.bestPct }}</div>
+              </div>
+            </div>
+          </sc-if>
+        </div>
+      </sc-for>
+
+      <sc-if value="{{ canAdd }}" hint-placeholder-val="{{ true }}">
+        <button type="button" onClick="{{ addSlot }}" aria-label="Add another card" style="align-self:center;display:flex;flex-direction:column;align-items:center;gap:10px;background:none;border:0;cursor:pointer;padding:8px;font:600 14px 'DM Sans',sans-serif;color:oklch(0.25 0.12 295);white-space:nowrap">
+          <span style="width:64px;height:64px;border-radius:50%;background:oklch(0.38 0.19 295);color:#fff;display:flex;align-items:center;justify-content:center;font-size:36px;font-weight:400;line-height:1;box-shadow:0 12px 28px -12px oklch(0.3 0.18 295 / 0.8);transition:transform .15s" style-hover="transform:scale(1.08)">+</span>
+          {{ addLabel }}
+        </button>
+      </sc-if>
+    </div>
+
+    <section style="width:100%;max-width:1200px;background:#fffdfb;border-radius:24px;overflow:hidden;box-shadow:0 24px 60px -28px oklch(0.3 0.18 295 / 0.6)">
+      <div style="display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;padding:20px 24px 14px">
+        <h2 style="font-family:'Bricolage Grotesque',sans-serif;font-weight:700;font-size:22px;margin:0;letter-spacing:-0.01em">{{ tableTitle }}</h2>
+        <div style="display:flex;align-items:center;gap:14px;flex-wrap:wrap">
+          <sc-if value="{{ hasCards }}" hint-placeholder-val="{{ false }}">
+            <label style="display:flex;align-items:center;gap:8px;font-size:13px;font-weight:600;color:oklch(0.45 0.08 295)">Show
+              <select value="{{ view }}" onChange="{{ onView }}" style="font:600 14px 'DM Sans',sans-serif;color:oklch(0.25 0.12 295);background:oklch(0.97 0.01 295);border:1.5px solid oklch(0.88 0.04 295);border-radius:999px;padding:7px 12px;cursor:pointer">
+                <sc-for list="{{ viewOptions }}" as="o" hint-placeholder-count="0"><option value="{{ o.value }}">{{ o.label }}</option></sc-for>
+              </select>
+            </label>
+            <label style="display:flex;align-items:center;gap:8px;font-size:13px;font-weight:600;color:oklch(0.45 0.08 295)">Sort by
+              <select value="{{ sort }}" onChange="{{ onSort }}" style="font:600 14px 'DM Sans',sans-serif;color:oklch(0.25 0.12 295);background:oklch(0.97 0.01 295);border:1.5px solid oklch(0.88 0.04 295);border-radius:999px;padding:7px 12px;cursor:pointer">
+                <option value="pct">Highest discount %</option>
+                <option value="cap">Highest max cap</option>
+                <option value="name">Place name</option>
+              </select>
+            </label>
+            <sc-if value="{{ showSortCard }}" hint-placeholder-val="{{ false }}">
+              <label style="display:flex;align-items:center;gap:8px;font-size:13px;font-weight:600;color:oklch(0.45 0.08 295)">for
+                <select value="{{ sortCard }}" onChange="{{ onSortCard }}" style="font:600 14px 'DM Sans',sans-serif;color:oklch(0.25 0.12 295);background:oklch(0.97 0.01 295);border:1.5px solid oklch(0.88 0.04 295);border-radius:999px;padding:7px 12px;cursor:pointer;max-width:240px">
+                  <option value="any">Any card (best offer)</option>
+                  <sc-for list="{{ sortCardOptions }}" as="o" hint-placeholder-count="0"><option value="{{ o.value }}">{{ o.label }}</option></sc-for>
+                </select>
+              </label>
+            </sc-if>
+            <input type="search" placeholder="Search places" aria-label="Search places" value="{{ query }}" onChange="{{ onQuery }}" style="font:500 14px 'DM Sans',sans-serif;color:oklch(0.25 0.12 295);background:oklch(0.97 0.01 295);border:1.5px solid oklch(0.88 0.04 295);border-radius:999px;padding:8px 16px;width:220px;outline-color:oklch(0.38 0.19 295)">
+          </sc-if>
+          <div style="font-size:13px;color:oklch(0.45 0.08 295);white-space:nowrap">{{ tableSub }}</div>
+        </div>
+      </div>
+      <sc-if value="{{ noCards }}" hint-placeholder-val="{{ true }}">
+        <div style="padding:40px 24px 48px;text-align:center;color:oklch(0.45 0.08 295);font-size:15px;border-top:1px solid oklch(0.92 0.02 295)">Pick a card above and its deals show up here.</div>
+      </sc-if>
+      <sc-if value="{{ hasCards }}" hint-placeholder-val="{{ false }}">
+        <div style="overflow-x:auto">
+          <table style="border-collapse:collapse;width:100%;min-width:560px">
+            <thead>
+              <tr style="background:oklch(0.38 0.19 295);color:#fff">
+                <th style="text-align:left;padding:12px 24px;font-size:13px;font-weight:600">Place</th>
+                <sc-for list="{{ headCards }}" as="h" hint-placeholder-count="2">
+                  <th style="text-align:left;padding:12px 16px;vertical-align:bottom;min-width:150px;background:{{ h.sortBg }};box-shadow:inset 0 -3px 0 {{ h.sortLine }}">
+                    <div style="font-size:12px;font-weight:500;color:oklch(0.85 0.04 295)">{{ h.bank }}{{ h.sortMark }}</div>
+                    <div style="font-size:14px;font-weight:700;display:flex;gap:6px;align-items:center;flex-wrap:wrap">{{ h.name }}<sc-if value="{{ h.have }}" hint-placeholder-val="{{ false }}"><span style="font-size:11px;font-weight:600;padding:1px 7px;border-radius:999px;white-space:nowrap;background:oklch(0.82 0.15 60);color:oklch(0.25 0.12 295)">You have it</span></sc-if></div>
+                  </th>
+                </sc-for>
+                <th style="text-align:left;padding:12px 24px 12px 16px;font-size:13px;font-weight:600">Best</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr style="background:oklch(0.96 0.03 65)">
+                <td style="padding:12px 24px;font-size:13px;font-weight:600;color:oklch(0.4 0.1 295)">Annual fee</td>
+                <sc-for list="{{ headCards }}" as="h" hint-placeholder-count="2">
+                  <td style="padding:12px 16px;font-weight:700;font-size:15px">{{ h.fee }}</td>
+                </sc-for>
+                <td style="padding:12px 24px 12px 16px;font-size:13px;color:oklch(0.45 0.08 295)">{{ cheapest }}</td>
+              </tr>
+              <sc-if value="{{ noMatches }}" hint-placeholder-val="{{ false }}">
+                <tr style="border-top:1px solid oklch(0.92 0.02 295)"><td colspan="{{ colCount }}" style="padding:28px 24px;text-align:center;color:oklch(0.45 0.08 295)">{{ noMatchText }}</td></tr>
+              </sc-if>
+              <sc-for list="{{ rows }}" as="r" hint-placeholder-count="6">
+                <tr style="border-top:1px solid oklch(0.92 0.02 295)">
+                  <td style="padding:{{ cellPad }} 24px;font-weight:600;vertical-align:top">{{ r.name }}</td>
+                  <sc-for list="{{ r.cells }}" as="c" hint-placeholder-count="2">
+                    <td style="padding:{{ c.pad }} 16px;vertical-align:top;background:{{ c.bg }}">
+                      <sc-if value="{{ c.has }}" hint-placeholder-val="{{ true }}">
+                        <div style="font-family:'Bricolage Grotesque',sans-serif;font-size:20px;font-weight:700;line-height:1.1;color:{{ c.pctColor }}">{{ c.pct }}</div>
+                        <div style="font-size:12px;color:oklch(0.45 0.08 295);margin-top:2px">{{ c.cap }}</div>
+                        <sc-if value="{{ c.hasDays }}" hint-placeholder-val="{{ false }}"><span style="display:inline-block;margin-top:4px;font-size:11px;font-weight:600;padding:1px 7px;border-radius:999px;white-space:nowrap;background:oklch(0.93 0.03 295);color:oklch(0.38 0.19 295)">{{ c.days }}</span></sc-if>
+                      </sc-if>
+                      <sc-if value="{{ c.none }}" hint-placeholder-val="{{ false }}"><span style="color:oklch(0.7 0.04 295)">—</span></sc-if>
+                    </td>
+                  </sc-for>
+                  <td style="padding:{{ cellPad }} 24px {{ cellPad }} 16px;vertical-align:top;font-weight:700;color:oklch(0.38 0.19 295);font-size:14px">{{ r.best }}</td>
+                </tr>
+              </sc-for>
+            </tbody>
+          </table>
+        </div>
+      </sc-if>
+    </section>
+
+    <p style="max-width:900px;margin:0;font-size:12px;color:oklch(0.28 0.12 295);text-align:center;text-wrap:pretty">Unofficial tool, not affiliated with Peekaboo Guru or any bank. Discounts come from peekaboo.guru and can change; check with the bank or the place before you pay. Annual fees are entered by hand from bank fee schedules and may be out of date.</p>
+  </main>
+</sc-if>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;density&quot;: {&quot;editor&quot;: &quot;enum&quot;, &quot;options&quot;: [&quot;comfortable&quot;, &quot;compact&quot;], &quot;default&quot;: &quot;comfortable&quot;, &quot;tsType&quot;: &quot;'comfortable'|'compact'&quot;}, &quot;highlightBest&quot;: {&quot;editor&quot;: &quot;boolean&quot;, &quot;default&quot;: true, &quot;tsType&quot;: &quot;boolean&quot;}}">
+const CITIES = ['Islamabad', 'Rawalpindi', 'Lahore', 'Karachi', 'Faisalabad', 'Multan', 'Peshawar'];
+const CATS = ['All categories', 'Food', 'Lifestyle', 'Health', 'Entertainment', 'e-Stores', 'Education', 'Home Decor', 'Services', 'Electronics', 'Self Care', 'Hotels', 'Grocery'];
+const HBL_REV = amt => `Spend Rs ${amt} within 60 days of the statement that charges the fee, then call 111-111-425 to request it. Discretionary.`;
+const HBL_SRC = 'HBL SOBC · Jul–Dec 2026';
+const c = (id, name, type, fee, extra = {}) => ({ id: String(id), name, type, fee, ...extra });
+const BANKS = [
+  { id: 'hbl', name: 'Habib Bank Limited', cards: [
+    c(1972, 'HBL Visa Infinite CreditCard', 'CREDIT', null),
+    c(813, 'HBL Platinum CreditCard', 'CREDIT', 22000, { verified: true, src: HBL_SRC, reversal: HBL_REV('500,000'), note: 'Prestige members get 50% off the fee. Excl. FED/ST.' }),
+    c(806, 'HBL Gold CreditCard', 'CREDIT', 14000, { verified: true, src: HBL_SRC, reversal: HBL_REV('200,000'), note: 'Existing HBL account holders need a Direct Debit Instruction. Excl. FED/ST.' }),
+    c(807, 'HBL Green CreditCard', 'CREDIT', 6500, { verified: true, src: HBL_SRC, reversal: HBL_REV('50,000'), note: 'Existing HBL account holders need a Direct Debit Instruction. Excl. FED/ST.' }),
+    c(1729, 'HBL World Elite DebitCard', 'DEBIT', null),
+    c(804, 'HBL World DebitCard', 'DEBIT', 20000, { verified: true, src: HBL_SRC, note: 'Mastercard World. Excl. FED/ST.' }),
+    c(1581, 'HBL Gold DebitCard', 'DEBIT', 3800, { verified: true, src: HBL_SRC, note: 'Mastercard Gold. Excl. FED/ST.' }),
+    c(811, 'HBL Titanium DebitCard', 'DEBIT', 3000, { verified: true, src: HBL_SRC, note: 'Mastercard Titanium. Excl. FED/ST.' }),
+    c(809, 'HBL DebitCard', 'DEBIT', null),
+    c(1696, 'HBL Konnect Debit Card', 'DEBIT', null),
+    c(1742, 'HBL Nisa DebitCard', 'DEBIT', null),
+    c(1983, 'HBL Paypak DebitCard', 'DEBIT', 2000, { src: HBL_SRC, note: 'PayPak Chip. Name match assumed. Excl. FED/ST.' }),
+    c(1976, 'HBL UnionPay Classic DebitCard', 'DEBIT', 2700, { src: HBL_SRC, note: 'UnionPay Chip. Name match assumed. Excl. FED/ST.' }),
+    c(1975, 'HBL UnionPay Gold DebitCard', 'DEBIT', 3500, { src: HBL_SRC, note: 'UnionPay Chip Gold. Name match assumed. Excl. FED/ST.' }),
+    c(1973, 'HBL UPI & PayPak Co-Badge DebitCard', 'DEBIT', 2700, { src: HBL_SRC, note: 'Name match assumed. Excl. FED/ST.' }),
+  ] },
+  { id: 'askari', name: 'Askari Bank Limited', cards: [
+    c(636, 'Askari World Credit Card', 'CREDIT', 25000, { src: 'Askari SOC · Jul–Dec 2026', reversal: 'No fee waiver offered.', note: 'Effective 10 Jul 2026. Name match assumed. Excl. FED/ST.' }),
+    c('ask-g', 'Askari Gold Credit Card', 'CREDIT', null),
+    c('ask-d', 'Askari World DebitCard', 'DEBIT', null),
+  ] },
+  { id: 'alfalah', name: 'Bank Alfalah', cards: [c('bafl-p', 'Alfalah Platinum Credit Card', 'CREDIT', null), c('bafl-d', 'Alfalah Titanium DebitCard', 'DEBIT', null)] },
+  { id: 'meezan', name: 'Meezan Bank', cards: [c('mzn-t', 'Meezan Titanium DebitCard', 'DEBIT', null), c('mzn-p', 'Meezan Platinum DebitCard', 'DEBIT', null)] },
+  { id: 'mcb', name: 'MCB Bank Limited', cards: [c('mcb-g', 'MCB Gold Credit Card', 'CREDIT', null), c('mcb-d', 'MCB Visa DebitCard', 'DEBIT', null)] },
+  { id: 'ubl', name: 'United Bank Limited (UBL)', cards: [c('ubl-c', 'UBL Visa Signature Credit Card', 'CREDIT', null), c('ubl-d', 'UBL WIZ DebitCard', 'DEBIT', null)] },
+  { id: 'scb', name: 'Standard Chartered Bank', cards: [c('scb-c', 'SC Platinum Credit Card', 'CREDIT', null), c('scb-d', 'SC Priority DebitCard', 'DEBIT', null)] },
+  { id: 'faysal', name: 'Faysal Bank Limited', cards: [c('fbl-c', 'Faysal Islami Noor Card', 'CREDIT', null), c('fbl-d', 'Faysal Gold DebitCard', 'DEBIT', null)] },
+];
+const PLACES = {
+  Food: ['Asian Wok', "Rina's Kitchenette", 'Tuscany Courtyard', 'Kabul Restaurant', 'Street 1 Café', 'Chaaye Khana', 'Savour Foods', 'Howdy', 'Burning Brownie', 'Cafe Aylanto'],
+  Lifestyle: ['Khaadi', 'Sapphire', 'Outfitters', 'Gul Ahmed', 'Limelight', 'Bonanza Satrangi', 'Alkaram Studio', 'Junaid Jamshed'],
+  Health: ['Shifa Pharmacy', 'Chughtai Lab', 'D. Watson', 'Excel Labs', 'Fazal Din Pharma Plus', 'Dentalist'],
+  Entertainment: ['Cinepax', 'Centaurus Cineplex', 'Funcity', 'Jumpin Jungle', 'Bowling Alley', 'Virtual Reality Zone'],
+  Grocery: ['Carrefour', 'Imtiaz', 'Al-Fatah', 'Metro', 'Chase Up', 'Green Valley'],
+  Hotels: ['Serena Hotel', 'Marriott', 'PC Hotel', 'Ramada', 'Hotel One'],
+};
+const PCTS = [10, 15, 20, 20, 25, 30, 40, 50];
+const CAPS = [1000, 1500, 2000, 2500, 3000, 5000, null];
+const DAYS = [null, null, null, 'Mon–Thu', 'Tue only', 'Weekends'];
+const hash = s => { let h = 2166136261; for (const ch of s) h = Math.imul(h ^ ch.charCodeAt(0), 16777619); return h >>> 0; };
+const rs = n => 'Rs ' + Number(n).toLocaleString('en-US');
+const P = { purple: 'oklch(0.38 0.19 295)', orange: 'oklch(0.82 0.15 60)', ink: 'oklch(0.25 0.12 295)' };
+const allCards = BANKS.flatMap(b => b.cards.map(cd => ({ ...cd, bank: b.name, bankId: b.id })));
+const newSlot = () => ({ bankId: '', type: 'CREDIT', cardId: '', have: false });
+
+class Component extends DCLogic {
+  state = { step: 'city', city: null, cat: null, slots: [newSlot(), newSlot()], feeOverrides: {} };
+
+  placesFor() {
+    const cat = this.state.cat;
+    if (PLACES[cat]) return PLACES[cat];
+    if (!cat || cat === 'All categories') return [...PLACES.Food.slice(0, 4), ...PLACES.Lifestyle.slice(0, 3), ...PLACES.Grocery.slice(0, 3)];
+    return Array.from({ length: 6 }, (_, i) => `${cat} partner ${i + 1}`);
+  }
+  offer(card, place) {
+    const h = hash(card.id + '|' + place + '|' + this.state.city);
+    if (h % 10 < 3) return null;
+    return { pct: PCTS[(h >>> 4) % PCTS.length], cap: CAPS[(h >>> 8) % CAPS.length], days: DAYS[(h >>> 12) % DAYS.length] };
+  }
+  fee(card) { return Object.hasOwn(this.state.feeOverrides, card.id) ? this.state.feeOverrides[card.id] : card.fee; }
+  updSlot(i, patch) { this.setState(s => ({ slots: s.slots.map((x, j) => (j === i ? { ...x, ...patch } : x)) })); }
+
+  renderVals() {
+    const { step, city, cat, slots } = this.state;
+    const compact = (this.props.density ?? 'comfortable') === 'compact';
+    const highlight = this.props.highlightBest ?? true;
+    const chip = (name, on, pick) => ({ name, pick, bg: on ? P.orange : 'rgba(255,255,255,.08)', fg: on ? P.ink : '#fff', border: on ? P.orange : 'rgba(255,255,255,.22)' });
+    const places = this.placesFor();
+    const chosen = slots.map(s => allCards.find(x => x.id === s.cardId) || null);
+    const usedIds = chosen.filter(Boolean).map(x => x.id);
+    const complete = slots.map((s, i) => (chosen[i] ? { card: chosen[i], have: s.have } : null)).filter(Boolean);
+
+    const q = (this.state.query || '').trim().toLowerCase();
+    const sort = this.state.sort || 'pct';
+    const haveIdx = complete.map((x, i) => (x.have ? i : -1)).filter(i => i >= 0);
+    const viewOptions = [
+      { value: 'all', label: 'All places' },
+      ...(complete.length > 1 ? [{ value: 'common', label: 'Every card has a deal' }, { value: 'unique', label: 'Only one card has a deal' }] : []),
+      ...(haveIdx.length && complete.length > haveIdx.length ? [{ value: 'gain', label: 'Another card beats mine' }] : []),
+    ];
+    const view = viewOptions.some(o => o.value === this.state.view) ? this.state.view : 'all';
+    let data = places.map(p => {
+      const offers = complete.map(x => this.offer(x.card, p));
+      const top = Math.max(-1, ...offers.map(o => (o ? o.pct : -1)));
+      const topCap = Math.max(-1, ...offers.map(o => (o && o.cap ? o.cap : -1)));
+      const winners = offers.map((o, i) => (o && o.pct === top ? i : -1)).filter(i => i >= 0);
+      return { p, offers, top, topCap, winners };
+    });
+    if (q) data = data.filter(d => d.p.toLowerCase().includes(q));
+    const n = d => d.offers.filter(Boolean).length;
+    if (view === 'common') data = data.filter(d => n(d) === complete.length);
+    if (view === 'unique') data = data.filter(d => n(d) === 1);
+    if (view === 'gain') data = data.filter(d => {
+      const mine = Math.max(-1, ...haveIdx.map(i => d.offers[i]?.pct ?? -1));
+      return d.top > mine && d.winners.some(i => !haveIdx.includes(i));
+    });
+    const byName = (a, b) => a.p.localeCompare(b.p);
+    const sortIdx = complete.findIndex(x => x.card.id === this.state.sortCard);
+    const keyPct = d => (sortIdx >= 0 ? d.offers[sortIdx]?.pct ?? -1 : d.top);
+    const keyCap = d => (sortIdx >= 0 ? (d.offers[sortIdx] ? d.offers[sortIdx].cap ?? 0 : -1) : d.topCap);
+    data.sort(sort === 'name' ? byName
+      : sort === 'cap' ? (a, b) => keyCap(b) - keyCap(a) || keyPct(b) - keyPct(a) || byName(a, b)
+      : (a, b) => keyPct(b) - keyPct(a) || keyCap(b) - keyCap(a) || byName(a, b));
+    const shown = data.map(d => d.p);
+    const rows = data.map(({ p, offers, top, winners }) => {
+      return {
+        name: p,
+        best: !winners.length ? '—' : winners.length > 1 ? 'Tie' : complete[winners[0]]?.card.name ?? '—',
+        cells: offers.map((o, i) => {
+          const win = highlight && o && o.pct === top && complete.length > 1;
+          return {
+            has: !!o, none: !o, pct: o ? o.pct + '%' : '', cap: o ? (o.cap ? 'max ' + rs(o.cap) : 'cap unknown') : '',
+            days: o?.days || '', hasDays: !!o?.days, pad: compact ? '8px' : '14px',
+            bg: win ? 'oklch(0.94 0.06 65)' : 'transparent', pctColor: win ? 'oklch(0.5 0.16 45)' : P.purple,
+          };
+        }),
+      };
+    });
+
+    const slotVals = slots.map((s, i) => {
+      const bank = BANKS.find(b => b.id === s.bankId);
+      const card = chosen[i];
+      const fee = card ? this.fee(card) : null;
+      const covered = card ? places.filter(p => this.offer(card, p)).length : 0;
+      const best = card ? Math.max(0, ...places.map(p => this.offer(card, p)?.pct || 0)) : 0;
+      const editing = !!card && this.state.editingFee === card.id;
+      const overridden = !!card && Object.hasOwn(this.state.feeOverrides, card.id);
+      const commit = raw => {
+        if (!card) return;
+        const v = String(raw).trim();
+        if (v === '') return this.setState({ editingFee: null });
+        this.setState(st => ({ feeOverrides: { ...st.feeOverrides, [card.id]: Math.max(0, Number(v)) }, editingFee: null }));
+      };
+      return {
+        num: i + 1, delay: i < 2 ? i * 0.12 + 's' : '0s', removable: slots.length > 2,
+        remove: () => this.setState(st => ({ slots: st.slots.filter((_, j) => j !== i) })),
+        bankId: s.bankId, onBank: e => this.updSlot(i, { bankId: e.target.value, cardId: '' }),
+        setCredit: () => this.updSlot(i, { type: 'CREDIT', cardId: s.type === 'CREDIT' ? s.cardId : '' }),
+        setDebit: () => this.updSlot(i, { type: 'DEBIT', cardId: s.type === 'DEBIT' ? s.cardId : '' }),
+        creditBg: s.type === 'CREDIT' ? P.orange : 'transparent', creditFg: s.type === 'CREDIT' ? P.ink : '#fff',
+        debitBg: s.type === 'DEBIT' ? P.orange : 'transparent', debitFg: s.type === 'DEBIT' ? P.ink : '#fff',
+        cardId: s.cardId, onCard: e => this.updSlot(i, { cardId: e.target.value }),
+        cardDisabled: !bank, cardOpacity: bank ? 1 : 0.55,
+        cardPlaceholder: !bank ? 'Pick a bank first' : 'Pick a card',
+        cardOptions: bank ? bank.cards.filter(x => x.type === s.type).map(x => ({ id: x.id, name: x.name, used: usedIds.includes(x.id) && x.id !== s.cardId })) : [],
+        toggleHave: () => this.updSlot(i, { have: !s.have }), haveStr: String(s.have),
+        haveTrack: s.have ? P.orange : 'rgba(255,255,255,.2)', haveKnob: s.have ? '19px' : '3px',
+        complete: !!card, feeKnown: fee != null && !editing, feeUnknown: card ? fee == null || editing : false,
+        editing, overridden, feeInput: fee ?? '',
+        feePrompt: editing ? 'Enter the annual fee.' : 'Fee not known yet. Enter it if you know it.',
+        feeText: fee != null ? rs(fee) : '', feeSub: overridden ? 'Your value' : card?.src || '',
+        editFee: () => card && this.setState({ editingFee: card.id }),
+        resetFee: () => card && this.setState(st => { const o = { ...st.feeOverrides }; delete o[card.id]; return { feeOverrides: o, editingFee: null }; }),
+        onFeeBlur: e => commit(e.target.value),
+        onFeeKey: e => { if (e.key === 'Enter') commit(e.target.value); if (e.key === 'Escape') this.setState({ editingFee: null }); },
+        badge: !card ? '' : fee == null ? 'Unknown' : card.verified ? 'Verified' : 'Unverified',
+        badgeBg: card?.verified ? P.orange : 'rgba(255,255,255,.14)', badgeFg: card?.verified ? P.ink : '#fff',
+        hasReversal: !!card?.reversal, reversal: card?.reversal || '',
+        hasNote: !!card?.note, note: card?.note || '',
+        covered, bestPct: best ? best + '%' : '—',
+      };
+    });
+
+    const priced = complete.filter(x => this.fee(x.card) != null);
+    const cheapest = priced.length > 1 ? 'Lowest: ' + priced.reduce((a, b) => (this.fee(a.card) <= this.fee(b.card) ? a : b)).card.name : '';
+
+    return {
+      inQuestions: step !== 'cards', stepCity: step === 'city', stepCategory: step === 'category', stepCards: step === 'cards',
+      city: city || '', categoryName: cat || '',
+      cityChips: CITIES.map(n => chip(n, n === city, () => this.setState({ city: n, step: 'category' }))),
+      catChips: CATS.map(n => chip(n, n === cat, () => this.setState({ cat: n, step: 'cards' }))),
+      backToCity: () => this.setState({ step: 'city' }), backToCategory: () => this.setState({ step: 'category' }),
+      banks: BANKS.map(b => ({ id: b.id, name: b.name })),
+      slots: slotVals, canAdd: slots.length < 4, addLabel: `Add card (${slots.length + 1} of 4)`,
+      addSlot: () => this.setState(st => ({ slots: [...st.slots, newSlot()] })),
+      placeCount: places.length,
+      tableTitle: `${cat === 'All categories' || !cat ? 'All places' : cat} in ${city || ''}`,
+      tableSub: complete.length ? `${shown.length < places.length ? `${shown.length} of ` : ''}${places.length} places` : '',
+      query: this.state.query || '', onQuery: e => this.setState({ query: e.target.value }),
+      noMatches: complete.length > 0 && !shown.length, colCount: complete.length + 2,
+      noMatchText: q ? `No places match "${this.state.query.trim()}".` : 'No places match this filter.',
+      sort, onSort: e => this.setState({ sort: e.target.value }),
+      showSortCard: sort !== 'name' && complete.length > 1,
+      sortCard: sortIdx >= 0 ? complete[sortIdx].card.id : 'any',
+      sortCardOptions: complete.map(x => ({ value: x.card.id, label: x.card.name })),
+      onSortCard: e => this.setState({ sortCard: e.target.value }),
+      view, viewOptions, onView: e => this.setState({ view: e.target.value }),
+      noCards: !complete.length, hasCards: complete.length > 0,
+      headCards: complete.map((x, i) => ({ sortBg: sort !== 'name' && i === sortIdx ? 'oklch(0.32 0.18 295)' : 'transparent', sortLine: sort !== 'name' && i === sortIdx ? P.orange : 'transparent', sortMark: sort !== 'name' && i === sortIdx ? (sort === 'cap' ? ' · sorted by cap ↓' : ' · sorted by % ↓') : '', bank: x.card.bank, name: x.card.name, have: x.have, fee: this.fee(x.card) != null ? rs(this.fee(x.card)) : 'Unknown' })),
+      cheapest, rows, cellPad: compact ? '8px' : '14px',
+    };
+  }
+}
+</script>
+</body>
+</html>

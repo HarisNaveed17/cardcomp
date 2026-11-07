@@ -1,0 +1,794 @@
+{
+  "meta": {
+    "title": "Pakistani bank card annual fees and waiver/reversal conditions",
+    "period": "July-December 2026 (H2 2026) unless noted per bank",
+    "retrieved_on": "2026-10-14 (HBL credit card and Meezan debit card data updated from user-supplied H2-2026 documents)",
+    "currency_default": "PKR",
+    "tax_note": "All amounts exclusive of FED / Sales Tax unless noted. Provincial FED/ST is added on top.",
+    "confidence_scale": {
+      "high": "Read directly from the bank's own published SOC with clear row/column alignment.",
+      "medium": "From the bank's own SOC, but table layout was garbled; column mapping inferred from consistent patterns.",
+      "low": "Values or mapping not confirmed from an official H2-2026 SOC (secondary source, or heavily garbled table). Verify before use."
+    },
+    "banks_covered": [
+      "Askari Bank",
+      "HBL",
+      "Meezan Bank",
+      "UBL"
+    ],
+    "scope_note": "Primary-card issuance and annual fees with waiver/reversal conditions only. Supplementary and replacement fees excluded by design."
+  },
+  "banks": [
+    {
+      "bank": "Askari Bank Limited",
+      "soc_period": "Effective 2026-07-01 (credit card section revised effective 2026-07-10)",
+      "sources": [
+        {
+          "id": "AKBL_SOC_H2_2026",
+          "title": "Askari Bank Schedule of Bank Charges, effective July 01, 2026",
+          "url": "https://askaribank.com/gallery/1.pdf",
+          "sections": [
+            "E. Alternate Delivery Channels (debit cards), p.10-11",
+            "H. Askari Master Card (Credit Card), p.15-16",
+            "Priority Banking, p.29",
+            "Roshan Digital Account, p.29",
+            "Annexure-I, p.31"
+          ]
+        },
+        {
+          "id": "AKBL_SOC_ADDENDUM_H2_2026",
+          "title": "Addendum - Schedule of Bank Charges H2, credit card annual fee effective July 10, 2026",
+          "url": "https://askaribank.com/gallery/Adendum-Schedule-of-Bank-Charges-H2-Effective-July-01-2026.pdf"
+        }
+      ],
+      "credit_cards": [
+        {
+          "card": "Askari Mastercard Classic",
+          "annual_fee": 5500,
+          "waiver": "50% waiver on 50% utilization of total limit within 2 months of issuance/renewal",
+          "confidence": "high",
+          "source": "AKBL_SOC_H2_2026 §H.1(a),(g)"
+        },
+        {
+          "card": "Askari Mastercard Gold",
+          "annual_fee": 12000,
+          "waiver": "50% waiver on 50% utilization of total limit within 2 months of issuance/renewal",
+          "confidence": "high",
+          "source": "AKBL_SOC_H2_2026 §H.1(b),(h)"
+        },
+        {
+          "card": "Askari Mastercard Platinum",
+          "annual_fee": 20500,
+          "waiver": "50% waiver on 50% utilization of total limit within 2 months of issuance/renewal",
+          "confidence": "high",
+          "source": "AKBL_SOC_H2_2026 §H.1(c),(i)"
+        },
+        {
+          "card": "Askari Mastercard World",
+          "annual_fee": 25000,
+          "waiver": "No waiver",
+          "confidence": "high",
+          "source": "AKBL_SOC_H2_2026 §H.1(d),(j)"
+        },
+        {
+          "card": "Askari Corporate Card",
+          "annual_fee": 5500,
+          "waiver": "No waiver",
+          "confidence": "high",
+          "source": "AKBL_SOC_H2_2026 §H.1(e)"
+        },
+        {
+          "card": "Askari Awami Card (existing portfolio only)",
+          "annual_fee": 2700,
+          "waiver": "No waiver",
+          "confidence": "high",
+          "source": "AKBL_SOC_H2_2026 §H.1(f),(k)"
+        },
+        {
+          "card": "Askari PIA Co-Brand Classic",
+          "annual_fee": 6000,
+          "waiver": "No waiver",
+          "confidence": "high",
+          "source": "AKBL_SOC_H2_2026 §H.1(l)"
+        },
+        {
+          "card": "Askari PIA Co-Brand Gold",
+          "annual_fee": 9000,
+          "waiver": "No waiver",
+          "confidence": "high",
+          "source": "AKBL_SOC_H2_2026 §H.1(l)"
+        },
+        {
+          "card": "Askari PIA Co-Brand Platinum",
+          "annual_fee": 11000,
+          "waiver": "No waiver",
+          "confidence": "high",
+          "source": "AKBL_SOC_H2_2026 §H.1(l)"
+        }
+      ],
+      "credit_card_notes": [
+        "For 2026-07-01 to 2026-07-09 the older terms applied (Annexure-I): lower fees and a 70% waiver on 50% limit utilization within 3 months; World and Corporate cards also had a waiver then.",
+        "Corporate deals (incl. Armed Forces): charges as per agreed corporate arrangement."
+      ],
+      "debit_cards": [
+        {
+          "card": "Visa Chip Classic",
+          "issuance_fee": 3500,
+          "annual_fee": 3500,
+          "waiver": null,
+          "confidence": "high",
+          "source": "AKBL_SOC_H2_2026 §E.1"
+        },
+        {
+          "card": "Visa Chip Gold",
+          "issuance_fee": 4000,
+          "annual_fee": 4000,
+          "waiver": null,
+          "confidence": "high",
+          "source": "AKBL_SOC_H2_2026 §E.1"
+        },
+        {
+          "card": "Visa Chip Platinum",
+          "issuance_fee": 8000,
+          "annual_fee": 8000,
+          "waiver": null,
+          "confidence": "high",
+          "source": "AKBL_SOC_H2_2026 §E.1"
+        },
+        {
+          "card": "Visa Chip Signature",
+          "issuance_fee": 22000,
+          "annual_fee": 22000,
+          "waiver": "Free (issuance, re-issuance and annual) for customers meeting Priority Banking criteria. If downgraded: PKR 5,500 + FED charged quarterly until criteria met again.",
+          "confidence": "high",
+          "source": "AKBL_SOC_H2_2026 §E.1; Priority Banking ADC §1"
+        },
+        {
+          "card": "UnionPay Chip Classic",
+          "issuance_fee": null,
+          "annual_fee": 2500,
+          "waiver": null,
+          "confidence": "high",
+          "source": "AKBL_SOC_H2_2026 §E.2"
+        },
+        {
+          "card": "UnionPay Chip Gold",
+          "issuance_fee": null,
+          "annual_fee": 2750,
+          "waiver": null,
+          "confidence": "high",
+          "source": "AKBL_SOC_H2_2026 §E.2"
+        },
+        {
+          "card": "PayPak Silver",
+          "issuance_fee": 2000,
+          "annual_fee": 2000,
+          "waiver": null,
+          "confidence": "high",
+          "source": "AKBL_SOC_H2_2026 §E.3"
+        },
+        {
+          "card": "PayPak Gold",
+          "issuance_fee": 2750,
+          "annual_fee": 2750,
+          "waiver": null,
+          "confidence": "high",
+          "source": "AKBL_SOC_H2_2026 §E.3"
+        },
+        {
+          "card": "FCY Debit Card (ESFCA holders, IT exporters)",
+          "currency": "USD",
+          "issuance_fee": 15,
+          "annual_fee": 15,
+          "waiver": "SOC Note 2: no charges on renewal of the card upon expiry.",
+          "confidence": "high",
+          "source": "AKBL_SOC_H2_2026 §E.4"
+        }
+      ],
+      "debit_card_general_waivers": [
+        "Roshan Digital Account: first debit card issuance free; annual fee per card section (§E).",
+        "Priority Banking: Signature Visa debit card free (see above)."
+      ],
+      "gaps": [
+        "Askari Islamic Banking debit card annual fees are in a separate Islamic SOC (not fetched). Askari KFS states issuance is free for some Askari Islamic accounts."
+      ]
+    },
+    {
+      "bank": "HBL (Habib Bank Limited)",
+      "soc_period": "2026-07-01 to 2026-12-31",
+      "sources": [
+        {
+          "id": "HBL_SOBC_H2_2026",
+          "title": "HBL Schedule of Bank Charges, July to December 2026 (English)",
+          "url": "https://www.hbl.com/assets/documents/Schedule_of_Bank_Charges_for_July_to_December_2026_%E2%80%93_English.pdf",
+          "sections": [
+            "Part H.5 HBL Credit Cards, p.15",
+            "Part M HBL Debit Card, p.20-21",
+            "Part S Exemptions, p.27",
+            "Part T HBL Prestige, p.28-30"
+          ]
+        },
+        {
+          "id": "HBL_CC_KFS_H2_2026",
+          "title": "HBL CreditCard Key Fact Statement, effective 01 Jul 2026 to 31 Dec 2026 (Summary Box, table a)",
+          "url": "https://www.hbl.com (file: July_26_KFS_CreditCard_English.pdf, user-supplied copy)",
+          "sections": [
+            "a) Basic Charges table",
+            "Annual fee reversal note"
+          ]
+        },
+        {
+          "id": "HBL_PREMIUM_ADDENDUM_H1_2026",
+          "title": "Addendum to SOBC Jan-Jun 2026 - HBL Premium",
+          "url": "https://www.hbl.com/assets/documents/Addendum_to_SOBC_for_January_to_June_2026_-_HBL_Premium_-_English.pdf",
+          "note": "H1 2026 document. H2 Part U (HBL Premium) could not be extracted."
+        }
+      ],
+      "credit_cards": [
+        {
+          "card": "HBL Green CreditCard",
+          "annual_fee": 6500,
+          "waiver": "Spend-based annual fee reversal on request: call HBL Contact Centre 111-111-425 or email customer.care@hbl.com. Spend must be met within 60 days of the statement generation date in which the annual fee is levied. Existing HBL account holders must have a Direct Debit Instruction (minimum or full payment) to qualify; not required for New-to-Bank customers. Waiver is discretionary (HBL may withdraw or change criteria).",
+          "confidence": "high",
+          "source": "HBL_CC_KFS_H2_2026 table a",
+          "reversal_spend_threshold": 50000,
+          "reversal_window_days": 60
+        },
+        {
+          "card": "HBL Gold CreditCard",
+          "annual_fee": 14000,
+          "waiver": "Spend-based annual fee reversal on request: call HBL Contact Centre 111-111-425 or email customer.care@hbl.com. Spend must be met within 60 days of the statement generation date in which the annual fee is levied. Existing HBL account holders must have a Direct Debit Instruction (minimum or full payment) to qualify; not required for New-to-Bank customers. Waiver is discretionary (HBL may withdraw or change criteria).",
+          "confidence": "high",
+          "source": "HBL_CC_KFS_H2_2026 table a",
+          "reversal_spend_threshold": 200000,
+          "reversal_window_days": 60
+        },
+        {
+          "card": "HBL Platinum CreditCard",
+          "annual_fee": 22000,
+          "waiver": "Spend-based annual fee reversal on request: call HBL Contact Centre 111-111-425 or email customer.care@hbl.com. Spend must be met within 60 days of the statement generation date in which the annual fee is levied. Existing HBL account holders must have a Direct Debit Instruction (minimum or full payment) to qualify; not required for New-to-Bank customers. Waiver is discretionary (HBL may withdraw or change criteria). Also: HBL Prestige members get 50% annual fee waiver (SOBC Part T).",
+          "confidence": "high",
+          "source": "HBL_CC_KFS_H2_2026 table a; HBL_SOBC_H2_2026 Part T.4",
+          "reversal_spend_threshold": 500000,
+          "reversal_window_days": 60
+        },
+        {
+          "card": "HBL FuelSaver Green",
+          "annual_fee": null,
+          "monthly_fee_basic": 350,
+          "waiver": "Annual fee waiver not applicable to HBL FuelSaver Card.",
+          "confidence": "high",
+          "source": "HBL_CC_KFS_H2_2026 table a",
+          "reversal_spend_threshold": null
+        },
+        {
+          "card": "HBL FuelSaver Gold",
+          "annual_fee": null,
+          "monthly_fee_basic": 700,
+          "waiver": "Annual fee waiver not applicable to HBL FuelSaver Card.",
+          "confidence": "high",
+          "source": "HBL_CC_KFS_H2_2026 table a",
+          "reversal_spend_threshold": null
+        }
+      ],
+      "credit_card_notes": [
+        "No joining or card issuance fee on any HBL CreditCard.",
+        "Annual fee (Green/Gold/Platinum) is levied within 45 days of card issuance; FuelSaver monthly fee within 30 days. Both apply irrespective of card activation.",
+        "No renewal charges beyond the annual fee. No cancellation charges."
+      ],
+      "debit_cards": [
+        {
+          "card": "PayPak Chip",
+          "annual_fee": 2000,
+          "confidence": "high"
+        },
+        {
+          "card": "Visa Chip",
+          "annual_fee": 3000,
+          "confidence": "high"
+        },
+        {
+          "card": "Mastercard Standard",
+          "annual_fee": 3000,
+          "confidence": "high"
+        },
+        {
+          "card": "Mastercard Gold",
+          "annual_fee": 3800,
+          "confidence": "high"
+        },
+        {
+          "card": "Mastercard Titanium",
+          "annual_fee": 3000,
+          "confidence": "high"
+        },
+        {
+          "card": "Mastercard World",
+          "annual_fee": 20000,
+          "confidence": "high"
+        },
+        {
+          "card": "Mastercard Business Classic",
+          "annual_fee": 8000,
+          "waiver": "Issuance and annual fee 100% waived (business customers only).",
+          "confidence": "high"
+        },
+        {
+          "card": "Mastercard Business World",
+          "annual_fee": 22000,
+          "waiver": "Issuance 100% waived; 50% of annual fee charged (business customers only).",
+          "confidence": "high"
+        },
+        {
+          "card": "UnionPay Chip",
+          "annual_fee": 2700,
+          "confidence": "high"
+        },
+        {
+          "card": "UnionPay & PayPak Co-Badge",
+          "annual_fee": 2700,
+          "confidence": "high"
+        },
+        {
+          "card": "UnionPay Chip Gold",
+          "annual_fee": 3500,
+          "confidence": "high"
+        },
+        {
+          "card": "Visa Chip USD",
+          "currency": "USD",
+          "annual_fee": 15,
+          "confidence": "high"
+        }
+      ],
+      "debit_card_notes": [],
+      "debit_card_general_waivers": [
+        {
+          "condition": "HBL Freedom Account with monthly average balance >= PKR 40,000",
+          "effect": "Free Classic debit card",
+          "source": "Part M note (v)"
+        },
+        {
+          "condition": "HBL @Work (Current, Saving, FCY), salary-active",
+          "effect": "Free Classic debit card",
+          "source": "Part M note (vi); Part S note 5"
+        },
+        {
+          "condition": "HBL Nisa Plus Current / Nisa Saving",
+          "effect": "Classic or Gold (Master) first-year issuance waived; annual fee from year 2",
+          "source": "Part M note (ii)"
+        },
+        {
+          "condition": "Nisa Asaan, Classic card",
+          "effect": "50% waiver",
+          "source": "Part M note (ix)"
+        },
+        {
+          "condition": "HBL iD, HBL Rutba",
+          "effect": "Classic card free for first year; annual fee from year 2",
+          "source": "Part M note (iv)"
+        },
+        {
+          "condition": "Mahana Amdan, Haryali, all Asaan variants, Freelancer Digital",
+          "effect": "PayPak first-year issuance free; annual fee from year 2",
+          "source": "Part M note (iii)"
+        },
+        {
+          "condition": "eBanc (Overseas Savings)",
+          "effect": "Mastercard/Visa Standard issuance waived first year; annual fee from year 2",
+          "source": "Part M note (i)"
+        },
+        {
+          "condition": "HBL Money Club",
+          "effect": "Free debit card",
+          "source": "Part M note (viii)"
+        },
+        {
+          "condition": "HBL ReadyCash customers",
+          "effect": "Free Visa debit card",
+          "source": "Part M note (x)"
+        },
+        {
+          "condition": "HBL Prestige (e.g. individuals with Rs. 5M quarterly avg deposits / AUM)",
+          "effect": "World Elite debit card annual/issuance fee free. Downgraded: Rs. 8,000/quarter membership fee.",
+          "source": "Part T"
+        },
+        {
+          "condition": "HBL Premium (H1 2026 addendum; H2 not verified)",
+          "effect": "Mastercard World debit: 100% issuance + annual waiver year 1, 50% from year 2",
+          "source": "HBL_PREMIUM_ADDENDUM_H1_2026",
+          "confidence": "low"
+        },
+        {
+          "condition": "Individuals keeping daily average balance (quarterly) of Rs. 0.1M in current account or Rs. 0.5M in profit-earning accounts",
+          "effect": "Debit card charges (Part M) may be exempted with Functional Head approval; charges taken in the quarter are refunded in Apr/Jul/Oct/Jan",
+          "source": "Part S notes 2, 9"
+        }
+      ],
+      "gaps": [
+        "HBL Islamic debit cards are in the separate Islamic SOBC (not extracted)."
+      ]
+    },
+    {
+      "bank": "Meezan Bank Limited",
+      "soc_period": "July-December 2026",
+      "sources": [
+        {
+          "id": "MBL_SOC_H2_2026",
+          "title": "Meezan Bank Schedule of Charges - July to December 2026, Section K (ADC Services)",
+          "url": "Meezan Bank SOC Jul-Dec 2026 PDF (user-supplied excerpt; public URL not confirmed)",
+          "sections": [
+            "K (i) Meezan VISA Debit Card",
+            "K (ii) Meezan MasterCard Debit Card",
+            "K (iii) Meezan PayPak Debit Card"
+          ]
+        },
+        {
+          "id": "MBL_SOC_H1_2026",
+          "title": "Meezan Schedule of Service Charges, 1 Jan - 30 Jun 2026",
+          "url": "https://www.meezanbank.com/wp-content/themes/mbl/downloads/home-downloads/SOC-ENG-Jan-Jun-2026.pdf",
+          "note": "Listed on meezanbank.com but did not load."
+        },
+        {
+          "id": "MBL_SOC_CHANGES",
+          "title": "Meezan - Changes in upcoming Schedule of Charges",
+          "url": "https://www.meezanbank.com/wp-content/themes/mbl/downloads/home-downloads/soc-changes.pdf",
+          "note": "Official, but content appears to be an older cycle (heading says Jan-Jun 2025)."
+        },
+        {
+          "id": "MBL_KFS_PLUS",
+          "title": "Key Fact Statement - Meezan Plus Account",
+          "url": "https://meezanbank.com/wp-content/themes/mbl/downloads/home-downloads/KFS-MPA-EN.pdf"
+        }
+      ],
+      "credit_cards": [],
+      "credit_card_notes": [
+        "No credit card fees found in Meezan SOC material reviewed."
+      ],
+      "debit_cards": [
+        {
+          "card": "Meezan Visa Classic",
+          "issuance_fee": 3500,
+          "annual_fee": 3500,
+          "confidence": "high",
+          "source": "MBL_SOC_H2_2026 §K",
+          "waiver": "Annual charge applies only to activated cards (SOC footnote)."
+        },
+        {
+          "card": "Meezan Visa Gold",
+          "issuance_fee": 4500,
+          "annual_fee": 4500,
+          "confidence": "high",
+          "source": "MBL_SOC_H2_2026 §K",
+          "waiver": "Annual charge applies only to activated cards (SOC footnote)."
+        },
+        {
+          "card": "Meezan Visa Platinum",
+          "issuance_fee": 10000,
+          "annual_fee": 10000,
+          "confidence": "high",
+          "source": "MBL_SOC_H2_2026 §K",
+          "waiver": "Annual charge applies only to activated cards (SOC footnote)."
+        },
+        {
+          "card": "Meezan Visa Infinite",
+          "issuance_fee": 45000,
+          "annual_fee": 45000,
+          "confidence": "high",
+          "source": "MBL_SOC_H2_2026 §K",
+          "waiver": "Annual charge applies only to activated cards (SOC footnote)."
+        },
+        {
+          "card": "Meezan Women First Visa",
+          "issuance_fee": 500,
+          "annual_fee": 3500,
+          "confidence": "high",
+          "source": "MBL_SOC_H2_2026 §K",
+          "waiver": "Annual charge applies only to activated cards (SOC footnote)."
+        },
+        {
+          "card": "Meezan Kids & Teens Visa",
+          "issuance_fee": 0,
+          "annual_fee": 1250,
+          "confidence": "high",
+          "source": "MBL_SOC_H2_2026 §K",
+          "waiver": "Annual charge applies only to activated cards (SOC footnote)."
+        },
+        {
+          "card": "Meezan Student Visa",
+          "issuance_fee": 0,
+          "annual_fee": 0,
+          "confidence": "high",
+          "source": "MBL_SOC_H2_2026 §K",
+          "waiver": "Annual charge applies only to activated cards (SOC footnote)."
+        },
+        {
+          "card": "Meezan Mastercard Classic",
+          "issuance_fee": 3500,
+          "annual_fee": 3500,
+          "confidence": "high",
+          "source": "MBL_SOC_H2_2026 §K",
+          "waiver": "Annual charge applies only to activated cards (SOC footnote)."
+        },
+        {
+          "card": "Meezan Mastercard Titanium",
+          "issuance_fee": 5000,
+          "annual_fee": 5000,
+          "confidence": "high",
+          "source": "MBL_SOC_H2_2026 §K",
+          "waiver": "Annual charge applies only to activated cards (SOC footnote)."
+        },
+        {
+          "card": "Meezan Mastercard World",
+          "issuance_fee": 27500,
+          "annual_fee": 27500,
+          "confidence": "high",
+          "source": "MBL_SOC_H2_2026 §K",
+          "waiver": "Annual charge applies only to activated cards (SOC footnote)."
+        },
+        {
+          "card": "Meezan FCY Debit",
+          "currency": "USD",
+          "issuance_fee": 15,
+          "annual_fee": 15,
+          "confidence": "high",
+          "source": "MBL_SOC_H2_2026 §K",
+          "waiver": "Annual charge applies only to activated cards (SOC footnote)."
+        },
+        {
+          "card": "Meezan PayPak",
+          "issuance_fee": 2500,
+          "annual_fee": 2500,
+          "confidence": "high",
+          "source": "MBL_SOC_H2_2026 §K",
+          "waiver": "Annual charge applies only to activated cards (SOC footnote)."
+        }
+      ],
+      "debit_card_notes": [
+        "SOC §K footnote: annual charges apply on activated cards only. A card that is never activated does not attract the annual fee.",
+        "Meezan's Visa debit card web page still shows older figures (Silver Rs. 2,400, Gold Rs. 2,800); treat as outdated."
+      ],
+      "debit_card_general_waivers": [
+        {
+          "condition": "Meezan Rupee Current Account, Meezan Asaan Current Account",
+          "effect": "First debit card issuance free (one per account: Visa Classic, Visa Gold, Mastercard Classic or PayPak). Annual fee per SOC.",
+          "source": "MBL_SOC_CHANGES",
+          "confidence": "medium"
+        },
+        {
+          "condition": "Meezan Plus Account",
+          "effect": "Issuance waiver for one primary debit card only; annual fee per SOC.",
+          "source": "MBL_KFS_PLUS",
+          "confidence": "high"
+        },
+        {
+          "condition": "Meezan Digital Account (MDA)",
+          "effect": "First issuance free with free delivery.",
+          "source": "MBL_SOC_CHANGES",
+          "confidence": "medium"
+        }
+      ],
+      "gaps": [
+        "No balance-based annual fee reversal found in reviewed Meezan material."
+      ]
+    },
+    {
+      "bank": "United Bank Limited (UBL)",
+      "soc_period": "July-December 2026",
+      "sources": [
+        {
+          "id": "UBL_SOC_H2_2026",
+          "title": "UBL Schedule of Charges July to December 2026",
+          "url": "https://ubldigital.com/portals/0/Pdf/UBL-SOC-July-to-December-2026.pdf",
+          "sections": [
+            "Consumer Banking - F. Credit Cards",
+            "UBL Debit Card Fees table (confirmed from user-supplied screenshot of the SOC)"
+          ]
+        },
+        {
+          "id": "UBL_RDA_SOC_H2_2026",
+          "title": "UBL Roshan Digital Account Schedule of Bank Charges, Jun 1 - Dec 31, 2026",
+          "url": "https://ubldigital.com/portals/0/Pdf/SOC_2026_H2.pdf"
+        }
+      ],
+      "credit_cards": [
+        {
+          "card": "UBL Visa Classic",
+          "annual_fee": 6000,
+          "waiver": "None stated in SOC",
+          "confidence": "high",
+          "source": "UBL_SOC_H2_2026 §F"
+        },
+        {
+          "card": "UBL Visa Gold",
+          "annual_fee": 12000,
+          "waiver": "None stated in SOC",
+          "confidence": "high",
+          "source": "UBL_SOC_H2_2026 §F"
+        },
+        {
+          "card": "UBL Visa Platinum",
+          "annual_fee": 22000,
+          "waiver": "None stated in SOC",
+          "confidence": "high",
+          "source": "UBL_SOC_H2_2026 §F"
+        },
+        {
+          "card": "Visa Signature (ex-Silkbank)",
+          "annual_fee": 30000,
+          "waiver": "None stated in SOC",
+          "confidence": "high",
+          "source": "UBL_SOC_H2_2026 §F"
+        },
+        {
+          "card": "Mastercard Standard (ex-Silkbank)",
+          "annual_fee": 4000,
+          "waiver": "None stated in SOC",
+          "confidence": "high",
+          "source": "UBL_SOC_H2_2026 §F"
+        },
+        {
+          "card": "Mastercard Gold (ex-Silkbank)",
+          "annual_fee": 8000,
+          "waiver": "None stated in SOC",
+          "confidence": "high",
+          "source": "UBL_SOC_H2_2026 §F"
+        },
+        {
+          "card": "Mastercard Titanium (ex-Silkbank)",
+          "annual_fee": 14000,
+          "waiver": "None stated in SOC",
+          "confidence": "high",
+          "source": "UBL_SOC_H2_2026 §F"
+        },
+        {
+          "card": "Mastercard Platinum (ex-Silkbank)",
+          "annual_fee": 18000,
+          "waiver": "None stated in SOC",
+          "confidence": "high",
+          "source": "UBL_SOC_H2_2026 §F"
+        }
+      ],
+      "credit_card_notes": [
+        "Annual fee recovered in advance. No refund on account closure.",
+        "Charges negotiable case-to-case with Business Head / Divisional Head approval (H1-2026 SOC note)."
+      ],
+      "debit_cards": [
+        {
+          "card": "UBL Mastercard Premium",
+          "issuance_fee": 2900,
+          "annual_fee": 2900,
+          "confidence": "high",
+          "category": "Premium",
+          "source": "UBL_SOC_H2_2026 UBL Debit Card Fees table"
+        },
+        {
+          "card": "UBL Visa Premium",
+          "issuance_fee": 2900,
+          "annual_fee": 2900,
+          "confidence": "high",
+          "category": "Premium",
+          "source": "UBL_SOC_H2_2026 UBL Debit Card Fees table"
+        },
+        {
+          "card": "UBL Visa Urooj",
+          "issuance_fee": 2900,
+          "annual_fee": 2900,
+          "confidence": "high",
+          "category": "Premium",
+          "source": "UBL_SOC_H2_2026 UBL Debit Card Fees table"
+        },
+        {
+          "card": "UBL Visa Freelancer",
+          "issuance_fee": 2900,
+          "annual_fee": 2900,
+          "confidence": "high",
+          "category": "Premium",
+          "source": "UBL_SOC_H2_2026 UBL Debit Card Fees table"
+        },
+        {
+          "card": "UBL UnionPay",
+          "issuance_fee": 2300,
+          "annual_fee": 2300,
+          "confidence": "high",
+          "category": "Classic",
+          "source": "UBL_SOC_H2_2026 UBL Debit Card Fees table"
+        },
+        {
+          "card": "UBL PayPak",
+          "issuance_fee": 2000,
+          "annual_fee": 2000,
+          "confidence": "high",
+          "category": "Classic",
+          "source": "UBL_SOC_H2_2026 UBL Debit Card Fees table"
+        },
+        {
+          "card": "UBL Mastercard WIZ Virtual",
+          "issuance_fee": 600,
+          "annual_fee": null,
+          "confidence": "high",
+          "category": "Classic",
+          "source": "UBL_SOC_H2_2026 UBL Debit Card Fees table",
+          "waiver": "No annual fee listed ('-' in SOC); issuance fee only."
+        },
+        {
+          "card": "UBL Visa FCY Business",
+          "currency": "USD",
+          "issuance_fee": 15,
+          "annual_fee": 15,
+          "confidence": "high",
+          "category": "FCY Business",
+          "source": "UBL_SOC_H2_2026 UBL Debit Card Fees table",
+          "fee_alternatives": {
+            "GBP": 12,
+            "EUR": 14,
+            "AED": 56,
+            "SAR": 57,
+            "CNY": 75
+          },
+          "waiver": "International transaction charges waived on POS and e-commerce (not an annual fee waiver)."
+        },
+        {
+          "card": "UBL Visa Premium Plus",
+          "issuance_fee": 3500,
+          "annual_fee": 3500,
+          "confidence": "high",
+          "category": "Gold",
+          "source": "UBL_SOC_H2_2026 UBL Debit Card Fees table"
+        },
+        {
+          "card": "UBL Visa Infinite",
+          "issuance_fee": 45000,
+          "annual_fee": 45000,
+          "waiver": "Free on maintaining Signature Priority Banking criteria. Waiver stops if customer is downgraded.",
+          "confidence": "high",
+          "category": "Priority Banking",
+          "source": "UBL_SOC_H2_2026 UBL Debit Card Fees table"
+        },
+        {
+          "card": "UBL Signature Master",
+          "issuance_fee": 25000,
+          "annual_fee": 25000,
+          "waiver": "Free on maintaining Signature Priority Banking criteria. Waiver stops if customer is downgraded.",
+          "confidence": "high",
+          "category": "Priority Banking",
+          "source": "UBL_SOC_H2_2026 UBL Debit Card Fees table"
+        },
+        {
+          "card": "Roshan Digital Account PKR debit card",
+          "issuance_fee": 7500,
+          "annual_fee": 2500,
+          "confidence": "high",
+          "source": "UBL_RDA_SOC_H2_2026"
+        }
+      ],
+      "debit_card_notes": [
+        "Annual fee recovered in advance. No refund on account closure."
+      ],
+      "debit_card_general_waivers": [
+        {
+          "condition": "Mukammal, Urooj, Freelancer, Sohni Dharti Remittance, Good Citizen, Business Partner Plus, Signature Priority current accounts: YTD average balance >= PKR 25,000 (relationship current account balance)",
+          "effect": "Debit card fee waiver; first debit card issuance free",
+          "source": "UBL_SOC_H2_2026 product features",
+          "confidence": "medium"
+        },
+        {
+          "condition": "Business Partner account: monthly average balance >= PKR 250,000",
+          "effect": "Classic/Premium debit card issuance and annual fee waived",
+          "source": "UBL_SOC_H2_2026",
+          "confidence": "medium"
+        },
+        {
+          "condition": "General",
+          "effect": "Debit card fee waivers apply as defined in each product feature listing",
+          "source": "UBL_SOC_H2_2026 debit card notes",
+          "confidence": "high"
+        }
+      ],
+      "gaps": [
+        "UBL Ameen (Islamic) debit card amounts not extractable from PDF text.",
+        "No spend-based credit card annual fee reversal in UBL SOC."
+      ]
+    }
+  ]
+}

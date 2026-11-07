@@ -1,0 +1,610 @@
+[
+    {
+        "id": 1,
+        "name": "Food",
+        "scope": "PHYSICAL",
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Food.png",
+        "image": "https://d2liqplnt17rh6.cloudfront.net/categoryImages/9a31d53e-7cc4-4ffa-bf54-bc383d494dca-892.jpeg",
+        "entities": 2047,
+        "discount": 50,
+        "dealCount": 1929,
+        "expiresIn": 1451642400000,
+        "tags": {
+            "counts": 55,
+            "entityCount": 1162,
+            "tags": [
+                {
+                    "id": 1,
+                    "tag": "Fast Food",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/c57dc1a8-c92e-4ea0-8683-29ce9fa9ff15-571.png",
+                    "cover": null,
+                    "entityCount": 311
+                },
+                {
+                    "id": 133,
+                    "tag": "Burgers",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/28234a2d-51ab-4b3b-be53-3cd98a60c8f5-355.png",
+                    "cover": null,
+                    "entityCount": 233
+                },
+                {
+                    "id": 131,
+                    "tag": "Beverages",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/11e54e85-bbc3-4a3a-9936-8e35043f78f7-331.png",
+                    "cover": null,
+                    "entityCount": 228
+                },
+                {
+                    "id": 130,
+                    "tag": "BBQ",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/30027f37-95ab-4b20-8b96-e0f2259891a2-25.png",
+                    "cover": null,
+                    "entityCount": 145
+                },
+                {
+                    "id": 139,
+                    "tag": "Pizza",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/fbd2fc21-6f6c-4a18-a7fa-3b0025385458-894.png",
+                    "cover": null,
+                    "entityCount": 140
+                },
+                {
+                    "id": 138,
+                    "tag": "Pakistani",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/51986530-562f-4358-bb27-9702212bbf3f-1.png",
+                    "cover": null,
+                    "entityCount": 129
+                }
+            ]
+        }
+    },
+    {
+        "id": 18,
+        "name": "Lifestyle",
+        "scope": "PHYSICAL",
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Lifestyle.png",
+        "image": "https://d2liqplnt17rh6.cloudfront.net/categoryImages/b947ee7a-62d6-451e-946d-ced1cbc1996f-287.jpeg",
+        "entities": 2382,
+        "discount": 70,
+        "dealCount": 248,
+        "expiresIn": 1451642400000,
+        "tags": {
+            "counts": 15,
+            "entityCount": 1762,
+            "tags": [
+                {
+                    "id": 165,
+                    "tag": "Women's Wear",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/c7343a29-4515-49a2-bac4-e6dae75092c0-805.png",
+                    "cover": null,
+                    "entityCount": 756
+                },
+                {
+                    "id": 164,
+                    "tag": "Men's Wear",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/458d770d-e355-45f4-90ec-3ae7d9454dd1-784.png",
+                    "cover": null,
+                    "entityCount": 480
+                },
+                {
+                    "id": 160,
+                    "tag": "Footwear",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/f3def0ab-cb2d-43ca-a71b-f0f8434675da-888.png",
+                    "cover": null,
+                    "entityCount": 328
+                },
+                {
+                    "id": 163,
+                    "tag": "Kid's Wear",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/03bc1b63-e310-4e17-a6be-1285a7b6bb0b-415.png",
+                    "cover": null,
+                    "entityCount": 263
+                },
+                {
+                    "id": 157,
+                    "tag": "Accessories",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/7a335990-585b-414c-bca2-5ff2eb5ebc6e-317.png",
+                    "cover": null,
+                    "entityCount": 237
+                },
+                {
+                    "id": 162,
+                    "tag": "Jewelry",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/2a83ba13-556e-4aa2-bef5-2619fc2c8fc4-390.png",
+                    "cover": null,
+                    "entityCount": 150
+                }
+            ]
+        }
+    },
+    {
+        "id": 27,
+        "name": "Health",
+        "scope": "PHYSICAL",
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Health.png",
+        "image": "https://d2liqplnt17rh6.cloudfront.net/categoryImages/7619c1db-2c34-42b3-b07c-77a06914b19f-418.jpeg",
+        "entities": 531,
+        "discount": 50,
+        "dealCount": 204,
+        "expiresIn": 1591818120000,
+        "tags": {
+            "counts": 10,
+            "entityCount": 348,
+            "tags": [
+                {
+                    "id": 196,
+                    "tag": "Pharmacy",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/f24d6b82-43c5-4024-a295-082dbe1c03a0-532.png",
+                    "cover": null,
+                    "entityCount": 135
+                },
+                {
+                    "id": 194,
+                    "tag": "Hospitals",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/d5fd9154-3989-4cf3-962a-727465f1a9f3-496.png",
+                    "cover": null,
+                    "entityCount": 100
+                },
+                {
+                    "id": 195,
+                    "tag": "Labs",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/7949e785-d441-42aa-acd7-35ba162f8801-645.png",
+                    "cover": null,
+                    "entityCount": 57
+                },
+                {
+                    "id": 187,
+                    "tag": "Clinics",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/ffd37bd1-1003-4017-9164-3967ceb92ff4-495.png",
+                    "cover": null,
+                    "entityCount": 45
+                },
+                {
+                    "id": 188,
+                    "tag": "Dental",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/99ae2722-3a4b-4bc4-a98f-60c6d4bbf5c7-112.png",
+                    "cover": null,
+                    "entityCount": 28
+                },
+                {
+                    "id": 189,
+                    "tag": "Eye Clinics",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/581d421f-1f46-4b5f-965f-25cbe9cf1134-658.png",
+                    "cover": null,
+                    "entityCount": 8
+                }
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "name": "Entertainment",
+        "scope": "PHYSICAL",
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Entertainment.png",
+        "image": "https://d2liqplnt17rh6.cloudfront.net/categoryImages/28635cf2-8d89-4c30-bb5c-da6afcd8d029-130.png",
+        "entities": 435,
+        "discount": 50,
+        "dealCount": 155,
+        "expiresIn": 1576368000000,
+        "tags": {
+            "counts": 11,
+            "entityCount": 229,
+            "tags": [
+                {
+                    "id": 147,
+                    "tag": "Hotels",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/729cc226-9748-42e0-a3fd-e5ff22918a6c-46.png",
+                    "cover": null,
+                    "entityCount": 159
+                },
+                {
+                    "id": 331,
+                    "tag": "Wedding Halls",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/2066fb35-1808-47a5-923b-52de6699d58f-772.png",
+                    "cover": null,
+                    "entityCount": 22
+                },
+                {
+                    "id": 327,
+                    "tag": "Play Area",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/e9549d7f-5d26-47b4-b517-9408800241eb-775.png",
+                    "cover": null,
+                    "entityCount": 19
+                },
+                {
+                    "id": 285,
+                    "tag": "Club",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/2e25bec6-2022-417b-bbad-fe38e18d9ee1-836.png",
+                    "cover": null,
+                    "entityCount": 15
+                },
+                {
+                    "id": 149,
+                    "tag": "Tourist Services",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/273e073f-fd03-4942-8c29-85dd9002a3a9-993.png",
+                    "cover": null,
+                    "entityCount": 7
+                },
+                {
+                    "id": 144,
+                    "tag": "Cinema",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/5b7dc564-3a94-43e0-841a-739dd098865b-108.png",
+                    "cover": null,
+                    "entityCount": 6
+                }
+            ]
+        }
+    },
+    {
+        "id": 55,
+        "name": "e-Stores",
+        "scope": "PHYSICAL",
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/e-Stores.png",
+        "image": "https://d2liqplnt17rh6.cloudfront.net/categoryImages/c1515e75-fde7-4345-902a-7e0616bef697-627.jpeg",
+        "entities": 637,
+        "discount": 50,
+        "dealCount": 100,
+        "expiresIn": 1638468300000,
+        "tags": {
+            "counts": 5,
+            "entityCount": 31,
+            "tags": [
+                {
+                    "id": 309,
+                    "tag": "Grocery",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/2765eee4-665a-4654-bd9a-4f200c7b7ef0-916.png",
+                    "cover": null,
+                    "entityCount": 18
+                },
+                {
+                    "id": 310,
+                    "tag": "Electronics",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/ebfed9c9-7855-416a-a5a1-07111cb1e2cc-711.png",
+                    "cover": null,
+                    "entityCount": 10
+                },
+                {
+                    "id": 339,
+                    "tag": "E-Commerce",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/03a2901e-3ec0-49d1-9a4a-31f2ad6f3ab4-886.png",
+                    "cover": null,
+                    "entityCount": 4
+                },
+                {
+                    "id": 308,
+                    "tag": "Fresh Vegetables / Fruits",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/32230145-f0d1-4358-96f0-e148b2c23c41-209.png",
+                    "cover": null,
+                    "entityCount": 3
+                },
+                {
+                    "id": 313,
+                    "tag": "Bus Tickets",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/5718f978-3d81-4e95-ab57-0e93e40b9bad-608.png",
+                    "cover": null,
+                    "entityCount": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": 22,
+        "name": "Education",
+        "scope": "PHYSICAL",
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Education.png",
+        "image": "https://d2liqplnt17rh6.cloudfront.net/categoryImages/0eb0ec23-2973-4c8c-87bc-bf9724656cd5-331.jpeg",
+        "entities": 272,
+        "discount": 50,
+        "dealCount": 39,
+        "expiresIn": 1451642400000,
+        "tags": {
+            "counts": 9,
+            "entityCount": 111,
+            "tags": [
+                {
+                    "id": 170,
+                    "tag": "Book Shop",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/ad774d95-944c-44e9-9ae7-bc9fb58930f5-974.png",
+                    "cover": null,
+                    "entityCount": 53
+                },
+                {
+                    "id": 321,
+                    "tag": "Stationery Shop",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/4845c378-3d8a-460f-af88-963980bb0ba4-516.png",
+                    "cover": null,
+                    "entityCount": 37
+                },
+                {
+                    "id": 178,
+                    "tag": "Universities",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/682a9455-cbb0-496a-b115-92386b9e5a18-393.png",
+                    "cover": null,
+                    "entityCount": 20
+                },
+                {
+                    "id": 176,
+                    "tag": "Schools",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/ac6a5342-7f33-476e-9bb8-e034731bd1d8-117.png",
+                    "cover": null,
+                    "entityCount": 13
+                },
+                {
+                    "id": 173,
+                    "tag": "Institutes",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/0866df96-977b-4e00-8a30-6491712bb036-903.png",
+                    "cover": null,
+                    "entityCount": 12
+                },
+                {
+                    "id": 171,
+                    "tag": "Colleges",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/9c62a28b-67b6-4bf8-bf26-625ea76ad33c-546.png",
+                    "cover": null,
+                    "entityCount": 8
+                }
+            ]
+        }
+    },
+    {
+        "id": 19,
+        "name": "Home Decor",
+        "scope": "PHYSICAL",
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Home Decor.png",
+        "image": "https://d2liqplnt17rh6.cloudfront.net/categoryImages/101f5d53-c7d5-4592-a8ec-e0cd4cae755f-945.jpeg",
+        "entities": 231,
+        "discount": 20,
+        "dealCount": 12,
+        "expiresIn": 1769644800000,
+        "tags": {
+            "counts": 5,
+            "entityCount": 159,
+            "tags": [
+                {
+                    "id": 167,
+                    "tag": "Home Decor",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/3f52c59f-3750-46b5-92ad-1ae87f9c97de-270.png",
+                    "cover": null,
+                    "entityCount": 129
+                },
+                {
+                    "id": 166,
+                    "tag": "Furniture",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/d9df7aa6-5171-4e40-9ae1-bd34ae50d990-449.png",
+                    "cover": null,
+                    "entityCount": 111
+                },
+                {
+                    "id": 168,
+                    "tag": "Kitchen",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/275ed255-c7e2-4d9c-8ae8-7ffddb734dae-397.png",
+                    "cover": null,
+                    "entityCount": 82
+                },
+                {
+                    "id": 298,
+                    "tag": "Carpet",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/9b400be6-58fc-4743-b9ea-e4031357a4ee-589.png",
+                    "cover": null,
+                    "entityCount": 65
+                },
+                {
+                    "id": 169,
+                    "tag": "Outdoor",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/d998b71e-6a7a-4108-8eb9-93dcd2cdbdd6-579.png",
+                    "cover": null,
+                    "entityCount": 1
+                }
+            ]
+        }
+    },
+    {
+        "id": 29,
+        "name": "Services",
+        "scope": "PHYSICAL",
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Services.png",
+        "image": "https://d2liqplnt17rh6.cloudfront.net/categoryImages/c3192332-9807-4086-9b52-28e861b4cea4-866.jpeg",
+        "entities": 1032,
+        "discount": 90,
+        "dealCount": 257,
+        "expiresIn": 1451642400000,
+        "tags": {
+            "counts": 17,
+            "entityCount": 205,
+            "tags": [
+                {
+                    "id": 215,
+                    "tag": "Travel",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/d915d2a3-19bd-43f6-ab62-d52ab7dd39be-72.png",
+                    "cover": null,
+                    "entityCount": 54
+                },
+                {
+                    "id": 205,
+                    "tag": "IT Services",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/3d1a9003-b572-46f5-9495-30b3161731f3-780.png",
+                    "cover": null,
+                    "entityCount": 47
+                },
+                {
+                    "id": 202,
+                    "tag": "Airline",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/e4a97c69-d95f-4691-810a-645a84d35665-343.png",
+                    "cover": null,
+                    "entityCount": 20
+                },
+                {
+                    "id": 323,
+                    "tag": "Tour",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/c4d12ba2-ff51-4f71-958a-c82361b09b8b-42.png",
+                    "cover": null,
+                    "entityCount": 20
+                },
+                {
+                    "id": 300,
+                    "tag": "Courier",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/5eeda5bc-24ee-4504-a0bd-54b52b5a99a2-695.png",
+                    "cover": null,
+                    "entityCount": 17
+                },
+                {
+                    "id": 289,
+                    "tag": "Automakers",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/aead6be5-ffaa-4c55-a2cc-396a015503b0-10.png",
+                    "cover": null,
+                    "entityCount": 16
+                }
+            ]
+        }
+    },
+    {
+        "id": 16,
+        "name": "Electronics",
+        "scope": "PHYSICAL",
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Electronics.png",
+        "image": "https://d2liqplnt17rh6.cloudfront.net/categoryImages/dc3f5bfc-ff4b-41f2-8f12-75ef4b17e2e5-396.jpeg",
+        "entities": 513,
+        "discount": 15,
+        "dealCount": 14,
+        "expiresIn": 1747958400000,
+        "tags": {
+            "counts": 7,
+            "entityCount": 248,
+            "tags": [
+                {
+                    "id": 155,
+                    "tag": "Phones",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/d48da899-58e6-4880-96d7-e06429ddd0fe-926.png",
+                    "cover": null,
+                    "entityCount": 208
+                },
+                {
+                    "id": 153,
+                    "tag": "Home Appliances",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/f432721c-194a-4f67-bbc4-7e3a4ddb6e65-225.png",
+                    "cover": null,
+                    "entityCount": 24
+                },
+                {
+                    "id": 151,
+                    "tag": "Computers",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/3745ade7-5c3c-42c0-8ece-cecdfc8313da-324.png",
+                    "cover": null,
+                    "entityCount": 20
+                },
+                {
+                    "id": 156,
+                    "tag": "TVs & Electronics",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/52062288-3882-44cd-9d44-d9230adae8e3-963.png",
+                    "cover": null,
+                    "entityCount": 18
+                },
+                {
+                    "id": 152,
+                    "tag": "Gaming Consoles",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/8ee5335d-f145-4cf3-930f-378b419db91a-328.png",
+                    "cover": null,
+                    "entityCount": 3
+                },
+                {
+                    "id": 150,
+                    "tag": "Camera & Lenses",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/42c15369-d9b3-4605-84e4-8f74f550bc30-506.png",
+                    "cover": null,
+                    "entityCount": 2
+                }
+            ]
+        }
+    },
+    {
+        "id": 28,
+        "name": "Self Care",
+        "scope": "PHYSICAL",
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Self Care.png",
+        "image": "https://d2liqplnt17rh6.cloudfront.net/categoryImages/9df05e09-7b59-42d6-aaed-e51f26bdf7a2-156.jpeg",
+        "entities": 423,
+        "discount": 70,
+        "dealCount": 101,
+        "expiresIn": 1679857260000,
+        "tags": {
+            "counts": 6,
+            "entityCount": 151,
+            "tags": [
+                {
+                    "id": 200,
+                    "tag": "Makeup",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/9fce596e-eec7-4b84-ab0b-61be67566f74-293.png",
+                    "cover": null,
+                    "entityCount": 59
+                },
+                {
+                    "id": 201,
+                    "tag": "Spa & Salons",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/8021348c-6e06-485c-a1d3-59f30b55a6a8-324.png",
+                    "cover": null,
+                    "entityCount": 55
+                },
+                {
+                    "id": 193,
+                    "tag": "Gym",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/ac41f2d5-9747-402e-aea1-749ec19d0199-984.png",
+                    "cover": null,
+                    "entityCount": 34
+                },
+                {
+                    "id": 199,
+                    "tag": "Fitness Centers",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/9f924fb6-fd45-4e0a-bd7c-b077a31ac2e0-362.png",
+                    "cover": null,
+                    "entityCount": 22
+                },
+                {
+                    "id": 198,
+                    "tag": "Beauty Parlours",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/fd568341-ff30-417b-856d-17f71e0ea839-320.png",
+                    "cover": null,
+                    "entityCount": 13
+                },
+                {
+                    "id": 320,
+                    "tag": "Fitness Item",
+                    "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/04e92a35-de63-4722-9cd8-1f1146b29544-100.png",
+                    "cover": null,
+                    "entityCount": 7
+                }
+            ]
+        }
+    },
+    {
+        "id": 39,
+        "name": "Public Services",
+        "scope": "PHYSICAL",
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Public Services.png",
+        "image": "https://d2liqplnt17rh6.cloudfront.net/categoryImages/1576f712-522f-4e34-b8da-a0e103958d54-526.jpeg",
+        "entities": 18,
+        "discount": 0,
+        "dealCount": 0
+    },
+    {
+        "id": 133,
+        "name": "Hotels",
+        "scope": "PHYSICAL",
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Hotels.png",
+        "image": "https://d2liqplnt17rh6.cloudfront.net/categoryImages/d120f7a4-98ed-4c69-86dd-38eee8bc1aac-734.jpeg",
+        "entities": 93,
+        "discount": 50,
+        "dealCount": 34,
+        "expiresIn": 1635178380000
+    },
+    {
+        "id": 42,
+        "name": "Grocery",
+        "scope": "PHYSICAL",
+        "logo": "https://d2liqplnt17rh6.cloudfront.net/categoryIcons/Grocery.png",
+        "image": "https://d2liqplnt17rh6.cloudfront.net/categoryImages/bdde968e-0da8-4a12-bac8-5f4ec35d6248-588.jpeg",
+        "entities": 464,
+        "discount": 25,
+        "dealCount": 7,
+        "expiresIn": 1772582400000
+    }
+]

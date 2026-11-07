@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "CardComp: Find the Best Pakistani Card For You",
+  "version": "0.2.0",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvNT0+qZ8m2BMK+l0zQ+qzwGeEy5kJ3qd7cIzjNdegCjRFStWTQRW0fhdnDE44OAF8sIAHNXbBcfPzhXWR4NY32B1LGo9WOrYVM1sOc7QHQ0QDPmxJbW36XP2UReqn9mD9yV5dlI50sIq761Qts/oWRIEoJJn1HqmduwQIcqWRANQ9MV+L2jC5D1uMbvL6Tq1ycKNEHyAf6CPwuejOP0IlYWmWX5Nfq1gV/rivhClYj7vZ8V2490YVjoRzkv89rJH//6xpRJb9BH0I2u8uAvcpm7DT5H6HNcAe59IIcElpjRAEGbRARwGKeqErHBa1KstQpAFiJTbAizbZFUQTQcEXwIDAQAB",
+  "description": "Compare Pakistani bank card discounts: discount %, caps, valid days and annual fees. Unofficial.",
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "https://peekaboo.guru/*"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_title": "CardComp",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}

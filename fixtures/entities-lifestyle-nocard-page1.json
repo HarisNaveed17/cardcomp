@@ -1,0 +1,437 @@
+{
+    "total": 2382,
+    "nextPage": true,
+    "entities": [
+        {
+            "name": "The Shirts Bar",
+            "slug": "the-shirts-bar",
+            "package": "PREMIUM",
+            "description": "The Shirts Bar is all About Men Formal Shirts.",
+            "rating": 5,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/cover_5715f649-182b-4e5f-b002-b12ff32ed334-567.jpeg"
+                    ],
+                    "date": "2024-11-14T06:46:48.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy2_981228fc-ea9a-45a3-a1f5-f8aa73a08d1c-873.jpeg",
+                    "date": "2024-04-23T07:27:35.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 1240794,
+                "name": "Islamabad Online",
+                "lat": 33.729388,
+                "long": 73.093146,
+                "distance": 0
+            },
+            "online": true,
+            "followedByMe": false,
+            "id": 72262,
+            "openNow": false,
+            "stats": {
+                "branches": 0
+            }
+        },
+        {
+            "name": "Haseeb",
+            "slug": "haseeb",
+            "package": "PREMIUM",
+            "description": "Haseeb clothing is Designer brand that emphasis on personalizing the outfit according to the customer, in terms of preference and comfort",
+            "rating": 1,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/qq_db99f49c-32fc-44a0-8b9a-fdf1772a7e03-409.jpeg"
+                    ],
+                    "date": "2024-09-25T10:12:40.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo2_63909ac6-851f-49d2-b749-c7a7670dc3f5-294.jpeg",
+                    "date": "2024-09-25T10:06:44.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 1423180,
+                "name": "Islamabad Online",
+                "lat": 33.729388,
+                "long": 73.093146,
+                "distance": 0
+            },
+            "online": true,
+            "followedByMe": false,
+            "id": 11456,
+            "openNow": false,
+            "stats": {
+                "branches": 0
+            }
+        },
+        {
+            "name": "Optica",
+            "slug": "optica",
+            "package": "PREMIUM",
+            "description": "Pakistan’s leading optical frames eyewear and advanced eye care.",
+            "rating": 1,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/ss_8f170c46-c00e-41f5-a525-46cb38e695b3-466.jpeg"
+                    ],
+                    "date": "2024-08-28T05:38:40.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/opticalogo_a21d4e35-9768-4afc-9bdf-531fa8d7b687-768.jpeg",
+                    "date": "2025-06-23T09:42:01.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 1932371,
+                "name": "Blue Area Islamabad Branch",
+                "lat": 33.72014817,
+                "long": 73.07370812,
+                "distance": 2068.9907389826435
+            },
+            "online": true,
+            "followedByMe": false,
+            "id": 2494,
+            "openNow": false,
+            "stats": {
+                "branches": 1
+            }
+        },
+        {
+            "name": "Punjab Optics",
+            "slug": "punjab-optics",
+            "package": "PREMIUM",
+            "description": "Designer spectacles, sunglasses, contact lenses, transparent lenses, eye testing all in one place.",
+            "rating": 0,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/Cover3_8c4ac5d1-b4f9-4342-9e94-f3371fb08518-695.jpeg"
+                    ],
+                    "date": "2023-12-27T07:54:53.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/Punjabopticslogo_e7b8e3de-a8d8-45a8-b5cc-509b5f01a6f1-776.jpeg",
+                    "date": "2025-07-28T07:56:32.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 1838597,
+                "name": "Islamabad Online",
+                "lat": 33.729388,
+                "long": 73.093146,
+                "distance": 0
+            },
+            "online": true,
+            "followedByMe": false,
+            "id": 4386,
+            "openNow": false,
+            "stats": {
+                "branches": 0
+            }
+        },
+        {
+            "name": "Al Balagh Islamic Store",
+            "slug": "al-balagh-islamic-store",
+            "package": "PREMIUM",
+            "description": "Islamic Books,Hiajb, Abaya, & complete Range Of Hajj & Umrah Accessories",
+            "rating": 0,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/Cover4_1b7076a8-ce45-4e7c-8db4-f764f3ab16e5-910.jpeg"
+                    ],
+                    "date": "2023-08-21T10:32:51.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/albalaghislamicstorelogo_bf2e09ee-edc9-4620-a406-d6f714077bb0-173.jpeg",
+                    "date": "2019-07-03T13:25:11.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 1286049,
+                "name": "F-8 Markaz Islamabad Branch",
+                "lat": 33.71252486,
+                "long": 73.0370497,
+                "distance": 5512.442573223718
+            },
+            "online": true,
+            "followedByMe": false,
+            "id": 15785,
+            "openNow": false,
+            "stats": {
+                "branches": 2
+            }
+        },
+        {
+            "name": "Nike",
+            "slug": "nike",
+            "package": "PREMIUM",
+            "description": "Nike is an international brand that is known for offering high quality athletics shoes, apparel, sports accessories and equipment. Nike Shoes, apparel and equipment collection covers both men and women. Nike has widest range of high end activewear, lifestyle collection and shoes for men. For women, it is known for offering shoes, pants & leggings and lifestyle products.",
+            "rating": 4.8,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/p1_a84332cd-2f7b-4f68-990a-01416bc6eff8-944.jpeg"
+                    ],
+                    "date": "2026-04-17T12:46:45.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/niKE_b4d3a02a-ab4e-4bb5-bae8-d28404cb7f61-875.jpeg",
+                    "date": "2026-04-16T05:36:28.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 881,
+                "name": "College Rd Islamabad Branch",
+                "lat": 33.72306696,
+                "long": 73.05985015,
+                "distance": 3156.046736737018
+            },
+            "online": true,
+            "followedByMe": false,
+            "id": 296,
+            "openNow": false,
+            "stats": {
+                "branches": 6,
+                "partnerOffers": 15,
+                "maxDiscount": 35,
+                "discountFlag": "Up to"
+            }
+        },
+        {
+            "name": "Khaadi Pakistan",
+            "slug": "khaadi-pakistan",
+            "package": "PREMIUM",
+            "description": "Wear Yourself.",
+            "rating": 4.5,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/Khaadi_88505ccc-df5e-4006-b445-3e5573ba2ca5-780.jpeg"
+                    ],
+                    "date": "2025-08-29T12:40:55.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/313422153101593398982590753505294250375769044n_0a0566ea-14c5-47e5-b0c0-59014991d286-893.jpeg",
+                    "date": "2024-03-22T12:38:10.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 3010,
+                "name": "Safa Gold Mall Islamabad Branch",
+                "lat": 33.72041,
+                "long": 73.055709,
+                "distance": 3600.5947084306713
+            },
+            "online": true,
+            "followedByMe": false,
+            "id": 762,
+            "openNow": false,
+            "stats": {
+                "branches": 6,
+                "partnerOffers": 1,
+                "maxDiscount": 40,
+                "discountFlag": "Flat"
+            }
+        },
+        {
+            "name": "Speed Sports",
+            "slug": "speed-sports",
+            "package": "PREMIUM",
+            "description": "The Official Distributor for Nike, Charles & Keith, Pedro, TAGHeuer & Timex in Pakistan.",
+            "rating": 5,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/p1_2691bea3-f8b7-4d04-90c2-39e77aecc0c0-695.jpeg"
+                    ],
+                    "date": "2026-04-17T12:36:43.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/speedsport_a09914e2-118b-44e3-9f4f-b49641f3d68a-41.jpeg",
+                    "date": "2026-04-16T05:45:46.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 584647,
+                "name": "Safa Gold Mall Islamabad Branch",
+                "lat": 33.720296,
+                "long": 73.056091,
+                "distance": 3570.2540136810617
+            },
+            "online": true,
+            "followedByMe": false,
+            "id": 8939,
+            "openNow": false,
+            "stats": {
+                "branches": 2,
+                "partnerOffers": 10,
+                "maxDiscount": 35,
+                "discountFlag": "Up to"
+            }
+        },
+        {
+            "name": "Royal Wrist",
+            "slug": "royal-wrist",
+            "package": "PREMIUM",
+            "description": "Pakistan's Biggest Store for 100% Original Premium Branded watches.",
+            "rating": 0,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/royalwristcover_51a477d3-6e99-489e-a9e2-3172c4b12d1a-431.jpeg"
+                    ],
+                    "date": "2024-08-20T11:04:14.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/Royal_e2234d7a-e230-4c10-9371-a849cbdfdb68-494.jpeg",
+                    "date": "2024-12-04T09:06:55.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 1301038,
+                "name": "Islamabad Online",
+                "lat": 33.729388,
+                "long": 73.093146,
+                "distance": 0
+            },
+            "online": true,
+            "followedByMe": false,
+            "id": 73007,
+            "openNow": false,
+            "stats": {
+                "branches": 0,
+                "partnerOffers": 5,
+                "maxDiscount": 20,
+                "discountFlag": "Up to"
+            }
+        },
+        {
+            "name": "J. | Junaid Jamshed",
+            "slug": "j-|-junaid-jamshed",
+            "package": "PREMIUM",
+            "description": "J. was established in 2002 with a unique philosophy to revive the country's cultural heritage.",
+            "rating": 3.7,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/Cover5_23d3ad3f-5be1-48c5-93ad-fb1b634dd267-703.jpeg"
+                    ],
+                    "date": "2025-07-24T08:29:29.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/Logo_60f3e16d-49fb-467c-965c-a12a916d18cd-570.jpeg",
+                    "date": "2021-05-21T07:32:39.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 1677,
+                "name": "F-6 Markaz, Islamabad Branch",
+                "lat": 33.73006827,
+                "long": 73.0771628,
+                "distance": 1478.8977968578963
+            },
+            "online": true,
+            "followedByMe": false,
+            "id": 541,
+            "openNow": false,
+            "stats": {
+                "branches": 8,
+                "brandOffers": 1,
+                "partnerOffers": 2,
+                "maxDiscount": 50,
+                "discountFlag": "Up to"
+            }
+        },
+        {
+            "name": "Sana Safinaz",
+            "slug": "sana-safinaz",
+            "package": "PREMIUM",
+            "description": "Sana Safinaz is a leading Fashion Brand that offers a wide range of Designer Ready to wear, Formal, Casual and more. ",
+            "rating": 2,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/SanaSafinaz_96bf044c-0083-49bd-a6cb-03d9772324fb-727.jpeg"
+                    ],
+                    "date": "2026-08-19T08:50:20.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/SanaSafinalogo_a06f158c-c794-4d03-8be8-a66277384d45-607.jpeg",
+                    "date": "2023-12-05T11:25:35.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 3142,
+                "name": "Safa Gold Mall Islamabad Branch",
+                "lat": 33.720328,
+                "long": 73.055554,
+                "distance": 3616.8869561330844
+            },
+            "online": true,
+            "followedByMe": false,
+            "id": 918,
+            "openNow": false,
+            "stats": {
+                "branches": 5,
+                "brandOffers": 1,
+                "partnerOffers": 5,
+                "maxDiscount": 50,
+                "discountFlag": "Up to"
+            }
+        },
+        {
+            "name": "Ideas by Gul Ahmed",
+            "slug": "ideas-by-gul-ahmed",
+            "package": "PREMIUM",
+            "description": "Home Accessories| Bedsheets | Towels | Quilt covers | Curtains.",
+            "rating": 3.4,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/Coverideas_15c27d6d-c94e-433c-b1be-6ed5e4e349aa-607.jpeg"
+                    ],
+                    "date": "2020-06-30T07:21:07.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/ideas_b8995014-9aab-483b-a882-0ba9d36b127b-269.jpeg",
+                    "date": "2019-09-12T13:59:51.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 2285,
+                "name": "F-7 Markaz Islamabad Branch",
+                "lat": 33.722637,
+                "long": 73.05952,
+                "distance": 3196.67771656346
+            },
+            "online": true,
+            "followedByMe": false,
+            "id": 771,
+            "openNow": false,
+            "stats": {
+                "branches": 4,
+                "partnerOffers": 1,
+                "maxDiscount": 1.2999999523162842,
+                "discountFlag": null
+            }
+        }
+    ]
+}

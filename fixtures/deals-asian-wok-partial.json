@@ -1,0 +1,258 @@
+{
+  "total": 34,
+  "deals": [
+    {
+      "dealId": 151396,
+      "keywords": [
+        ""
+      ],
+      "title": "50% off on Every Tuesday",
+      "startDate": "2026-09-29T00:00:00",
+      "endDate": "2027-09-12T23:59:00",
+      "poweredBy": "NONE",
+      "percentageValue": 50,
+      "targetEntityId": 11566,
+      "sourceEntityId": 96,
+      "redeemableCount": 0,
+      "orderType": "OUTLET",
+      "expiresIn": 1961636,
+      "description": "* Max Discount cap PKR 6,000/-\n* One card can avail 4 times in a month\n* Only one card can avail discount per day\n* Discount will be valid only on Mastercard Platinum Credit Card on 523849 BIN only\n* The discount cannot be availed in conjunction with other promotions, discount or vouchers offered by BOP or alliance partners.\n* The discount at the alliance partner will be available on the days and according to the situation as per the rules and regulations set on the concerned area’s government policies due to Pandemic Covid-19 (Where applicable)\n* The discounts are not valid in conjunction with other special promotions, discounts programs or vouchers defined by BOP or alliance partner\n* The Bank may together with the Alliance Partners, offer discounts from time to time, as part of promotion schemes for the Cardholders. However, the Alliance Partners have full authority to refuse any promotional offers, and the Bank shall not be liable to the Cardholder for any such refusal.\n* Bank Offers including Discounts, Promotional Offers, and Incentives that are discretionary, and the Cardholders are not entitled to claim the same as a matter of their right.\n* The discounts cannot be combined with group discounts, parties, special events or any other offers (where applicable)\n* The partners reserve the right to refuse or cancel any order for any unforeseen reason at any given time\n* BOP’s Card members are entitled to discounts in respect to payments made at the alliance partners through their BOP credit cards (selective) only and discount is not applicable on cash transaction\n* BOP shall not be responsible for any customer or third party for unsatisfactory or delayed performance of the partners, losses, damages, delays or cancellation by partners \n* BOP will not be responsible for any complaint or liability whatsoever that arises with respect to items and services availed at the mentioned partner(s)\n* BOP and the Alliance Partner reserve the right to terminate, withdraw or change the criteria of any discount offering without providing prior notice or reason\n* BOP is not liable for the accuracy of the brand offers mentioned under alliances and for updated brand offers, please refer to the relevant alliance partner’s website\n* BOP MasterCard Credit Card Terms & Conditions apply (Where applicable).",
+      "likeCount": 1,
+      "targetBranches": {
+        "161952": "Beverly Center Islamabad Branch",
+        "1422545": "I-8 Markaz Islamabad Branch",
+        "1690085": "F-11 Markaz Islamabad Branch"
+      },
+      "likedByMe": "false",
+      "dislikedByMe": "false",
+      "targetEntityName": "Asian Wok",
+      "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/Logo1_daf3499b-e0e6-4cec-838b-95c524b87c2c-328.jpeg",
+      "sourceOriginalId": 4468,
+      "sourceEntityName": "Bank of Punjab",
+      "sourceEntityDescription": "Passion Reborn! Bank of Punjab is a customer focused bank with service excellence. Here you can find all the deals and discounts on all BOP Debit Cards including MasterCard Gold Debit Card, MasterCard Silver Debit Card and MasterCard Platinum Debit Card.",
+      "sourceEntityContactNumber": "111 267 200",
+      "buy": false,
+      "apply": false,
+      "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_79b94094-4104-40d8-8659-8312d9992c6d-499.jpeg",
+      "associations": [
+        {
+          "typeId": 1837,
+          "name": "Mastercard World Credit Card",
+          "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/bopmastercardworld_b92f5b50-4990-4af7-a847-fb2809e8f383-447.png",
+          "order": 12,
+          "sourceEntityAssociationId": 2371
+        }
+      ],
+      "isRedeemable": false,
+      "redeemedCount": 0,
+      "redemptionDetails": {
+        "isRedeemable": false,
+        "redeemableCount": 0,
+        "redeemedCount": 0
+      }
+    },
+    {
+      "dealId": 151397,
+      "keywords": [
+        ""
+      ],
+      "title": "40% off on Every Tuesday",
+      "startDate": "2026-09-29T00:00:00",
+      "endDate": "2027-09-12T23:59:00",
+      "poweredBy": "NONE",
+      "percentageValue": 40,
+      "targetEntityId": 11566,
+      "sourceEntityId": 96,
+      "redeemableCount": 0,
+      "orderType": "OUTLET",
+      "expiresIn": 1961636,
+      "description": "* Max Discount cap PKR 4,000/-\n* One card can avail 4 times in a month\n* Only one card can avail discount per day\n Discount will be valid only on Mastercard World Debit Card on 53254409 BIN only.\n* Discount will be valid only on Mastercard Taqwa World Islamic Debit Card 53254435 BIN only\n* The discount cannot be availed in conjunction with other promotions, discount or vouchers offered by BOP or alliance partners.\n* The discount at the alliance partner will be available on the days and according to the situation as per the rules and regulations set on the concerned area’s government policies due to Pandemic Covid-19 (Where applicable)\n* The discounts are not valid in conjunction with other special promotions, discounts programs or vouchers defined by BOP or alliance partner\n* The Bank may together with the Alliance Partners, offer discounts from time to time, as part of promotion schemes for the Cardholders. However, the Alliance Partners have full authority to refuse any promotional offers, and the Bank shall not be liable to the Cardholder for any such refusal.\n* Bank Offers including Discounts, Promotional Offers, and Incentives that are discretionary, and the Cardholders are not entitled to claim the same as a matter of their right.\n* The discounts cannot be combined with group discounts, parties, special events or any other offers (where applicable)\n* The partners reserve the right to refuse or cancel any order for any unforeseen reason at any given time\n* BOP’s Card members are entitled to discounts in respect to payments made at the alliance partners through their BOP credit cards (selective) only and discount is not applicable on cash transaction\n* BOP shall not be responsible for any customer or third party for unsatisfactory or delayed performance of the partners, losses, damages, delays or cancellation by partners \n* BOP will not be responsible for any complaint or liability whatsoever that arises with respect to items and services availed at the mentioned partner(s)\n* BOP and the Alliance Partner reserve the right to terminate, withdraw or change the criteria of any discount offering without providing prior notice or reason\n* BOP is not liable for the accuracy of the brand offers mentioned under alliances and for updated brand offers, please refer to the relevant alliance partner’s website\n* BOP MasterCard Credit Card Terms & Conditions apply (Where applicable).",
+      "targetBranches": {
+        "161952": "Beverly Center Islamabad Branch",
+        "1422545": "I-8 Markaz Islamabad Branch",
+        "1690085": "F-11 Markaz Islamabad Branch"
+      },
+      "likedByMe": "false",
+      "dislikedByMe": "false",
+      "targetEntityName": "Asian Wok",
+      "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/Logo1_daf3499b-e0e6-4cec-838b-95c524b87c2c-328.jpeg",
+      "sourceOriginalId": 4468,
+      "sourceEntityName": "Bank of Punjab",
+      "sourceEntityDescription": "Passion Reborn! Bank of Punjab is a customer focused bank with service excellence. Here you can find all the deals and discounts on all BOP Debit Cards including MasterCard Gold Debit Card, MasterCard Silver Debit Card and MasterCard Platinum Debit Card.",
+      "sourceEntityContactNumber": "111 267 200",
+      "buy": false,
+      "apply": false,
+      "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_79b94094-4104-40d8-8659-8312d9992c6d-499.jpeg",
+      "associations": [
+        {
+          "typeId": 1880,
+          "name": "Mastercard World Debit Card",
+          "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/bopworlddebitcard_644f0853-6659-4444-96b9-0ae3ee42486f-442.png",
+          "order": 2,
+          "sourceEntityAssociationId": 2572
+        },
+        {
+          "typeId": 1881,
+          "name": "Mastercard Taqwa World Islamic Debit Card",
+          "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/bopworlddebitcardtaqwa_c2cb5c0a-dab9-434b-9642-17acea9a2792-889.png",
+          "order": 0,
+          "sourceEntityAssociationId": 2573
+        }
+      ],
+      "isRedeemable": false,
+      "redeemedCount": 0,
+      "redemptionDetails": {
+        "isRedeemable": false,
+        "redeemableCount": 0,
+        "redeemedCount": 0
+      }
+    },
+    {
+      "dealId": 151398,
+      "keywords": [
+        ""
+      ],
+      "title": "30% off on Every Tuesday",
+      "startDate": "2026-09-29T00:00:00",
+      "endDate": "2027-09-12T23:59:00",
+      "poweredBy": "NONE",
+      "percentageValue": 30,
+      "targetEntityId": 11566,
+      "sourceEntityId": 96,
+      "redeemableCount": 0,
+      "orderType": "OUTLET",
+      "expiresIn": 1961636,
+      "description": "* Max Discount cap PKR 4,000/-\n* One card can avail 4 times in a month\n* Only one card can avail discount per day\n* Discount will be valid only on Mastercard Platinum Credit Card on 523849 BIN only.\n* The discount cannot be availed in conjunction with other promotions, discount or vouchers offered by BOP or alliance partners.\n* The discount at the alliance partner will be available on the days and according to the situation as per the rules and regulations set on the concerned area’s government policies due to Pandemic Covid-19 (Where applicable)\n* The discounts are not valid in conjunction with other special promotions, discounts programs or vouchers defined by BOP or alliance partner\n* The Bank may together with the Alliance Partners, offer discounts from time to time, as part of promotion schemes for the Cardholders. However, the Alliance Partners have full authority to refuse any promotional offers, and the Bank shall not be liable to the Cardholder for any such refusal.\n* Bank Offers including Discounts, Promotional Offers, and Incentives that are discretionary, and the Cardholders are not entitled to claim the same as a matter of their right.\n* The discounts cannot be combined with group discounts, parties, special events or any other offers (where applicable)\n* The partners reserve the right to refuse or cancel any order for any unforeseen reason at any given time\n* BOP’s Card members are entitled to discounts in respect to payments made at the alliance partners through their BOP credit cards (selective) only and discount is not applicable on cash transaction\n* BOP shall not be responsible for any customer or third party for unsatisfactory or delayed performance of the partners, losses, damages, delays or cancellation by partners \n* BOP will not be responsible for any complaint or liability whatsoever that arises with respect to items and services availed at the mentioned partner(s)\n* BOP and the Alliance Partner reserve the right to terminate, withdraw or change the criteria of any discount offering without providing prior notice or reason\n* BOP is not liable for the accuracy of the brand offers mentioned under alliances and for updated brand offers, please refer to the relevant alliance partner’s website\n* BOP MasterCard Credit Card Terms & Conditions apply (Where applicable).",
+      "targetBranches": {
+        "161952": "Beverly Center Islamabad Branch",
+        "1422545": "I-8 Markaz Islamabad Branch",
+        "1690085": "F-11 Markaz Islamabad Branch"
+      },
+      "likedByMe": "false",
+      "dislikedByMe": "false",
+      "targetEntityName": "Asian Wok",
+      "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/Logo1_daf3499b-e0e6-4cec-838b-95c524b87c2c-328.jpeg",
+      "sourceOriginalId": 4468,
+      "sourceEntityName": "Bank of Punjab",
+      "sourceEntityDescription": "Passion Reborn! Bank of Punjab is a customer focused bank with service excellence. Here you can find all the deals and discounts on all BOP Debit Cards including MasterCard Gold Debit Card, MasterCard Silver Debit Card and MasterCard Platinum Debit Card.",
+      "sourceEntityContactNumber": "111 267 200",
+      "buy": false,
+      "apply": false,
+      "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_79b94094-4104-40d8-8659-8312d9992c6d-499.jpeg",
+      "associations": [
+        {
+          "typeId": 1835,
+          "name": "Mastercard Platinum Credit Card",
+          "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/mastercardplatinumcard_684a9d52-734a-40cb-ae51-45e6b770d1dc-208.png",
+          "order": 11,
+          "sourceEntityAssociationId": 2349
+        }
+      ],
+      "isRedeemable": false,
+      "redeemedCount": 0,
+      "redemptionDetails": {
+        "isRedeemable": false,
+        "redeemableCount": 0,
+        "redeemedCount": 0
+      }
+    },
+    {
+      "dealId": 150239,
+      "keywords": [
+        ""
+      ],
+      "title": "35% off",
+      "startDate": "2026-08-25T14:51:00",
+      "endDate": "2026-12-31T23:59:00",
+      "poweredBy": "NONE",
+      "percentageValue": 35,
+      "targetEntityId": 11566,
+      "sourceEntityId": 46,
+      "redeemableCount": 0,
+      "orderType": "OUTLET",
+      "expiresIn": 1961636,
+      "description": "* 35% or Rs. 5000/- whichever is lower\n* The offer is not valid in conjunction with any other promotions/deals. \n* HABIB METRO will not be responsible for any complaints or liability arising from services or items ordered. \n* HABIB METRO reserves the right to terminate or withdraw or change the criteria of any discount offering without providing any prior notice.\n* Thank you for your cooperation.",
+      "targetBranches": {
+        "161952": "Beverly Center Islamabad Branch",
+        "1422545": "I-8 Markaz Islamabad Branch",
+        "1690085": "F-11 Markaz Islamabad Branch"
+      },
+      "likedByMe": "false",
+      "dislikedByMe": "false",
+      "targetEntityName": "Asian Wok",
+      "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/Logo1_daf3499b-e0e6-4cec-838b-95c524b87c2c-328.jpeg",
+      "sourceOriginalId": 782,
+      "sourceEntityName": "Habib Metro Bank",
+      "sourceEntityDescription": "Stay Ahead! HABIBMETRO has its primary focus on retail banking and trade finance and also offers highly innovative E-Banking solutions and Consumer Banking to its account holders (customers). Here you can find all the deals and discounts on all HMB Debit Cards including Visa Debit Card, Visa Gold Debit Card, Visa Platinum Debit Card and Visa Premium Debit Card.",
+      "sourceEntityContactNumber": "111 141 414",
+      "buy": false,
+      "apply": false,
+      "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy5_7423a554-97fa-49a7-8cad-8ccc41ed6340-412.jpeg",
+      "associations": [
+        {
+          "typeId": 1959,
+          "name": "Visa Signature Business Card",
+          "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/hmbvisasignaturebusinessdebitcard_5eab41fc-b016-4ab8-9f80-447ad6c84dad-77.png",
+          "order": 4,
+          "sourceEntityAssociationId": 3015
+        }
+      ],
+      "isRedeemable": false,
+      "redeemedCount": 0,
+      "redemptionDetails": {
+        "isRedeemable": false,
+        "redeemableCount": 0,
+        "redeemedCount": 0
+      }
+    },
+    {
+      "dealId": 147523,
+      "keywords": [
+        ""
+      ],
+      "title": "25% off",
+      "startDate": "2026-07-01T00:00:00",
+      "endDate": "2027-05-01T23:59:00",
+      "poweredBy": "NONE",
+      "percentageValue": 25,
+      "targetEntityId": 11566,
+      "sourceEntityId": 37,
+      "redeemableCount": 0,
+      "orderType": "OUTLET",
+      "expiresIn": 1961636,
+      "description": "* 25% or max discount of PKR 4,000/- can be availed per transaction.\n* 01 discounted transaction can be availed per card per day\n* The discounts are not valid in conjunction with other special promotions, discounts programs or vouchers defined by Askari Bank or alliance partner\n* The discounts cannot be combined with group discounts, parties, special events or any other offers (where applicable)\n* The partners reserve the right to refuse or cancel any order for any unforeseen reason at any given time\n* Askari Bank’s eligible Credit & Debit Card members are entitled to discounts in respect to payments made at the alliance partners through their Askari Credit & Debit Cards only and discount is not applicable on cash transaction\n* Askari Bank shall not be responsible for any customer or third party for unsatisfactory or delayed performance of the partners, losses, damages, delays or cancellation by partners\n* Askari Bank will not be responsible for any complaint or liability whatsoever that arises with respect to items and services availed at the mentioned partner(s)\n* Askari Bank and the Alliance Partner reserve the right to terminate, withdraw or change the criteria of any discount offering without providing prior notice or reason\n* Askari Bank is not liable for the accuracy of the brand offers mentioned under alliances and for updated brand offers, please refer to the relevant alliance partner’s website\n* Askari Credit Card & Askari Debit Card Terms and Conditions apply\n* Alliance Partner Terms & Conditions Apply.",
+      "targetBranches": {
+        "161952": "Beverly Center Islamabad Branch",
+        "1422545": "I-8 Markaz Islamabad Branch",
+        "1690085": "F-11 Markaz Islamabad Branch"
+      },
+      "likedByMe": "false",
+      "dislikedByMe": "false",
+      "targetEntityName": "Asian Wok",
+      "targetEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/Logo1_daf3499b-e0e6-4cec-838b-95c524b87c2c-328.jpeg",
+      "sourceOriginalId": 322,
+      "sourceEntityName": "Askari Bank Limited",
+      "sourceEntityDescription": "To be the bank of first choice in the region. Askari Bank provides easy car financing scheme and car loan to its customers. Here you can find all the deal and discounts on all Askari Bank Credit and Debit Card including Master Platinum Credit Card, Master Silver Credit Card, Master Gold Credit Card, Visa Gold Debit Card, Visa Classic Debit Card etc..",
+      "sourceEntityContactNumber": "111 000 787",
+      "buy": false,
+      "apply": false,
+      "sourceEntityLogo": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_eb51b57b-2c91-42fd-be87-eb3d674ccdbe-843.jpeg",
+      "associations": [
+        {
+          "typeId": 1909,
+          "name": "Askari Visa Platinum Debit Card",
+          "image": "https://d2liqplnt17rh6.cloudfront.net/cardImages/askarivisaplatinumdebitcard_c58bcc45-7a11-49ef-85ac-84ea9ac56916-843.png",
+          "order": 0,
+          "sourceEntityAssociationId": 2771
+        }
+      ],
+      "isRedeemable": false,
+      "redeemedCount": 0,
+      "redemptionDetails": {
+        "isRedeemable": false,
+        "redeemableCount": 0,
+        "redeemedCount": 0
+      }
+    }
+  ]
+}

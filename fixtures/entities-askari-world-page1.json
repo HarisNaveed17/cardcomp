@@ -1,0 +1,451 @@
+{
+    "total": 167,
+    "nextPage": true,
+    "entities": [
+        {
+            "name": "Bar.B.Q Tonight",
+            "slug": "barbq-tonight",
+            "package": "PREMIUM",
+            "description": "Bar B.Q.Tonight, a premium Pakistani, Afghani restaurant in Pakistan.",
+            "rating": 3.6,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/cover_7c5ca856-f0c5-4eab-a80c-0a01e96e5360-603.jpeg"
+                    ],
+                    "date": "2023-08-03T05:13:32.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy0_0def5e7f-002a-469d-a0a6-ca1bccd22a98-781.jpeg",
+                    "date": "2025-06-10T07:27:53.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 28,
+                "name": "Blue Area Islamabad Branch",
+                "lat": 33.72523199,
+                "long": 73.08659479,
+                "distance": 761.4099742753573
+            },
+            "online": false,
+            "followedByMe": false,
+            "id": 10,
+            "openNow": true,
+            "stats": {
+                "branches": 1,
+                "partnerOffers": 1,
+                "maxDiscount": 40,
+                "discountFlag": null
+            }
+        },
+        {
+            "name": "Asian Wok",
+            "slug": "asian-wok",
+            "package": "PREMIUM",
+            "description": "Chinese restaurant.",
+            "rating": 4,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/cover_674d3cea-a229-49d4-9a1f-ed03dddb5a90-484.jpeg"
+                    ],
+                    "date": "2024-07-15T10:49:51.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/Logo1_daf3499b-e0e6-4cec-838b-95c524b87c2c-328.jpeg",
+                    "date": "2024-11-04T12:12:40.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 161952,
+                "name": "Beverly Center Islamabad Branch",
+                "lat": 33.72018127,
+                "long": 73.07382077,
+                "distance": 2058.1281939803544
+            },
+            "online": false,
+            "followedByMe": false,
+            "id": 11566,
+            "openNow": true,
+            "stats": {
+                "branches": 3,
+                "partnerOffers": 1,
+                "maxDiscount": 30,
+                "discountFlag": null
+            }
+        },
+        {
+            "name": "YUM Chinese & Thai",
+            "slug": "yum-chinese--thai",
+            "package": "PREMIUM",
+            "description": "An authentic Chinese & Thai experience in the heart of Gulberg and DHA, Lahore,Yum provides true Chinese and Thai cuisine in a comfortable, Family Setting.",
+            "rating": 4.8,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/foodcover_52428717-7935-495c-b2bd-5f2912509bee-835.jpeg"
+                    ],
+                    "date": "2024-06-25T06:44:33.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/yumjlogo_f8761ec2-d8bd-4dda-8c69-141c19e53fb8-123.jpeg",
+                    "date": "2021-09-20T12:17:24.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 22595,
+                "name": "Rana Market Islamabad Branch",
+                "lat": 33.7215176,
+                "long": 73.05109978,
+                "distance": 3982.763691293166
+            },
+            "online": false,
+            "followedByMe": false,
+            "id": 619,
+            "openNow": true,
+            "stats": {
+                "branches": 1,
+                "partnerOffers": 2,
+                "maxDiscount": 50,
+                "discountFlag": "Up to"
+            }
+        },
+        {
+            "name": "English Tea House",
+            "slug": "english-tea-house",
+            "package": "PREMIUM",
+            "description": "Good food for all celebrations and successes. Serving Breakfast, Lunch, Afternoon Tea and Dinner, daily.",
+            "rating": 4.5,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/Bakerycover2_6e48f6ca-b97c-445f-851c-95d31849d373-290.jpeg"
+                    ],
+                    "date": "2026-05-06T12:13:57.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/englishteahouselogo_ada442cd-af4c-4a54-a936-9d5d9682c821-43.jpeg",
+                    "date": "2021-04-20T06:17:54.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 274737,
+                "name": "F-7 Markaz Islamabad Branch",
+                "lat": 33.72159122,
+                "long": 73.05101395,
+                "distance": 3988.716002577375
+            },
+            "online": false,
+            "followedByMe": false,
+            "id": 4944,
+            "openNow": true,
+            "stats": {
+                "branches": 1,
+                "partnerOffers": 2,
+                "maxDiscount": 50,
+                "discountFlag": "Up to"
+            }
+        },
+        {
+            "name": "Rinas kitchenette",
+            "slug": "rinas-kitchenette",
+            "package": "PREMIUM",
+            "description": "Home to the original Chocolate Toblerone and Caramel Crunch.",
+            "rating": 4.7,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/RinasKitchenette_11b190b5-60e7-4548-8181-33306b198c28-450.jpeg"
+                    ],
+                    "date": "2025-10-01T06:17:40.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+                    "date": "2024-01-18T12:28:49.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 2026015,
+                "name": "Firdous Market Islamabad Branch",
+                "lat": 33.73106372,
+                "long": 73.06946956,
+                "distance": 2195.7724056392335
+            },
+            "online": false,
+            "followedByMe": false,
+            "id": 1432,
+            "openNow": true,
+            "stats": {
+                "branches": 1,
+                "partnerOffers": 1,
+                "maxDiscount": 40,
+                "discountFlag": null
+            }
+        },
+        {
+            "name": "Chashni",
+            "slug": "chashni",
+            "package": "PREMIUM",
+            "description": "At Chashni, our visionary & innovative team of mithai specialists are determined to bring great tastes to life's sweet moments. Chashni pays tribute to our rich history and are prepared under strict int'l standards. Chashni, Pakistan's Favourite Mithai.",
+            "rating": 4.1,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/Chashni_3d86c513-9e08-4d98-8471-13c114d6d45e-781.jpeg"
+                    ],
+                    "date": "2026-07-10T08:48:37.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/Chashnilogo_c04a7ed2-c80e-407f-96d7-ff2a4cef5a00-609.gif",
+                    "date": "2023-06-27T05:41:07.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 64226,
+                "name": "Rana Market Islamabad Branch",
+                "lat": 33.72158133,
+                "long": 73.05104558,
+                "distance": 3986.102036567027
+            },
+            "online": false,
+            "followedByMe": false,
+            "id": 8194,
+            "openNow": true,
+            "stats": {
+                "branches": 2,
+                "partnerOffers": 1,
+                "maxDiscount": 30,
+                "discountFlag": null
+            }
+        },
+        {
+            "name": "California Pizza",
+            "slug": "california-pizza",
+            "package": "PREMIUM",
+            "description": "Experience the real side of flavors.",
+            "rating": 3.7,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/Covercalorfnia_3a80418b-1e0a-4b1d-8054-57402570cc1d-714.jpeg"
+                    ],
+                    "date": "2020-07-03T05:10:03.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/californiapizzajlogo_2edf97c6-747c-4a13-b3af-510d56a668f3-110.jpeg",
+                    "date": "2021-07-05T11:17:44.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 1319052,
+                "name": "Centaurus Mall Islamabad Branch",
+                "lat": 33.70803289,
+                "long": 73.04962993,
+                "distance": 4669.514489208926
+            },
+            "online": false,
+            "followedByMe": false,
+            "id": 599,
+            "openNow": true,
+            "stats": {
+                "branches": 1,
+                "brandOffers": 12,
+                "partnerOffers": 1,
+                "maxDiscount": 30,
+                "discountFlag": null
+            }
+        },
+        {
+            "name": "The Monal",
+            "slug": "the-monal",
+            "package": "PREMIUM",
+            "description": "Since 2015, The Monal has been serving its customer with Fine dining experiences. It has become the arena of restaurant industry with consistently pleasurable dining in an elegant atmosphere and refined sophistication. At Monal we take pride in offering an authentic Pakistani cuisine that is as rich and diverse as our legacy.",
+            "rating": 4.2,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/TheMonal_168a616d-cde7-43e9-b602-26555b327134-831.jpeg"
+                    ],
+                    "date": "2026-07-13T08:45:26.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo2_e4821664-5b6f-4bb6-991c-36833bb07b5a-32.jpeg",
+                    "date": "2023-07-06T12:53:28.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 1587283,
+                "name": "Imarat Downtown Islamabad Branch",
+                "lat": 33.5708352,
+                "long": 73.1593421,
+                "distance": 18650.601386135782
+            },
+            "online": false,
+            "followedByMe": false,
+            "id": 604,
+            "openNow": true,
+            "stats": {
+                "branches": 1,
+                "partnerOffers": 1,
+                "maxDiscount": 30,
+                "discountFlag": null
+            }
+        },
+        {
+            "name": "Kitchen Cuisine",
+            "slug": "kitchen-cuisine",
+            "package": "PREMIUM",
+            "description": "Made with love for food connoisseurs, handcrafted to delight the most refined palates.",
+            "rating": 5,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/Coverkitchencuisine_a70f6ea8-1249-46d0-9669-4c2374773560-710.jpeg"
+                    ],
+                    "date": "2025-03-28T08:14:13.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/kitchencuisinelogo_829edc7c-e2c9-4ade-a2e6-61ade1532c90-201.jpeg",
+                    "date": "2024-04-04T11:53:37.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 481,
+                "name": "F-7 Markaz Islamabad Branch",
+                "lat": 33.71877799,
+                "long": 73.05445522,
+                "distance": 3764.879635839779
+            },
+            "online": false,
+            "followedByMe": false,
+            "id": 208,
+            "openNow": true,
+            "stats": {
+                "branches": 4,
+                "partnerOffers": 1,
+                "maxDiscount": 50,
+                "discountFlag": null
+            }
+        },
+        {
+            "name": "Chughtai Lab",
+            "slug": "chughtai-lab",
+            "package": "PREMIUM",
+            "description": "Established in 1983, Chughtai Lab is the leading diagnostic lab in Pakistan. Today, with a team of 80+ pathologists & 300+ lab scientists, we serve patients in 100+ cities through a network of regional labs & 350+ collection centers.",
+            "rating": 2.6,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/cover_78d29474-08b3-4720-9c09-b444d06cdee8-205.jpeg"
+                    ],
+                    "date": "2024-11-14T06:02:32.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo2_c269aeae-20d8-461d-9135-5ec1abf9ec2a-377.jpeg",
+                    "date": "2024-09-11T09:30:01.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 384951,
+                "name": "Blue Area Islamabad Branch",
+                "lat": 33.70947759,
+                "long": 73.05737511,
+                "distance": 3977.817373206125
+            },
+            "online": false,
+            "followedByMe": false,
+            "id": 226,
+            "openNow": true,
+            "stats": {
+                "branches": 4,
+                "partnerOffers": 1,
+                "maxDiscount": 10,
+                "discountFlag": null
+            }
+        },
+        {
+            "name": "Tuscany Courtyard",
+            "slug": "tuscany-courtyard",
+            "package": "PREMIUM",
+            "description": "Italian Restaurant",
+            "rating": 5,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/TuscanyCourtyardIslamabad_715ddaa9-a98a-4ac1-be97-f74b388fffbd-502.jpeg"
+                    ],
+                    "date": "2026-07-14T07:20:01.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logocopy1_d3f61ce0-a121-481b-807b-7273857070a7-485.jpeg",
+                    "date": "2023-11-27T09:22:21.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 2918,
+                "name": "Kohsar Market Islamabad Branch",
+                "lat": 33.7355372,
+                "long": 73.07834767,
+                "distance": 1528.6234357677265
+            },
+            "online": false,
+            "followedByMe": false,
+            "id": 883,
+            "openNow": true,
+            "stats": {
+                "branches": 1,
+                "partnerOffers": 1,
+                "maxDiscount": 40,
+                "discountFlag": null
+            }
+        },
+        {
+            "name": "The Coffee Bean & Tea Leaf ",
+            "slug": "the-coffee-bean--tea-leaf-",
+            "package": "PREMIUM",
+            "description": "Awaken the possibility in your day!",
+            "rating": 4.1,
+            "sourceEntityId": null,
+            "richContent": {
+                "cover": {
+                    "content": [
+                        "https://d2liqplnt17rh6.cloudfront.net/coverImages/cccv_7678ac4d-26c2-44ab-9223-4aada4452adf-210.jpeg"
+                    ],
+                    "date": "2025-01-17T12:38:37.000Z"
+                },
+                "logo": {
+                    "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo2copy_406523b4-ec91-4d81-8924-3a3a374dcda5-267.jpeg",
+                    "date": "2025-01-17T12:47:23.000Z"
+                }
+            },
+            "nearestBranch": {
+                "id": 67365,
+                "name": "Mount View Plaza Islamabad Branch",
+                "lat": 33.73195988,
+                "long": 73.07927102,
+                "distance": 1313.595674444125
+            },
+            "online": false,
+            "followedByMe": false,
+            "id": 8589,
+            "openNow": true,
+            "stats": {
+                "branches": 10,
+                "partnerOffers": 1,
+                "maxDiscount": 40,
+                "discountFlag": null
+            }
+        }
+    ]
+}

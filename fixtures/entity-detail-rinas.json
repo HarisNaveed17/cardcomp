@@ -1,0 +1,147 @@
+{
+    "name": "Rinas kitchenette",
+    "slug": "rinas-kitchenette",
+    "package": "PREMIUM",
+    "description": "Home to the original Chocolate Toblerone and Caramel Crunch.",
+    "keywords": "rinaskitchenette, chocolate, cake, cafe, food, breakfast, coffee, restaurant, rinas",
+    "rating": 4.7,
+    "sourceEntityId": null,
+    "contactNumber": [
+        "+92 111 222 333"
+    ],
+    "richContent": {
+        "cover": {
+            "content": [
+                "https://d2liqplnt17rh6.cloudfront.net/coverImages/RinasKitchenette_11b190b5-60e7-4548-8181-33306b198c28-450.jpeg"
+            ],
+            "date": "2025-10-01T06:17:40.000Z"
+        },
+        "logo": {
+            "content": "https://d2liqplnt17rh6.cloudfront.net/logoImages/logo_8ae4acba-eea9-4eb3-8096-9a0dcf9528cc-975.jpeg",
+            "date": "2024-01-18T12:28:49.000Z"
+        },
+        "gallery": {
+            "content": [
+                "https://d2liqplnt17rh6.cloudfront.net/galleryImages/Gallerycopy11_60767262-1c42-4d63-8dda-d356aa2fa3e7-346.jpeg",
+                "https://d2liqplnt17rh6.cloudfront.net/galleryImages/Gallerycopy6_45b595b3-451d-4b34-832f-e41b341ed62d-187.jpeg",
+                "https://d2liqplnt17rh6.cloudfront.net/galleryImages/Gallerycopy7_11d61c8e-cd8f-4fda-a688-c9eeb7d416a9-800.jpeg",
+                "https://d2liqplnt17rh6.cloudfront.net/galleryImages/Gallerycopy8_fcb52cdd-43b2-4c8b-8582-2ce4d7772c69-384.jpeg",
+                "https://d2liqplnt17rh6.cloudfront.net/galleryImages/Gallerycopy9_b07bc381-79b4-4eb6-bfe3-738fdfc8d6f5-661.jpeg"
+            ],
+            "date": "2025-06-11T11:33:27.000Z"
+        },
+        "menu": {
+            "content": [
+                "https://d2liqplnt17rh6.cloudfront.net/menuImages/M1_3a576d07-4ca3-40ab-ac10-a24b746da332-177.jpeg",
+                "https://d2liqplnt17rh6.cloudfront.net/menuImages/M2_77b1f9ec-4957-46a4-870e-459e1bee168b-252.jpeg",
+                "https://d2liqplnt17rh6.cloudfront.net/menuImages/M3_6c4cd7e8-7252-417d-9f5d-270328561c45-672.jpeg",
+                "https://d2liqplnt17rh6.cloudfront.net/menuImages/M4_ab1112c5-7aa3-41ec-b58a-99fca43ae677-614.jpeg",
+                "https://d2liqplnt17rh6.cloudfront.net/menuImages/M5_ebf30818-7f33-4149-9f32-1d4169dd3bb2-727.jpeg",
+                "https://d2liqplnt17rh6.cloudfront.net/menuImages/M6_9a44bb88-a084-4802-8631-6d6a4f53b63c-652.jpeg",
+                "https://d2liqplnt17rh6.cloudfront.net/menuImages/M7_08982b2d-2ba6-489f-aac4-05e51dae8afe-775.jpeg",
+                "https://d2liqplnt17rh6.cloudfront.net/menuImages/M8_b28614e3-ac71-49e7-ada2-a6d28247b6a6-747.jpeg",
+                "https://d2liqplnt17rh6.cloudfront.net/menuImages/M9_2c319687-000f-46db-8be3-87c7bcbb0c49-649.jpeg",
+                "https://d2liqplnt17rh6.cloudfront.net/menuImages/M10_060b87f5-1bda-4baa-8a40-a62cdf8f68bd-781.jpeg",
+                "https://d2liqplnt17rh6.cloudfront.net/menuImages/M11_82228274-a2d2-432c-8628-5786c1b993e2-575.jpeg",
+                "https://d2liqplnt17rh6.cloudfront.net/menuImages/M12_58f9c316-634e-4786-854d-d58ec2faae97-658.jpeg",
+                "https://d2liqplnt17rh6.cloudfront.net/menuImages/M13_d1ce960c-59cb-48a2-9099-0af67a1fa13d-693.jpeg",
+                "https://d2liqplnt17rh6.cloudfront.net/menuImages/M14_259811dd-7b7e-45d6-8e1e-a1507fdb11cc-751.jpeg",
+                "https://d2liqplnt17rh6.cloudfront.net/menuImages/M15_ecfb342d-bc31-4844-90b8-9704cd269660-753.jpeg"
+            ],
+            "date": "2026-07-10T08:36:54.000Z"
+        }
+    },
+    "social": {
+        "facebook": "https://facebook.com/rinaskitchenette",
+        "email": "rinakitchenette@gmail.com",
+        "website": "https://rinas.pk",
+        "instagram": "https://instagram.com/rinas.pk"
+    },
+    "meta": {},
+    "tags": [
+        {
+            "tagId": 129,
+            "tag": "Bakery",
+            "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/fd46f8b8-84f7-4dac-a9a3-b46025832de8-539.png",
+            "cover": null
+        },
+        {
+            "tagId": 131,
+            "tag": "Beverages",
+            "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/11e54e85-bbc3-4a3a-9936-8e35043f78f7-331.png",
+            "cover": null
+        },
+        {
+            "tagId": 137,
+            "tag": "Ice Cream",
+            "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/a6650cb8-e785-4582-a937-4c64ebeef174-923.png",
+            "cover": null
+        },
+        {
+            "tagId": 139,
+            "tag": "Pizza",
+            "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/fbd2fc21-6f6c-4a18-a7fa-3b0025385458-894.png",
+            "cover": null
+        },
+        {
+            "tagId": 142,
+            "tag": "Tea",
+            "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/a8b897c2-a31a-4668-88ad-1db65865de1d-167.png",
+            "cover": null
+        },
+        {
+            "tagId": 258,
+            "tag": "Dessert",
+            "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/2ca8bafa-473a-405a-b65e-f33d617103c5-69.png",
+            "cover": null
+        },
+        {
+            "tagId": 264,
+            "tag": "Cakes",
+            "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/f01eff09-0e49-4706-933a-1112c01f573f-38.png",
+            "cover": null
+        },
+        {
+            "tagId": 266,
+            "tag": "Shakes",
+            "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/1b051b99-9c61-425e-a21e-ec94e0c527f6-742.png",
+            "cover": null
+        },
+        {
+            "tagId": 267,
+            "tag": "Snacks",
+            "image": "https://d2liqplnt17rh6.cloudfront.net/tagImages/5cb4827c-65ee-4679-8d6d-9c7f1a8aae6a-475.png",
+            "cover": null
+        }
+    ],
+    "myReviewId": null,
+    "myRating": null,
+    "isRedeemable": false,
+    "redeemableCount": 0,
+    "redeemedCount": 0,
+    "redemptionDetails": {
+        "isRedeemable": false,
+        "redeemableCount": 0,
+        "redeemedCount": 0
+    },
+    "nearestBranch": {
+        "id": 2026015,
+        "name": "Firdous Market Islamabad Branch",
+        "lat": 33.73106372,
+        "long": 73.06946956,
+        "distance": 2195.7724056392335
+    },
+    "online": true,
+    "followedByMe": false,
+    "id": 1432,
+    "openNow": false,
+    "stats": {
+        "branches": 1,
+        "partnerOffers": 27,
+        "maxDiscount": 50,
+        "discountFlag": "Up to",
+        "widgets": 42,
+        "reviews": 17,
+        "followers": 149
+    }
+}

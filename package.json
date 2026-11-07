@@ -1,0 +1,14 @@
+{
+  "name": "best-card-for-you",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "Chrome extension that compares Pakistani bank card discounts.",
+  "scripts": {
+    "test": "node --test \"test/*.test.js\"",
+    "icons": "python3 scripts/make-icons.py",
+    "package": "bash scripts/package.sh",
+    "dev": "bash scripts/dev.sh",
+    "build:web": "bash scripts/build-web.sh"
+  }
+}

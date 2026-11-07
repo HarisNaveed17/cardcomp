@@ -1,0 +1,42 @@
+(index)
+bank
+cards
+typeIds
+pct
+cap
+title
+ends
+0	'Bank of Punjab'	'Mastercard World Credit Card'	'1837'	50	6000	'50% off on Every Tuesday'	'2027-09-12'
+1	'Bank of Punjab'	'Mastercard World Debit Card, Mastercard Taqwa World Islamic Debit Card'	'1880,1881'	40	4000	'40% off on Every Tuesday'	'2027-09-12'
+2	'Bank of Punjab'	'Mastercard Platinum Credit Card'	'1835'	30	4000	'30% off on Every Tuesday'	'2027-09-12'
+3	'Habib Metro Bank'	'Visa Signature Business Card'	'1959'	35	5000	'35% off'	'2026-12-31'
+4	'Askari Bank Limited'	'Askari Visa Platinum Debit Card'	'1909'	25	4000	'25% off'	'2027-05-01'
+5	'Askari Bank Limited'	'Askari Gold Credit Card, Askari Sahar Visa Debit Card, Askari Visa Gold Debit Card'	'639,1898,638'	15	1500	'15% off'	'2027-05-01'
+6	'Askari Bank Limited'	'Askari Classic Credit Card, Askari Visa Classic Debit Card'	'640,637'	10	1000	'10% off'	'2027-05-01'
+7	'Faysal Bank Limited'	'Amal Mastercard Platinum Debit Card, Faysal Islami…num Debit Card, Faysal Islami Noor Platinum Card'	'1861,1836,1813'	25	3000	'25% off Everyday'	'2026-12-31'
+8	'Faysal Bank Limited'	'Faysal Islami Noor World Card, Faysal Islami Priority World Debit Card'	'1814,1878'	40	7500	'40% off Everyday'	'2026-12-31'
+9	'Bank Alfalah'	'Bank Alfalah Islamic Premier Visa Infinite Debit C…d, Bank Alfalah Premier Visa Signature Debit Card'	'1918,1863,1917,1916,1565'	25	5000	'25% off Everyday'	'2026-12-31'
+10	'United Bank Limited (UBL)'	'UBL Visa Platinum Credit Card'	'1008'	25	3000	'25% off'	'2026-12-31'
+11	'United Bank Limited (UBL)'	'UBL Visa Infinite Debit Card, Mastercard Signature Debit Card'	'1873,1011'	30	5000	'30% off'	'2026-12-31'
+12	'Allied Bank'	'Visa Infinite Debit Card'	'1950'	50	10000	'50% off'	'2036-12-31'
+13	'MCB Islamic Bank Ltd'	'Visa Platinum Business Debit Card, Visa Platinum Debit Card'	'1949,1946'	40	5000	'40% off Everyday'	'2027-06-30'
+14	'MCB Islamic Bank Ltd'	'Visa Gold Debit Card, Visa FCY Debit Card, Visa Niswan Debit Card'	'1943,1947,1945'	20	2500	'20% off Everyday'	'2027-06-30'
+15	'MCB Islamic Bank Ltd'	'Visa Classic Debit Card, Visa Junior Club Debit Card'	'1944,1948'	15	1500	'15% off Everyday'	'2027-06-30'
+16	'Meezan Bank'	'Mastercard World Debit Card'	'1740'	30	5000	'30% off'	'2027-08-31'
+17	'Meezan Bank'	'Visa Infinite Debit Card'	'1849'	40	8000	'40% off'	'2027-08-31'
+18	'Allied Bank'	'Visa Platinum Debit Card, Visa Platinum Credit Card'	'1733,631'	15	2000	'15% off'	'2036-12-31'
+19	'Allied Bank'	'Visa Premium Debit Card'	'1600'	20	4000	'20% off'	'2036-12-31'
+20	'Askari Bank Limited'	'Askari Visa Signature Debit Card'	'1928'	40	8000	'40% off'	'2027-05-01'
+21	'Askari Bank Limited'	'Askari World Credit Card'	'636'	30	6000	'30% off'	'2027-05-01'
+22	'Askari Bank Limited'	'Askari Platinum Credit Card, Askari Corporate Credit Card'	'632,633'	20	3000	'20% off'	'2027-05-01'
+23	'MCB Islamic Bank Ltd'	'UnionPay Platinum Debit Card'	'1874'	30	4000	'30% off on Every Monday, Tuesday & Wednesday'	'2027-06-30'
+24	'MCB Islamic Bank Ltd'	'UnionPay Qadar Gold Debit Card, UnionPay Qadar Classic Debit Card, PayPak Classic Debit Card'	'1876,1877,1875'	15	1500	'15% off on Every Monday, Tuesday & Wednesday'	'2027-06-30'
+25	'MCB Bank Limited'	'Visa Platinum Credit Card, Visa Platinum Debit Card'	'863,862'	30	5000	'30% off on Every Saturday'	'2026-12-31'
+26	'MCB Bank Limited'	'Nayab Visa Debit Card, Visa Gold Credit Card, Visa Gold Debit Card'	'1884,861,859'	20	2000	'20% off on Every Saturday'	'2026-12-31'
+27	'MCB Bank Limited'	'Visa Signature Debit Card'	'1879'	30	5000	'30% off Everyday'	'2026-12-31'
+28	'JS Bank'	'Private Banking Visa Signature Credit Card'	'1586'	40	5000	'40% off on Every Friday, Saturday & Sunday'	'2026-10-31'
+29	'JS Bank'	'Mastercard World Debit Card, Visa Platinum Credit Card'	'1820,837'	30	4000	'30% off on Every Friday, Saturday & Sunday'	'2026-10-31'
+30	'Habib Metro Bank'	'Visa Ladies Debit Card'	'1852'	25	2000	'25% off'	'2026-12-31'
+31	'Habib Metro Bank'	'Visa Platinum Debit Card'	'817'	30	2500	'30% off'	'2026-12-31'
+32	'Bank AL Habib'	'Visa Signature Debit Card'	'1889'	30	null	'30% off'	'2027-05-31'
+33	'Bank AL Habib'	'Mastercard Platinum Credit Card, Visa Platinum Debit Card'	'1982,1728'	20	null	'20% off'	'2027-05-31'
